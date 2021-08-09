@@ -16,7 +16,7 @@ contains category wise problems(data structures, competitive) of popular platfor
 ### Structure of ProblemList.md
 
   ##(space)Topic<br><br>
-  1.(space)ProblemName_with_link + Link_of_recommended_solution(optional)<br>
-    some_details(optional)<br>
-  2.(space)ProblemName_with_link + Link_of_recommended_solution(optional)<br>
+  1.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional)<br>
+    some_details(optional)<br><br>
+  2.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional)<br>
       some_details(optional)
