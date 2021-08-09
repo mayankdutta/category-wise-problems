@@ -3,8 +3,9 @@
     - Things I learnt
       - How/Why To implement 0-1 BFS
       - Detailed view acc. to my perspective, will be updated soon. 
-2. [E-stronger takashi](https://atcoder.jp/contests/abc213/tasks/abc213_e), ABC problem-E
-    - not a diff. problem, similar of above one. 
+    - Same problems on above topic, no new techniques.
+        - [E-stronger takashi](https://atcoder.jp/contests/abc213/tasks/abc213_e), ABC problem-E
+    
 
 ## DP
 1. [D. cooking](https://atcoder.jp/contests/abc204/tasks/abc204_d), ABC problem-D<br>
