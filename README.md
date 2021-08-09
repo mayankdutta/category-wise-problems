@@ -3,20 +3,22 @@ contains category wise problems(data structures, competitive) of popular platfor
 
 ### Current Structure. 
 
-(root)<br>
+`(root)`<br>
   |<br>
-  platform_1<br>
+  `Platform_1`<br>
   |<br>
-  |___ problemList.md<br>
+  |___ `problemList.md`<br>
   |<br>
-  platform_2<br>
+  `Platform_2`<br>
   |<br>
-  |___ problemList.md<br>
+  |___ `problemList.md`<br>
   
 ### Structure of ProblemList.md
 
   ##(space)Topic<br><br>
-  1.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional)<br>
-    some_details(optional)<br><br>
-  2.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional)<br>
-      some_details(optional)
+  - 1.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional) <br><br>
+      - some_details like .... <br>
+        - WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
+  - 2.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional) <br><br>
+      - some_details like .... <br>
+        - WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
