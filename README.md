@@ -1,6 +1,8 @@
 # category-wise-problems
 contains category wise problems(data structures, competitive) of popular platforms. 
 
+# Please follow these rules, if you are contributing. 
+
 ### Current Structure. 
 
 `(root)`<br>
@@ -18,7 +20,7 @@ contains category wise problems(data structures, competitive) of popular platfor
   ##(space)Topic<br><br>
   - 1.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional) <br><br>
       - some_details like .... <br>
-        - WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
+        - `must` WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
   - 2.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional) <br><br>
       - some_details like .... <br>
-        - WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
+        - `must` WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
