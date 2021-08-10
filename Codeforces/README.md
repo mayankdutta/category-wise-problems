@@ -2,7 +2,10 @@
 1. [Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C)
     - A combinatorics problem that uses DFS.
 	- Rated 1300 which is rare for a graph(related) problem
-
+<details>	
+  <br />
+  <summary><b>code</b></summary>
+  	<ul>
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -76,5 +79,7 @@ return 0;
 
 
 ```
+	</ul>	
+</details>
 
 
