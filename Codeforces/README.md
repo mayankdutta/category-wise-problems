@@ -2,11 +2,10 @@
 1. [Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C)
     - A combinatorics problem that uses DFS.
 	- Rated 1300 which is rare for a graph(related) problem
-	<details>	
-  <br />
-  <summary><b> Sample Code </b></summary>
+
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    #include<bits/stdc++.h>
+  	    <li><b>OS:</b> #include<bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
 typedef long double ld;
@@ -96,6 +95,13 @@ while(tc--)
 	sol();
 return 0;
 }
-
+ </li>
+	    <li><b>Laptop: </b> A random Monitor connected to a dying laptop </li>
+  	    <li><b>Browser: </b> Chrome </li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
+	    <li><b>Code Editor:</b> Sublime Text </li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	⚛️ Checkout My Sublime Configrations <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Here</a>.
 	</ul>	
-</details>
+
