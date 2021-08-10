@@ -3,21 +3,28 @@
     - A combinatorics problem that uses DFS.
 	- Rated 1300 which is rare for a graph(related) problem
 
-	int arr[N][2];
-	vector<int> adj[N];
-	bool visited[N]={0};
-	void dfs(int br){
-		visited[br] = true;
-		for(auto&x:adj[br])
-		{
-			if(!visited[x])
-			dfs(x);
-		}
-	}
-	void sol()
+```cpp
+int arr[N][2];
+vector<int> adj[N];
+bool visited[N]={0};
+
+void dfs(int br){
+
+	visited[br] = true;
+	for(auto&x:adj[br])
 	{
+		if(!visited[x])
+			dfs(x);
+	}
+
+}
+
+void sol()
+{
 	int n;
 	cin >> n;
+	
+	
 	for(int i=1;i <=  n; i++)
 	{
 		cin >> arr[i][0];
@@ -41,15 +48,24 @@
 			dfs(i);
 		}
 	}
+
 	cout << ans << '\n';
-	}
-	int main()
-		{
-			int tc;
-			cin>>tc;
-			while(tc--)
-				sol();
-			return 0;
-		}
+
+
+
+
+}
+
+
+int main()
+{
+int tc;
+cin>>tc;
+while(tc--)
+	sol();
+return 0;
+}
+
+```
 
 
