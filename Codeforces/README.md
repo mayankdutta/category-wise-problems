@@ -4,7 +4,7 @@
 	- Rated 1300 which is rare for a graph(related) problem
 	
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Sample Code</summary>
 <br>
 
 ```cpp
@@ -79,7 +79,6 @@ return 0;
 }
 
 ```
-This is how you dropdown.
 </details>
 
 
