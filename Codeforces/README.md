@@ -4,6 +4,24 @@
 	- Rated 1300 which is rare for a graph(related) problem
 
 ```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+
+#define pii pair<ll,ll>
+#define vi  vector<ll>
+#define vii vector<pii>
+#define mi  map<ll,ll>
+#define all(a)  (a).begin(),(a).end()
+
+#define pb push_back
+#define ff first
+#define ss second
+#define mod 1000000007
+
+#define N 400001
+
+
 int arr[N][2];
 vector<int> adj[N];
 bool visited[N]={0};
@@ -18,13 +36,10 @@ void dfs(int br){
 	}
 
 }
-
 void sol()
 {
 	int n;
 	cin >> n;
-	
-	
 	for(int i=1;i <=  n; i++)
 	{
 		cin >> arr[i][0];
@@ -48,15 +63,8 @@ void sol()
 			dfs(i);
 		}
 	}
-
 	cout << ans << '\n';
-
-
-
-
 }
-
-
 int main()
 {
 int tc;
@@ -65,6 +73,7 @@ while(tc--)
 	sol();
 return 0;
 }
+
 
 ```
 
