@@ -3,7 +3,10 @@
     - A combinatorics problem that uses DFS.
 	- Rated 1300 which is rare for a graph(related) problem
 	
-  <summary><b>code</b></summary>
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -76,6 +79,8 @@ return 0;
 }
 
 ```
+This is how you dropdown.
+</details>
 
 
 
