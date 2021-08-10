@@ -5,7 +5,6 @@
 <details>	
   <br />
   <summary><b>code</b></summary>
-  	<ul>
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -77,9 +76,7 @@ while(tc--)
 return 0;
 }
 
-
 ```
-	</ul>	
 </details>
 
 
