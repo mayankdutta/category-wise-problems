@@ -8,18 +8,17 @@
   <br />
   <summary><b>⚙️Code</b></summary>
   	<ul>
-  	    <```
-
+  	    <
 	int arr[N][2];
 	vector<int> adj[N];
 	bool visited[N]={0};
 	void dfs(int br){
-	visited[br] = true;
-	for(auto&x:adj[br])
-	{
-		if(!visited[x])
+		visited[br] = true;
+		for(auto&x:adj[br])
+		{
+			if(!visited[x])
 			dfs(x);
-	}
+		}
 	}
 	void sol()
 	{
