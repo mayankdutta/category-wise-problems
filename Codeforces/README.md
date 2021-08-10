@@ -3,12 +3,6 @@
     - A combinatorics problem that uses DFS.
 	- Rated 1300 which is rare for a graph(related) problem
 
-
-<details>	
-  <br />
-  <summary><b>⚙️Code</b></summary>
-  	<ul>
-  	    <
 	int arr[N][2];
 	vector<int> adj[N];
 	bool visited[N]={0};
@@ -57,7 +51,5 @@
 				sol();
 			return 0;
 		}
-```
-	</ul>	
-</details>
+
 
