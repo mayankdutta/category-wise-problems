@@ -6,30 +6,25 @@
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️Code</b></summary>
   	<ul>
-  	    <```python
+  	    <```
+		cpp
 int arr[N][2];
 vector<int> adj[N];
 bool visited[N]={0};
-
 void dfs(int br){
-
 	visited[br] = true;
 	for(auto&x:adj[br])
 	{
 		if(!visited[x])
 			dfs(x);
 	}
-
 }
-
 void sol()
 {
 	int n;
 	cin >> n;
-	
-	
 	for(int i=1;i <=  n; i++)
 	{
 		cin >> arr[i][0];
@@ -53,24 +48,16 @@ void sol()
 			dfs(i);
 		}
 	}
-
 	cout << ans << '\n';
-
-
-
-
 }
-
-
 int main()
-{
-int tc;
-cin>>tc;
-while(tc--)
-	sol();
-return 0;
-}
-
+	{
+	int tc;
+	cin>>tc;
+	while(tc--)
+		sol();
+	return 0;
+	}
 ```
 	</ul>	
 </details>
