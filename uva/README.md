@@ -89,6 +89,56 @@
       ```
 
       </details>
+    
+    
+2. [1213 - Sum of Different Primes](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3654)
+    - first 3 state dp problem of mine.
+    - States are, `index, n, k` _(not hard to realize)_.
+    - Variation of the above problem, base on 01 knapsack.
+      <details>
+      <summary>Code sample </summary>
+      
+      ```cpp
+        /*
+         * arePrimes store prime no.s till 1120 because that was the limit given in the que. 
+         * memo used to memoization purpose. 
+         */
+          
+        vector<vector<vector<int>>> memo;
+        int dp(int n, int k, int i) {
+          if (n == 0 and k == 0)
+            return 1;
+          if (n == 0 or k == 0)
+            return 0;
+          if (n < 0 or k < 0)
+            return 0;
+
+          if (arePrimes[i] > n)
+            return 0;
+
+          int &ans = memo[n][k][i];
+          if (ans != -1)
+            return ans;
+          ans = dp(n - arePrimes[i], k - 1, i + 1) + dp(n, k, i + 1);
+          return ans;
+        }
+
+        void solve() {
+          int n, k;
+          while (cin >> n >> k) {
+            if (n == 0 and k == 0)
+              return;
+            memo.resize(1121);
+            for (auto &i : memo) {
+              i = vvi(15, vi(200, -1));
+            }
+
+            cout << dp(n, k, 0) << '\n';
+          }
+        }                                      
+      ```
+
+      </details>
 
 
 
