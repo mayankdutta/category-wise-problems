@@ -25,6 +25,9 @@
         if (ans != -1) 
           return ans;
         
+        /* Loop isnt the part of the template, loop is just to access data from the given 2d data, 
+         * if data were 1d then we would have gone without loop 
+         */
         for (int brand = 1; brand <= price[index][0]; brand++)  /* at index,0 we have stored the size of that specific brand. */
           ans = max(ans, ourFunction(CurrentMoney - price[index][CurrentMoney], index + 1)); 
   
