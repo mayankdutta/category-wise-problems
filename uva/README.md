@@ -148,7 +148,57 @@
 
 
 
+## DP _(1-states, Coin change)_
 
+1. [147-Dollars](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=83)
+   - whatif we wish to calculate no. of solutions
+   - given that each combination is counted differently
+   - States are only in this case, `remaining money`
+   - Pay attention to the for loop in the sample code's recursive function.
+   - What this doing is running the loop from 0, hence forcing it to count every possible combinations.
+   - If we don't wish to do so, we will have to pass the index from where it should continue counting. 
+     <details>
+     <summary>Code sample </summary>
+
+     ```cpp
+      vector<int> memo;
+      vector<int> coins{1, 2, 3};
+      
+      int dp(int N) {
+         print();
+         if (N < 0)
+         return 0;
+         
+         int &ans = memo[N];
+         
+         if (ans != 0)
+            return ans;
+         
+         for (const auto &i : coins) {
+            ans += dp(N - i);
+         }
+         return ans;
+      }
+      
+      void solve() {
+         double n;
+         while (cin >> n) {
+            int N = ((n + 0.001) * 100);
+            if (N == 0)
+               return;
+      
+             memo = vector<int> (40000, 0);
+             memo[0] = 1;
+     
+             // consider N to be 4 
+             cout << dp(N) << '\n';
+         }
+      }
+
+
+     ```
+
+     </details>
 
 
 
