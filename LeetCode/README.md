@@ -5,7 +5,7 @@
       - this can also be solved via floyd, iff constraints are low. 
 
 ## Binary Search
-1. [875. Koko Eating Bananas]https://leetcode.com/problems/koko-eating-bananas/)
+1. [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
     
 	- A fine problem on binary search (a good example of BS over unsorted content)
       
