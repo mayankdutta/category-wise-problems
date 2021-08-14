@@ -151,6 +151,7 @@
 ## DP _(1-state, Coin change)_
 
 1. [147-Dollars](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=83)
+   - UNORDERED counting.
    - whatif we wish to calculate no. of solutions
    - Solution mentioned below didn't work on mentioned problem, **WHY?** (answered in second mentioned) 
    - given that each combination is counted differently
@@ -195,17 +196,52 @@
              cout << dp(N) << '\n';
          }
       }
+     ```
+     </details>
+   
+     <details>
+     <summary>Code sample iterative version</summary>
 
-
+     ```cpp
+      vector<int> memo;
+      vector<int> coins{1, 2, 3};
+     
+      void solve() {
+         double n;
+         while (cin >> n) {
+            int N = ((n + 0.001) * 100);
+            if (N == 0)
+               return;
+      
+            memo = vector<int> (40000, 0);
+            memo[0] = 1;
+     
+            /*
+             * Sinvce we have to find ans. of diff combinations. 
+             * Therefore coins must repeat as was in recursive function.
+             * hence in 2d loop coins at second.
+             */
+     
+            for (int weight = 0; weight <= x; weight++) {
+		       for (int i = 1; i <= coins.size(); i++) {
+			       if(weight - coins[i - 1] >= 0) {
+				       memo[weight] += memo[weight - coins[i - 1]];
+				       memo[weight] %= MOD;
+                   }
+               }
+            }
+         }
+      }
      ```
 
      </details>
 
 
 
-## DP _(2-states, Coin change)_
+## DP _(1-state, Coin change)_
 
 1. [147-Dollars](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=83)
+    - ORDERED counting
    - True coin change problem via memoization.
    - States as discussed in above one are two, `remainging money, current index`
    - advised to use `memo 2d array` such as **LESS ROWS, MORE COLS**, *i may be wrong*
@@ -246,6 +282,43 @@
      ```
 
      </details>
+     <details>
+     <summary>Code sample iterative version</summary>
+
+     ```cpp
+      vector<int> memo;
+      vector<int> coins{1, 2, 3};
+     
+      void solve() {
+         double n;
+         while (cin >> n) {
+            int N = ((n + 0.001) * 100);
+            if (N == 0)
+               return;
+      
+            memo = vector<int> (40000, 0);
+            memo[0] = 1;
+     
+            /*
+             * Sinvce we have to find ans. of unique combinations. 
+             * Therefore coins must NOT repeat coins.
+             * hence in 2d loop coins was first, and weight second.
+             */
+     
+            for (int i = 1; i <= coins.size(); i++) {
+               for (int weight = 0; weight <= x; weight++) {
+                   if(weight - coins[i - 1] >= 0) {
+                       memo[weight] += memo[weight - coins[i - 1]];
+                       memo[weight] %= MOD;
+                   }
+               }
+            }
+         }
+      }
+     ```
+
+     </details>
+
 
 
 
