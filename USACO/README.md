@@ -13,8 +13,7 @@
     - Base on the variant of `coin change`.
     - Notice that if there were no `water` condition, then we could've solved this via coin change. 
     - There is only 2 cases, either she drinks water or not. 
-    - Hence we can make 2 seperate cases and then proceed via `coin change`.
-      , `money and sum`
+    - Hence we can make 2 seperate cases and then proceed via `coin change`. , `money and sum`
         - iterative approach
             - take a carefull look on the data filling in 2d array.
               <details>
@@ -53,4 +52,37 @@
                   cout << ans << '\n';
               }
               ```
+              </details>
+        - Memoization approach
+            - You will find similar to iterative one. 
+              <details>
+              <summary>Code sample </summary>
+
+              ```cpp
+              #define MAXN 5000000
+              int T, A, B;
+              int memo[MAXN][2];
+            
+              int recur(int fullness, bool used) {
+                  if (memo[fullness][used] > 0)
+                      return memo[fullness][used];
+                  if (fullness > T)
+                      return 0;
+                  int mx = fullness;
+            
+                  mx = max(mx, recur(fullness + A, used));
+                  mx = max(mx, recur(fullness + B, used));
+            
+                  if (!used) {
+                      mx = max(mx, recur(fullness / 2, true));
+                  }
+                  memo[fullness][used] = mx;
+                  return mx;
+              }
+
+              ```
+              </details>
+        - BFS approach
+              <details>
+              <summary>To be added</summary>
               </details>
