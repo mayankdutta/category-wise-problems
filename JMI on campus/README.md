@@ -5,9 +5,58 @@
 **Problem 2 : given a unweighted undirected graph with exactly one cycle. Find the distance of each node from the cycle. Return an array. The nodes in the cycle have distance 0**
 
 
-**Problem 2**
+**Solution 1**
+- [Leetcode](https://leetcode.com/problems/merge-in-between-linked-lists/) of the same Problem
+  Code of the same
+```cpp
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
+        
+        ListNode* first = NULL ; ListNode *second = NULL;   // store a and b in them //
+        ListNode *curr = list1;
+        int i = 0;
+        while (curr != nullptr){
+            
+            if (i == a-1){
+                first = curr;                 // find a-1 index 
+            }
+            else if ( i == b){
+                second = curr->next;            /// find b index store
+                curr->next = nullptr;
+                break;
+            }
+            curr = curr->next;
+            i++;
+        }
+        first->next = nullptr;
+        first->next = list2;
+        
+        ListNode *temp = list2;
+        while (temp->next != nullptr){
+            temp = temp->next;
+        }                                     
+        temp->next = second;                 
+        return list1;
+    }
+};
+
+```
+
+
+**Solution 2**
 Approach
-- First motive is to find cycle. 
+- First motive is to find cycle.
 - Once found, then we can put all elements on queue, and go for (multisource BFS / multisource shortest path).
 - Colouring
   - color == 0: unvisited.
