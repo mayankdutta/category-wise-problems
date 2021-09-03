@@ -1,8 +1,8 @@
 ## Sapient test : OA Jmi on campus
 
-**Problem 1 : Insert a linked list in the middle of another linked list**
-
-**Problem 2 : given a unweighted undirected graph with exactly one cycle. Find the distance of each node from the cycle. Return an array. The nodes in the cycle have distance 0**
+**Problem 1 :** Insert a linked list in the middle of another linked list <br>
+**Problem 2 :** given a unweighted undirected graph with exactly one cycle. Find the distance of each node from the cycle. Return an array. The nodes in the cycle have distance 0 <br>
+[Similar Question to problem 2](https://cses.fi/problemset/task/1678/)
 
 
 **Solution 1**
