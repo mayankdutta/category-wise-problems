@@ -9,48 +9,23 @@
 - [Leetcode](https://leetcode.com/problems/merge-in-between-linked-lists/) of the same Problem
   Code of the same
 ```cpp
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-class Solution {
-public:
-    ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
-        
-        ListNode* first = NULL ; ListNode *second = NULL;   // store a and b in them //
-        ListNode *curr = list1;
-        int i = 0;
-        while (curr != nullptr){
-            
-            if (i == a-1){
-                first = curr;                 // find a-1 index 
-            }
-            else if ( i == b){
-                second = curr->next;            /// find b index store
-                curr->next = nullptr;
-                break;
-            }
-            curr = curr->next;
-            i++;
-        }
-        first->next = nullptr;
-        first->next = list2;
-        
-        ListNode *temp = list2;
-        while (temp->next != nullptr){
-            temp = temp->next;
-        }                                     
-        temp->next = second;                 
-        return list1;
-    }
-};
-
+SinglyLinkedListNode f=list1,s=list1;
+    for(int i=0;i<a-2;i++) 
+      f=f.next;
+    
+    for(int i=0;i<b-1;i++) 
+      s=s.next;
+      
+    if(a>=2)
+      f.next=list2;
+    else
+      list1=list2;
+      
+    while(list2.next!=NULL)
+        list2=list2.next;
+    
+    list2.next=s.next;
+    return list1;
 ```
 
 
