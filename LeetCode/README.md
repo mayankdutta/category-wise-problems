@@ -101,7 +101,7 @@
             </details>
          
 ## Flood fill
-1. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/https://leetcode.com/problems/koko-eating-bananas/), **Medium** *(if aware of flood fill) else* **Hard**
+1. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/), **Medium** *(if aware of flood fill) else* **Hard**
     - Problem necessitates Flood fill concepts and coloring the graphs.
     - Approach 
       - We first traverse accross components that are **not connected**
