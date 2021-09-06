@@ -192,3 +192,89 @@
       }
       ```
       </details>
+
+## Map, String, Pattern, Implementation
+
+1.  [E. Polycarp and String Transformation](https://codeforces.com/contest/1560/problem/E), Medium
+    - We just have to figure out the way by which given string is formed.
+    - Once You found the way start Backtracking and create the given string.
+    - Always remember to Check the answer with base case
+      <details>
+      <summary>Code sample </summary>
+
+      ```cpp
+     #include<bits/stdc++.h>
+      using namespace std;
+      
+      string er(string str, char a){
+          str.erase(remove(str.begin(), str.end(), a), str.end());
+          return str;
+      }
+      int main(){
+          int test;
+          cin>>test;
+          while(test--){
+              string s;
+              cin>>s;
+              unordered_map<char,int>m;
+              string se="";
+              vector<int>v(26,0);
+              for (int i = 0; i < s.length(); ++i) {
+                  v[s[i]-'a']++;
+              }
+              int cd=0;
+              for(auto x:v){
+                  if(x>0){
+                      cd++;
+                  }
+              }
+            // cd++;
+      //       m[s[s.length()-1]]=v[s[s.length()-1]-'a']/cd;
+      //        cd--;
+              int f=0;
+              for (int i = s.length()-1; i >=0 ; i--) {
+                  if(!m.count(s[i]) && cd>0){
+                      if(v[s[i]-'a']%cd!=0){
+                          f=1;
+                          break;
+                      }
+                      int k=v[s[i]-'a']/cd;
+      //                cout<<s[i]<<" ";
+                      m[s[i]]=k;
+                      se+=s[i];
+                      cd--;
+                  }
+              }
+      //        for (auto itr=se.begin();itr!=se.end();itr++){
+      //            cout<<(*itr)<<endl;
+      //        }
+            if(f==0){
+                reverse(se.begin(),se.end());
+                //cout<<se;
+                string ans="";
+                for (int i = 0; i < s.length(); ++i) {
+                    if(m[s[i]]==0){
+                        break;
+                    }
+                    ans+=s[i];
+                    m[s[i]]--;
+                }
+                string res1=ans,str=ans;
+      
+                for (int i = 0; i < se.length(); ++i) {
+                      str= er(str,se[i]);
+                    res1+= str;
+                }
+                if(res1==s)
+                cout<<ans<<" "<<se<<endl;
+                else{
+                    cout<<-1<<endl;
+                }
+            }
+            else{
+                cout<<-1<<endl;
+            }
+          }
+          return 0;
+      }
+      </details>
