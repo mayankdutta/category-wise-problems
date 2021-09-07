@@ -105,7 +105,38 @@
 
           ```
           </details>
+          <details>
+          <summary>shorter Implementation </summary>
 
+          ```cpp
+           int n, target;
+           cin >> n >> target;
+           
+           vector<int> prices(n), pages(n);
+           for (auto &i : prices)
+           cin >> i;
+           for (auto &i : pages)
+           cin >> i;
+           
+           vector<vector<int>> memo(n + 1, vector<int>(target + 1, 0));
+           
+           for (int i = 1; i <= n; i++) {
+               for (int j = 0; j <= target; j++) {
+                   memo[i][j] = memo[i - 1][j];
+                   int rem = j - prices[i - 1];
+           
+                   if (rem >= 0)
+                       memo[i][j] = max(memo[i][j], memo[i - 1][rem] + pages[i - 1]);
+               }
+           }
+           cout << memo[n][target] << '\n';
+
+
+          ```
+          </details>
+
+    
+    
 2. [Money sums](https://cses.fi/problemset/task/1745/), Base on 01 Knapsack
     - 0-1 Knapsack variant
     - coins should not be repeated. 
