@@ -145,4 +145,4 @@
           - then we will `value down` till that value,
           - **CORNER CASE** even if some value of `k` got left as a remainder, we would have to settle this by furher decreasing the value elements.
           - Above point is taken care of by line `(element - diff) * (K % diff)`.
-        
+
