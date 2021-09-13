@@ -313,3 +313,35 @@ since mid is **odd** and `arr[mid] == arr[mid-1]` it means upto index 3 the arra
 
         ```
      </details>
+    
+## DP
+1. [1143. Longest Common Subsequence ](https://leetcode.com/problems/longest-common-subsequence/), Easy, classic dp
+    - Given two string, we are required to find the longest Common subsequence.
+    - Approach
+        - consider two pointers `i and j`, pointing towards string `s, t`.
+        - The process of increasing the pointers can be seen as moving fwd *(if i is increase)*, or moving dwn *(if j is increase)*.
+        - *or* moving `diagonally` if both i and j increases. 
+        - Then our ans. will be maximum no. of **diagonal movements.** *(the no. of times both increase)*
+    - code
+
+      <details>
+      <summary>Implementation</summary>
+
+        ```cpp
+        int longestCommonSubsequence(string s, string t) {
+            int n = s.size(); 
+            int m = t.size();
+            int dp[n + 1][m + 1];
+            
+            for (int i = 0; i <= n; i++) {
+                for (int j = 0; j <= m; j++) {
+                    if (i == 0 or j == 0) dp[i][j] = 0;
+                    else if (s[i - 1] == t[j - 1])  dp[i][j] = dp[i - 1][j - 1] + 1;
+                    else dp[i][j] = max(dp[i][j-  1], dp[i - 1][j]);
+                }
+            }
+            return dp[n][m];
+        }
+
+        ```
+     </details>
