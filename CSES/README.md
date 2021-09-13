@@ -228,6 +228,47 @@
            ```
            </details>
 
+4. [Grid Paths](https://cses.fi/problemset/task/1638/), classic levinshtein distance.
+    - Classic problem, one of it's kind.
+    - Approach
+      - If `grid[i][j] == '#'` then `dp[i][j] = 0`
+      - else, the same way we used to count the no. of ways in `1-D ` array.
+      - This is the only recurrence relation keep filling the `dp` in the same manner.
+    - <details>
+      <summary>Code sample </summary>
+
+      ```cpp
+      int n;
+      cin >> n;
+      char grid[n][n];
+      for (int i = 0; i < n; i++)
+          for (int j = 0; j < n; j++)
+              cin >> grid[i][j];
+      
+      vector<vector<int>> dp(n, vector<int>(n, 0));
+      
+      for (int i = 0; i < n; i++) {
+          for (int j = 0; j < n; j++) {
+              if (i == 0 and j == 0)
+                  grid[i][j] == '.' ? dp[i][j] = 1 : dp[i][j] = 0;
+              else if (i == 0)
+                  grid[i][j] == '.' ? dp[i][j] = dp[i][j] % mod + dp[i][j - 1] % mod
+                                    : dp[i][j] = 0;
+              else if (j == 0)
+                  grid[i][j] == '.' ? dp[i][j] = dp[i][j] % mod + dp[i - 1][j] % mod
+                                    : dp[i][j] = 0;
+              else
+                  grid[i][j] == '.'
+                              ? dp[i][j] = dp[i][j] % mod + dp[i - 1][j] % mod + dp[i][j - 1]
+                              : dp[i][j] = 0;
+              dp[i][j] %= mod;
+          }
+      }
+      cout << dp[n - 1][n - 1] << '\n';
+
+      ```
+      </details>
+
 
 ## Graphs(Topological sort) 
 1. [Course Schedule](https://cses.fi/problemset/task/1679/),
