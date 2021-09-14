@@ -99,37 +99,6 @@
       <summary>Code sample </summary>
 
       ```cpp
-      void solve() {
-          int n, a, b;
-          cin >> n >> a >> b;
-
-          vvi memo = vvi(2, vi(5'000'010, 0));
-          memo[0][0] = 1;
-
-          for (int i = 0; i <= n; i++) {
-              if (i >= a)
-                  memo[0][i] |= memo[0][i - a];
-              if (i >= b)
-                  memo[0][i] |= memo[0][i - b];
-              memo[1][i / 2] |= memo[0][i];
-          }
-
-          for (int i = 0; i <= n; i++) {
-              if (i >= a)
-                  memo[1][i] |= memo[1][i - a];
-              if (i >= b)
-                  memo[1][i] |= memo[1][i - b];
-          }
-
-          int ans = 0;
-          for (int i = 0; i <= n; i++) {
-              if (memo[0][i])
-                  ans = max(ans, i);
-              if (memo[1][i])
-                  ans = max(ans, i);
-          }
-          cout << ans << '\n';
-      }
       
       void solve() {
           int n, K;
