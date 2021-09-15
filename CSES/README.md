@@ -1,5 +1,5 @@
 ## Searching and sorting
-2. [Money sums](https://cses.fi/problemset/task/1745/), kind of map problem
+1. [Subarray sums II](https://cses.fi/problemset/task/1661/), kind of map problem
     - Greedy.
     - Prerequisite, STL, or atleast how to maintain count of no.s in array.
     - Kind of classical problem.
