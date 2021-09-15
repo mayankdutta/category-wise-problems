@@ -3,6 +3,13 @@
     - base on concept of MST, with some maths
     - Things I learnt
         - When to use two MST side by side. 
+        - Do note that calculation part.
+   - Approach
+      - Made `2 MST's` to maintain individual count and mixed count.
+      - if `type is 3` then added to both MST, else to individuals.
+      - do note that the `common count` will get `doubled` at the end, because it is getting count twice every time.
+      - Do note that calculation part.
+      - then we checked if the vertices in each MST is equal to the vertices provided?
    - [DSU template](https://github.com/mayankdutta/code_template/blob/main/dsu.cpp)
       <details>
 
