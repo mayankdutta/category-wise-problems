@@ -144,7 +144,44 @@
 - what 2nd statement does is `from the updated data` (means after copying data in current row), it check values from previous cols, and then decided for upcoming cols of `updated rows`
 
 
-1. [Book shop](https://cses.fi/problemset/task/1158), Classic problem, easy
+1. [Removing Digits](https://cses.fi/problemset/task/1637/), easy
+    - Coin change variant
+    - Approach
+        - Coin change problem variant.
+        - In this case `fix amount` is the no. given, and `coins` are it's digits.
+          <details>
+          <summary> Sample Implementation </summary>
+
+          ```cpp
+           /* precomputation */
+           int MAX = 1e6 + 5;
+           vector<int> dp(MAX + 1, (int)1e9);
+           dp[0] = 0;
+           
+           for (int i = 1; i < MAX; i++) {
+               vector<int> tempArr;
+               auto tempNum = i;
+               while (tempNum) {
+                   tempArr.push_back(tempNum % 10);
+                   tempNum /= 10;
+               }
+               
+               for (const auto &element : tempArr)
+                 if (i - element >= 0)
+                   dp[i] = min(dp[i - element] + 1, dp[i]);
+           }
+           /* precomputation over */
+          
+           int n;
+           cin >> n;
+           cout << dp[n] << '\n';
+
+          ```
+          </details>
+    
+
+
+2. [Book shop](https://cses.fi/problemset/task/1158), Classic problem, easy
     - 0-1 Knapsack without any variant
     - States are, `money and index`
       - memoisation approach
@@ -259,7 +296,7 @@
 
     
     
-2. [Money sums](https://cses.fi/problemset/task/1745/), Base on 01 Knapsack
+3. [Money sums](https://cses.fi/problemset/task/1745/), Base on 01 Knapsack
     - 0-1 Knapsack variant
     - coins should not be repeated. 
     - therefore coin array at top, because we don't want it to repeat.
@@ -306,7 +343,7 @@
               ```
               </details>
 
-3. [Two Sets II ](https://cses.fi/problemset/task/1093/), Base on 01 Knapsack
+4. [Two Sets II ](https://cses.fi/problemset/task/1093/), Base on 01 Knapsack
     - 0-1 Knapsack in disguise. 
     - We just have to check if we can make sum of `total_sum / 2` with given elements.
       - Now of course `total_sum / 2` won't be `integer` if `total_sum` is **odd**.
@@ -350,7 +387,7 @@
            ```
            </details>
 
-4. [Grid Paths](https://cses.fi/problemset/task/1638/), classic levinshtein distance.
+5. [Grid Paths](https://cses.fi/problemset/task/1638/), classic levinshtein distance.
     - Classic problem, one of it's kind.
     - Approach
       - If `grid[i][j] == '#'` then `dp[i][j] = 0`
@@ -430,7 +467,7 @@
       </details>
 
 
-4. [Edit Distance ](https://cses.fi/problemset/task/1639/), classic levinshtein distance.
+6. [Edit Distance ](https://cses.fi/problemset/task/1639/), classic levinshtein distance.
     - Classic problem, one of it's kind.
     - Approach *(memo version)*
         - Base Case
