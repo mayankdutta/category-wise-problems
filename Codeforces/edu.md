@@ -1,6 +1,6 @@
 ## DSU 
 ### Step 1
-**C**. [Experience](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C)
+##### C. [Experience](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C)
 - Approach
   - Idea was to slightly change the implementation of DSU.
   - During `get` operation we should include the rating of `parents` as well. 
@@ -81,3 +81,17 @@
     }
     ```
 </details>
+
+
+
+## Binary Search
+### Step 1
+### Step 2
+### Step 3
+### Step 4
+### Step 5
+
+## Two pointers
+### Step 1
+### Step 2
+### Step 3
