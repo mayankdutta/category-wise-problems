@@ -897,6 +897,7 @@
         - Yes it is `O(n * (n + m))`
         - If you are thinking something like [this](https://github.com/mayankdutta/Examples/blob/main/graphs/adj/cycle_in_graph.cpp), this will give error.
         - In this graph there are multiple edges along with many cycle, if their were only one cycle then above one will do fine.
+        - Here Every node has MULTIPLE PARENTS.
         <details>
         <summary>Code sample </summary>
 
