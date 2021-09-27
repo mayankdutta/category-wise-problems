@@ -19,6 +19,7 @@
            - `women` by `type 2`
            - `men` by 'type 1'
          - we simply printing the remaining edges.
+         - [Exact same Que](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
        
     - [DSU template](https://github.com/mayankdutta/code_template/blob/main/dsu.cpp)
     - <details>
