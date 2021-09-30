@@ -96,7 +96,7 @@
     - States are, `index, n, k` _(not hard to realize)_.
     - Variation of the above problem, base on 01 knapsack.
       <details>
-      <summary>Code sample </summary>
+      <summary>Memoization version</summary>
       
       ```cpp
         /*
@@ -139,6 +139,42 @@
       ```
 
       </details>
+   - Iterative version, approach mentioned in comments.
+     <details>
+     <summary>Iterative version</summary>
+
+     ```cpp
+       /*
+        * arePrimes store prime no.s till 1120 because that was the limit given in the que. 
+        * memo used to memoization purpose. 
+        */
+         
+       int N, K;
+
+       while (cin >> N >> K) {
+       if (N == 0 and K == 0)
+           return;
+       
+       vector<vector<int>> dp(16, vector<int>(1180, 0));
+       
+       dp[0][0] = 1;
+     
+       /* This loop has to be in the start, if this is added as 3rd one, WA, reason
+        * yet to know */
+     
+       for (int i = 0; i < arePrimes.size(); i++)
+         /* Bottom up approach, building our table from bottom most element*/
+         for (int k = 14; k >= 1; k--)
+           for (int n = 1170; n >= arePrimes[i]; n--)
+             /* simple 01 knapsack */
+             dp[k][n] += dp[k - 1][n - arePrimes[i]];
+       
+       cout << dp[K][N] << '\n';
+       
+
+     ```
+
+     </details>
 
 
 
