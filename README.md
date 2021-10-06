@@ -1,7 +1,14 @@
 # category-wise-problems
 contains category wise problems(data structures, competitive) of popular platforms. 
 
-# Please follow these rules, if you are contributing. 
+## Tags
+#### Prefix Sum / Cumulative sum.
+#### Dynamic Programming. 
+#### Graphs
+#### Number theory
+#### Searching and sorting
+
+## Please follow these rules, if you wish to contribute.
 
 ### Current Structure. 
 

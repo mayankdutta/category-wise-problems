@@ -1,5 +1,4 @@
-
-1. [Binary search in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/), Medium
+[Binary search in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/), Medium
     - Problem Description
       - You are given a sorted array consisting of only integers 
       - where every element appears exactly twice, 
