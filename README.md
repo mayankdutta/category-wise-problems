@@ -4,21 +4,21 @@ contains category wise problems(data structures, competitive) of popular platfor
 ## Tags
 #### Prefix Sum / Cumulative sum.
 #### Dynamic Programming. 
-    1. [book_shop](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/book_shop.md)
-    2. [edit_distance](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/book_shop.md)
-    3. [grid_paths](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/grid_paths.md)
-    4. [money_sums](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/money_sums.md)
-    5. [removing_digits](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/removing_digits.md)
-    6. [two_sets2](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/two_sets2.md)
-    7. [dividing_coins](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/dividing_coins.md)
-    8. [divisible_group_sums](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/divisible_group_sums.md)
-    9. [dollars](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/dollars.md)
-    10. [sum_of_different_primes](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/sum_of_different_primes.md)
-    11. [wedding_shopping](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/wedding_shopping.md)
-    12. [what_goes_up](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/what_goes_up.md)
-    13. [fruit_feast](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/dp/fruit_feast.md)
-    14. [hoof_paper_scissor](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/dp/hoof_paper_scissor.md)
-    15. [LCS](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/dp/lcs.md)
+  1. [book_shop](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/book_shop.md)
+  2. [edit_distance](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/book_shop.md)
+  3. [grid_paths](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/grid_paths.md)
+  4. [money_sums](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/money_sums.md)
+  5. [removing_digits](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/removing_digits.md)
+  6. [two_sets2](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/two_sets2.md)
+  7. [dividing_coins](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/dividing_coins.md)
+  8. [divisible_group_sums](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/divisible_group_sums.md)
+  9. [dollars](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/dollars.md)
+  10. [sum_of_different_primes](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/sum_of_different_primes.md)
+  11. [wedding_shopping](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/wedding_shopping.md)
+  12. [what_goes_up](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/what_goes_up.md)
+  13. [fruit_feast](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/dp/fruit_feast.md)
+  14. [hoof_paper_scissor](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/dp/hoof_paper_scissor.md)
+  15. [LCS](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/dp/lcs.md)
 
 #### Graphs
 #### Number theory
