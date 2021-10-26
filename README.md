@@ -16,8 +16,11 @@ Contains category wise problems(data structures, competitive) of popular platfor
   - [01 BFS](#01-bfs)
   - [MSSP](#MSSP)
   - [MST](#MST)
-- NT 
-- DSU
+- [NT](#Number-theory)
+- [Data structure](#Data-structure)
+  - [Stack](#Stack)
+  - [DSU](#DSU)
+- [Adhoc, observation type](#adhoc-observation-type)
 
 ## Prefix Sum / Cumulative sum.
 - [blackboard-gcd](/Atcoder/prefix_sums/blackboard_gcd.md)
@@ -74,6 +77,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### DFS
 - [round_trip](/CSES/graphs/round_trip.md)
 - [JMI ON campus](/JMI_on_campus/README.md)
+- [Kings Path](/Codeforces/graphs/kings_path.md)
 
 ### BFS
 - [graph_girth](/CSES/graphs/graph_girth.md)
@@ -89,12 +93,23 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [3-types](/hackerearth/README.md)
 
 ## Number theory
+- [Amusement park](/Atcoder/maths_greedy/amusement_park.md)
 
 ## Searching and sorting
-*to_be_updated*
+### Binary search type
+- [Apartments](/CSES/searching_and_sorting/apartments.md)
+- [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
+- [binary search in sorted array](/binary_search/binary_seach_in_sorted_array.md)
+- [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
 
-## DSU
-*to_be_updated*
+## Data structure
+### Stack
+- [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
+### DSU
+- [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
+
+## Adhoc, observation type
+- [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)
 
 # Please follow these rules, if you wish to contribute.
 
