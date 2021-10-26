@@ -26,3 +26,4 @@
 22.  Think Future Tech ( 5 CTC ) 
 23.  Decimal Techs( 5 CTC ) 
 24-26.  MCA/CSE only ->(Impetus, Nayak softwares, Hexaveue - 6,7lpa)
+27.Edwisor ( for BDA, HR, Technical assc. roles ) 6.6CTC
