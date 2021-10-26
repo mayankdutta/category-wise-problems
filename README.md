@@ -64,6 +64,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [course_schedule](/CSES/graphs/course_schedule.md)
 - [game_routes](/CSES/graphs/game_routes.md)
 - [longest_flight_route](/CSES/graphs/longest_flight_route.md)
+- [Parallel course 3](/LeetCode/graph/Parallel_courses_3.md)
 
 ### Shortest path
 - [flight_discount](/CSES/graphs/flight_discount.md)
