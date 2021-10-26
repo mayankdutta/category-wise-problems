@@ -114,9 +114,9 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ## Adhoc, observation type
 - [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)
 
-# Please follow these rules, if you wish to contribute.
+# Please follow these rules, if you wish to CONTRIBUTE.
 
-### Current Structure. 
+### Current repo Structure. 
 
 ```js
 ROOT
@@ -139,8 +139,33 @@ ROOT
 
 ## Structure of ProblemList.md
 
-  - 1.(space)ProblemName_with_link (done by `[problemName](problemLink)`) + problem_level_at_that_platform + Link_of_recommended_solution(optional) <br><br>
-      - some_details like .... <br>
-        - `must` WHAT_YOU_LEARNT_FROM_THIS / HOW_THIS_PROBLEM_HELPED_YOU (like... implementation, bfs_improved, etc.) <br><br>
-      - Code
-      - Similar problems if you witnessed any.
+```js
+Topic on which problem is base (preferrably h2, h3 heading)
+
+Problem name, Easy / medium / hard (according to you)
+
+- What makes it Easy/medium/hard according to you.
+    |_____ point 1 
+    |_____ point 2
+    
+- some key points, was there some different approach then regular?
+    |_____ point 1
+    |_____ point 2
+    
+- Appraoch (should be insightfull)
+    
+- corner cases, if you faced any
+    |_____ point 1
+    |_____ point 2
+    
+- code(it is advisable to copy RAW of similar problem on this repo, to save time)
+
+- Similar problem if you encounter any.
+```
+
+### Some Templates you may inspire from
+- [Normal template](CSES/dp/two_sets2.md)
+- [dynamic programming type](CSES/dp/book_shop.md), if you wish to add more then 1 approach. [this one too](uva/dp/dollars.md)
+- [Grapn type](CSES/graphs/flight_discount.md)
+
+*to save time you can copy the template by viewing `RAW` file and fit in your content.*
