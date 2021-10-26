@@ -6,53 +6,60 @@
 
    - Above approach with few optimization. 
      ```cpp
-        #include<bits/stdc++.h>
-        using namespace std;
-          int main()
-          {
-            int m;
-            cin>>m;
-            int u,v;
-            vector<int>G[10];
-            while(m--)
-            {
-              cin>>u>>v;
-              G[u].push_back(v);
-              G[v].push_back(u);
-            }
-            int p;
-            string s="999999999";
-            for(int i=1;i<=8;i++)
-            {
-              cin>>p;
-              s[p-1]=i+'0';
-            }
-            queue<string>q;
-            map<string,int>mp;
-            mp[s]=0;
-            q.push(s);
-            while(q.size())
-            {
-              string s=q.front();
-              q.pop();
-              for(int i=1;i<=9;i++)
-                if(s[i-1]=='9')
-                  v=i;
-              for(auto u:G[v])
-              {
-                string t=s;
-                swap(t[u-1],t[v-1]);
-                if(mp.count(t))
-                  continue;
-                mp[t]=mp[s]+1;
-                q.push(t);
-              }
-            }
-            if(mp.count("123456789")==0)
-              cout<<-1<<endl;
-            else
-              cout<<mp["123456789"]<<endl;
-           } 
+               #include <bits/stdc++.h>
+               using namespace std;
+
+               int main()
+               {
+                   int m;
+                   cin >> m;
+                   vector<int> G[10];
+
+                   for(int i = 0 ; i < m ; i++){
+                       int u,v;
+                       cin >> u >> v;
+                       u--; v--;
+                       G[u].push_back(v);
+                       G[v].push_back(u);
+                   }
+                   string goal = "999999999";
+                   for(int i = 1 ; i <= 8 ; i++){
+                       int p;
+                       cin >> p;
+                       goal[p-1]='0'+i;
+                   }
+
+                   string s = "123456789"; // s[t-1]=p  場所tにコマpが置かれている
+                   queue<string> que;
+                   map<string,int> ma;
+                   ma[s] = 0;
+                   que.push(s);
+                   while(!que.empty()){
+                       string now_s = que.front(); que.pop();
+                       int pos_empty;
+                       for(int i = 0 ; i < 9 ; i++){
+                           if(now_s[i]=='9'){
+                               pos_empty = i;
+                           }
+                       }
+
+                       for(int next_empty : G[pos_empty]){
+                           string next_s = now_s;
+                           swap(next_s[next_empty],next_s[pos_empty]);
+                           if(ma.count(next_s)==0){
+                               que.push(next_s);
+                               ma[next_s] = ma[now_s]+1;
+                           }
+                       }
+                   }
+
+                   if(ma.count(goal)==0){
+                       cout << -1 << endl;
+                   }else{
+                       cout << ma[goal] << endl;
+                   }
+               }
+               
      ```
       </details>
    - Approach
