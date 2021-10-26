@@ -20,7 +20,6 @@ contains category wise problems(data structures, competitive) of popular platfor
 - NT 
 - DSU
 
-## Tags
 ### Prefix Sum / Cumulative sum.
 - [blackboard-gcd](/Atcoder/prefix_sums/blackboard_gcd.md)
 - [make_power_of_2](/Codeforces/prefix_sums/make_power_of_two.md)
@@ -29,66 +28,66 @@ contains category wise problems(data structures, competitive) of popular platfor
 ### Dynamic Programming. 
 
 #### Knapsack type
-- [two_sets2](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/two_sets2.md)
-- [book_shop](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/book_shop.md)
-- [money_sums](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/money_sums.md)
-- [dividing_coins](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/dividing_coins.md)
-- [divisible_group_sums](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/divisible_group_sums.md)
-- [wedding_shopping](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/wedding_shopping.md)
-- [sum_of_different_primes](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/sum_of_different_primes.md)
-- [hoof_paper_scissor](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/dp/hoof_paper_scissor.md)
+- [two_sets2](/CSES/dp/two_sets2.md)
+- [book_shop](/CSES/dp/book_shop.md)
+- [money_sums](/CSES/dp/money_sums.md)
+- [dividing_coins](/uva/dp/dividing_coins.md)
+- [divisible_group_sums](/uva/dp/divisible_group_sums.md)
+- [wedding_shopping](/uva/dp/wedding_shopping.md)
+- [sum_of_different_primes](/uva/dp/sum_of_different_primes.md)
+- [hoof_paper_scissor](/USACO/dp/hoof_paper_scissor.md)
  
 #### Coin change type
-- [removing_digits](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/removing_digits.md)
-- [dollars](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/dollars.md)
-- [fruit_feast](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/dp/fruit_feast.md)
+- [removing_digits](/CSES/dp/removing_digits.md)
+- [dollars](/uva/dp/dollars.md)
+- [fruit_feast](/USACO/dp/fruit_feast.md)
  
 #### Grid path types
-- [edit_distance](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/book_shop.md)
-- [grid_paths](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/dp/grid_paths.md)
-- [LCS](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/dp/lcs.md)
+- [edit_distance](/CSES/dp/book_shop.md)
+- [grid_paths](/CSES/dp/grid_paths.md)
+- [LCS](/LeetCode/dp/lcs.md)
 
 #### LIS type
-- [what_goes_up](https://github.com/mayankdutta/category-wise-problems/blob/main/uva/dp/what_goes_up.md)
+- [what_goes_up](/uva/dp/what_goes_up.md)
 
 #### TODO
-- [aab](https://github.com/mayankdutta/category-wise-problems/blob/main/Atcoder/dp/aab.md)
-- [cooking](https://github.com/mayankdutta/category-wise-problems/blob/main/Atcoder/dp/cooking.md)
-- [fg_opeartion](https://github.com/mayankdutta/category-wise-problems/blob/main/Atcoder/dp/fg_opeartion.md)
-- [shipping_center](https://github.com/mayankdutta/category-wise-problems/blob/main/Atcoder/dp/shipping_center.md)
-- [strange_lunchbox](https://github.com/mayankdutta/category-wise-problems/blob/main/Atcoder/dp/aab.md)
+- [aab](/Atcoder/dp/aab.md)
+- [cooking](/Atcoder/dp/cooking.md)
+- [fg_opeartion](/Atcoder/dp/fg_opeartion.md)
+- [shipping_center](/Atcoder/dp/shipping_center.md)
+- [strange_lunchbox](/Atcoder/dp/aab.md)
 
 ### Graphs
 ##### Topological Sorting
-- [course_schedule](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/course_schedule.md)
-- [game_routes](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/game_routes.md)
-- [longest_flight_route](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/longest_flight_route.md)
+- [course_schedule](/CSES/graphs/course_schedule.md)
+- [game_routes](/CSES/graphs/game_routes.md)
+- [longest_flight_route](/CSES/graphs/longest_flight_route.md)
 
 ##### Djikstra
-- [flight_discount](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/flight_discount.md)
-- [investigation](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/investigation.md)
-- [djikstra](https://github.com/mayankdutta/category-wise-problems/blob/main/Codeforces/graphs/djikstra.md)
-- [network_delay_time](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/graph/network_delay_time.md)
+- [flight_discount](/CSES/graphs/flight_discount.md)
+- [investigation](/CSES/graphs/investigation.md)
+- [djikstra](/Codeforces/graphs/djikstra.md)
+- [network_delay_time](/LeetCode/graph/network_delay_time.md)
 
 ##### Flood fill
-- [making_a_large_island](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/graph/making_a_large_island.md)
+- [making_a_large_island](/LeetCode/graph/making_a_large_island.md)
 
 ##### DFS
-- [round_trip](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/round_trip.md)
-- [JMI ON campus](https://github.com/mayankdutta/category-wise-problems/blob/main/JMI%20on%20campus/README.md)
+- [round_trip](/CSES/graphs/round_trip.md)
+- [JMI ON campus](/JMI_on_campus/README.md)
 
 ##### BFS
-- [graph_girth](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/graphs/graph_girth.md)
-- [word_ladder](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/graph/word_ladder.md)
+- [graph_girth](/CSES/graphs/graph_girth.md)
+- [word_ladder](/LeetCode/graph/word_ladder.md)
 
 ##### 01 BFS
-- [Wizard in maze](https://github.com/mayankdutta/category-wise-problems/blob/main/Atcoder/graphs/wizard_in_maze.md)
+- [Wizard in maze](/Atcoder/graphs/wizard_in_maze.md)
 
 ##### MSSP
-- [01 Matrix](https://github.com/mayankdutta/category-wise-problems/blob/main/LeetCode/graph/01matrix.md)
+- [01 Matrix](/LeetCode/graph/01matrix.md)
 
 ##### MST
-- [3-types](https://github.com/mayankdutta/category-wise-problems/blob/main/hackerearth/README.md)
+- [3-types](/hackerearth/README.md)
 
 ### Number theory
 
