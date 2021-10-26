@@ -99,18 +99,18 @@ Puzzles:
 
 # Student 3
 
-1.Rotate nodes in a group of K in a given linkedlist
-2.What happpen after URL is entered 
-3.What is DNS
-4.TCP vs UDP
-5.Uske projects react pr dha to he asked react hooks, why functional components 
+    1.Rotate nodes in a group of K in a given linkedlist
+    2.What happpen after URL is entered 
+    3.What is DNS
+    4.TCP vs UDP
+    5.Uske projects react pr dha to he asked react hooks, why functional components 
 
 
 # Rest of Students what i remember 
 
-1.Reverse a linked list 
-2.make BST from a sorted LL
-3.https://leetcode.com/problems/largest-number/
-4. LCA 
-5. Zig zag level order traversal 
-6. Maximum sum path 
+    1.Reverse a linked list 
+    2.make BST from a sorted LL
+    3.https://leetcode.com/problems/largest-number/
+    4. LCA 
+    5. Zig zag level order traversal 
+    6. Maximum sum path 
