@@ -1,3 +1,4 @@
+# Student -1
 OA
 ----
 1.Coding(25min)
@@ -68,3 +69,46 @@ HR Round
 2.Why would you like to join InfoEdge
 3.Tell me about your family
 4.Any questions
+
+# Student 2
+DSA problem:
+1. Finding whether all trips are possible to be completed
+2. All palindromic substring
+3. kth Node from end in a Linkedlist
+4. Intersection between two Linkedlist
+5. Triplet sum
+6. Print Maximum Sum subarray 
+7. Print all permutations of string
+8. Scheduling tasks with dependency
+
+
+Core Subjects:
+1. Polymorphism and its types
+2. Indexing in DB and B trees
+3. You have to send 1 cr email it takes 60 min how will you decrease to 15 min
+4. Acid properties
+5. Deadlock and banker's algorithm
+6. Immutable class
+7. SQL query: Second Highest salary
+8. Normalization and Denormalization
+
+
+Puzzles:
+1. Crossing bridge
+2. Finding contaminated pill
+
+# Student 3
+
+Rotate nodes in a group of K in a given linkedlist
+What happpen after URL is entered 
+What is DNS
+TCP vs UDP
+Uske projects react pr dha to he asked react hooks, why functional components 
+
+
+# Rest Students what i remember 
+
+Reverse a linked list 
+make BST from a sorted LL
+https://leetcode.com/problems/largest-number/
+
