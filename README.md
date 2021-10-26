@@ -65,11 +65,12 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [game_routes](/CSES/graphs/game_routes.md)
 - [longest_flight_route](/CSES/graphs/longest_flight_route.md)
 
-### Djikstra
+### Shortest path
 - [flight_discount](/CSES/graphs/flight_discount.md)
 - [investigation](/CSES/graphs/investigation.md)
 - [djikstra](/Codeforces/graphs/djikstra.md)
 - [network_delay_time](/LeetCode/graph/network_delay_time.md)
+- [8 puzzle on graph](/Atcoder/graphs/8-Puzzle-on-Graph.md)
 
 ### Flood fill
 - [making_a_large_island](/LeetCode/graph/making_a_large_island.md)
