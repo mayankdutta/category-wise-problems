@@ -15,6 +15,12 @@ Sql injection
 Class vs interface
 Views and merits/demerits
 
+from me ( Data scinece postion )
+What is self join and inner join
+what is LL, DLL, advatages, disadvateges , implementation 
+Projects and went in details for database part in them .
+Inner join queries and nested queries .
+
 # Frontend 
 
 Live To-do app coding 
