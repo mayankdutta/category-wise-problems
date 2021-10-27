@@ -1,45 +1,54 @@
 ## Sapient test : OA Jmi on campus
 
 **Problem 1 :** Insert a linked list in the middle of another linked list <br>
+[Leetcode](https://leetcode.com/problems/merge-in-between-linked-lists/) of the same Problem <br>
+
+**Solution 1**
+<details>
+<summary> Code </summary>
+
+```cpp
+SinglyLinkedListNode f=list1,s=list1;
+for(int i=0;i<a-2;i++) 
+  f=f.next;
+
+for(int i=0;i<b-1;i++) 
+  s=s.next;
+  
+if(a>=2)
+  f.next=list2;
+else
+  list1=list2;
+  
+while(list2.next!=NULL)
+    list2=list2.next;
+
+list2.next=s.next;
+return list1;
+```
+</details>
+
+
 **Problem 2 :** given a unweighted undirected graph with exactly one cycle. Find the distance of each node from the cycle. Return an array. The nodes in the cycle have distance 0 <br>
 [Similar Question to problem 2](https://cses.fi/problemset/task/1678/)
 
+<details>
+<summary>Approach</summary>
 
-**Solution 1**
-- [Leetcode](https://leetcode.com/problems/merge-in-between-linked-lists/) of the same Problem
-  Code of the same
-```cpp
-SinglyLinkedListNode f=list1,s=list1;
-    for(int i=0;i<a-2;i++) 
-      f=f.next;
-    
-    for(int i=0;i<b-1;i++) 
-      s=s.next;
-      
-    if(a>=2)
-      f.next=list2;
-    else
-      list1=list2;
-      
-    while(list2.next!=NULL)
-        list2=list2.next;
-    
-    list2.next=s.next;
-    return list1;
-```
-
-
-**Solution 2**
-Approach
 - First motive is to find cycle.
 - Once found, then we can put all elements on queue, and go for (multisource BFS / multisource shortest path).
 - Colouring
-  - color == 0: unvisited.
-  - color == 1: Exploring, seen somewhere before, either parent-child or **cycle**.
-  - color == 2: visited, no need to visted again.
+    - color == 0: unvisited.
+    - color == 1: Exploring, seen somewhere before, either parent-child or **cycle**.
+    - color == 2: visited, no need to visted again.
 - Then there is a parent array, to store the parents and to backtrack once we found the cycle.
 - As we found cycle, we will then backtrack all related nodes and store them in a queue, to BFS them.
-- Code for the same.
+ 
+</details>
+
+<details>
+<summary> Code for the same.</summary>
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -124,3 +133,4 @@ void solve() {
 int main() { solve(); }
 
 ```
+</details>
