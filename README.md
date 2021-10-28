@@ -1,6 +1,7 @@
 Contains category wise problems(data structures, competitive) of popular platforms. 
 
 ## Tags
+- [JMI college placement](#jmi)
 - [Prefix Sums](#prefix-sum--cumulative-sum)
 - [Dynamic Programming](#dynamic-programming)
     - [knapsack type](#knapsack-type)
@@ -20,7 +21,17 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Data structure](#Data-structure)
   - [Stack](#Stack)
   - [DSU](#DSU)
+  - [Linked List](#Linked-list)
 - [Adhoc, observation type](#adhoc-observation-type)
+
+## JMI
+- [company data 2020](/JMI_on_campus/List_Of_Companies_2021.md)
+- [company data 2021](/JMI_on_campus/List_Of_Companies_2022.md)
+- [Sapient](/JMI_on_campus/sapient.md)
+- [Delhivery](/JMI_on_campus/delhivery/)
+- [Infoedge](/JMI_on_campus/infoedge/)
+- [JTG_](/JMI_on_campus/JTG/)
+- [Innovacer](/JMI_on_campus/Innovaccer_off_campus.md)
 
 ## Prefix Sum / Cumulative sum.
 - [blackboard-gcd](/Atcoder/prefix_sums/blackboard_gcd.md)
@@ -66,6 +77,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [longest_flight_route](/CSES/graphs/longest_flight_route.md)
 - [Parallel course 3](/LeetCode/graph/parallel_courses_3.md)
 - [Restricted permutation](/Atcoder/graphs/Restricted_Permutation.md)
+- [G - Longest Path ](/Atcoder/dp_series.md)
 
 ### Shortest path
 - [flight_discount](/CSES/graphs/flight_discount.md)
@@ -79,7 +91,6 @@ Contains category wise problems(data structures, competitive) of popular platfor
 
 ### DFS
 - [round_trip](/CSES/graphs/round_trip.md)
-- [JMI ON campus](/JMI_on_campus/README.md)
 - [Kings Path](/Codeforces/graphs/kings_path.md)
 
 ### BFS
@@ -110,6 +121,14 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
 ### DSU
 - [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
+
+### Linked-list
+- [add two numbers](/LeetCode/linkedList/add_two_numbers.md)
+- [delete node in linked list](/LeetCode/linkedList/delete_node_in_linked_list.md)
+- [intersection of two linked list](/LeetCode/linkedList/intersection_of_two_LL.md)
+- [linked list cycle](/LeetCode/linkedList/LLcycle.md)
+- [middle of the linked list](/LeetCode/linkedList/middle_of_the_linked_list.md)
+- [reverse linked list](/LeetCode/linkedList/reverse_ll.md)
 
 ## Adhoc, observation type
 - [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)

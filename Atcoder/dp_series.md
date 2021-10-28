@@ -35,3 +35,6 @@
 
         ```
         </details>
+
+4. [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)
+    - [Discussed here](/CSES/graphs/longest_flight_route.md)
