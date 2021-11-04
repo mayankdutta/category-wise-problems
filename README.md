@@ -8,6 +8,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
     - [Coin Change type](#coin-change-type)
     - [Grid path type](#grid-path-types)
     - [LIS type](#lis-type)
+    - [Fibonacci type](#fibonacci-type)
 - [Graphs](#graphs)
   - [Topological sorting](#topological-sorting)
   - [Djikstra](#djikstra)
@@ -39,6 +40,12 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
  
 ## Dynamic Programming. 
+
+### Fibonacci-type
+- [typical stairs](/Atcoder/dp/typicalStairs.md)
+- [boredom](/Codeforces/dp/boredom.md)
+- [C. Constanze's Machine](/Codeforces/dp/Constanze_Machine.md)
+- [Basketball](Codeforces/dp/basketball.md)
 
 ### Knapsack type
 - [two_sets2](/CSES/dp/two_sets2.md)
