@@ -2,6 +2,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 
 ## Tags
 - [JMI college placement](#jmi)
+- [Greedy](#greedy)
 - [Prefix Sums](#prefix-sum--cumulative-sum)
 - [Dynamic Programming](#dynamic-programming)
     - [knapsack type](#knapsack-type)
@@ -33,6 +34,9 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Infoedge](/JMI_on_campus/infoedge/)
 - [JTG_](/JMI_on_campus/JTG/)
 - [Innovacer](/JMI_on_campus/Innovaccer_off_campus.md)
+
+## Greedy
+- [Best time to sell the stock](/LeetCode/dp/best_time_to_sell_stock.md)
 
 ## Prefix Sum / Cumulative sum.
 - [blackboard-gcd](/Atcoder/prefix_sums/blackboard_gcd.md)
