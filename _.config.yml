@@ -1,10 +1,9 @@
+markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-kramdown:
-  syntax_highlighter: coderay
 include:
   - CONTRIBUTING.md
   - README.md
