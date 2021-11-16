@@ -7,8 +7,8 @@
 4.  Josh Tech ( software and frontend ) 9lpa each (CS/mca)
 5.  ZS (BBA/DDA role) CTC-12.8lpa / base-9lpa
 6.  Exl 6lpa
-7.  Infoedge  12.5 lpa / base - 10
-8.  Public Sapenit ( 10 CTC )
+7.  Infoedge  12.5 lpa / base - 10 CS/mca/ECE
+8.  Public Sapenit ( 10 CTC ) CS/ECE/MCA
 9.  Cognizant ( 4 CTC )
 10.  IBM ( 4.5 CTC ) = 28 offers
 11.  Wipro( 3.7 CTC ) = 40 offers
