@@ -25,7 +25,9 @@
 22.  Dixon Technologies ( 6 CTC ) for EE/ECE
 22.  Think Future Tech ( 5 CTC ) 
 23.  Decimal Techs( 5 CTC ) 
-24-26.  MCA/CSE only ->(Impetus, Nayak softwares, Hexaveue - 6,7lpa)
+24.  MCA/CSE only ->( Nayak softwares - 6,7lpa)
+25.  MCA/CSE only ->( Impetus - 6,7lpa )
+26.  MCA/CSE only ->( Hexaveue - 6,7lpa )
 27. Edwisor ( for BDA, HR, Technical assc. roles ) 6.6CTC
 28. Accenture (9.9lpa)
 29. Lead Routes
