@@ -26,4 +26,9 @@
 22.  Think Future Tech ( 5 CTC ) 
 23.  Decimal Techs( 5 CTC ) 
 24-26.  MCA/CSE only ->(Impetus, Nayak softwares, Hexaveue - 6,7lpa)
-27.Edwisor ( for BDA, HR, Technical assc. roles ) 6.6CTC
+27. Edwisor ( for BDA, HR, Technical assc. roles ) 6.6CTC
+28. Accenture (9.9lpa)
+29. Lead Routes
+30. SVI(AEC) Cambodia (600$/month+accomodation+transportation, microelectronics)
+31. Optum (13.17lpa)
+32. BITCS (8lpa+15k internship)
