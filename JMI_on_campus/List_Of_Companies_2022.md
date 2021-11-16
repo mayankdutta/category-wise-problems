@@ -4,7 +4,7 @@
 1.  Unthinkable 6lpa 
 2.  TCS ninja (3.3 lpa)
 3.  TCS digital 7lpa
-4.  Josh Tech ( software and frontend ) 9lpa each
+4.  Josh Tech ( software and frontend ) 9lpa each (CS/mca)
 5.  ZS (BBA/DDA role) CTC-12.8lpa / base-9lpa
 6.  Exl 6lpa
 7.  Infoedge  12.5 lpa / base - 10
