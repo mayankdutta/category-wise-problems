@@ -24,6 +24,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
   - [Stack](#Stack)
   - [DSU](#DSU)
   - [Linked List](#Linked-list)
+- [Bitset](#bitset)
 - [Adhoc, observation type](#adhoc-observation-type)
 
 ## JMI
@@ -140,6 +141,12 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [linked list cycle](/LeetCode/linkedList/LLcycle.md)
 - [middle of the linked list](/LeetCode/linkedList/middle_of_the_linked_list.md)
 - [reverse linked list](/LeetCode/linkedList/reverse_ll.md)
+
+## bitset
+- [complement of base 10](/LeetCode/bitset/complement_of_base10.md)
+- [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
+- [Number of valid words for each puzzle](/LeetCode/bitset/NumberOfValidWordsForEachPuzzle.md)
+- [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
 
 ## Adhoc, observation type
 - [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)
