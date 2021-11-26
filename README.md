@@ -35,6 +35,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Infoedge](/JMI_on_campus/infoedge/)
 - [JTG_](/JMI_on_campus/JTG/)
 - [Innovacer](/JMI_on_campus/Innovaccer_off_campus.md)
+- [Optum](/JMI_on_campus/optum.md)
 
 ## Greedy
 - [Best time to sell the stock](/LeetCode/dp/best_time_to_sell_stock.md)
