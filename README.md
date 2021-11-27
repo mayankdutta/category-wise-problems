@@ -3,6 +3,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ## Tags
 - [JMI college placement](#jmi)
 - [Greedy](#greedy)
+- [2 Pointers](#2p)
 - [Prefix Sums](#prefix-sum--cumulative-sum)
 - [Dynamic Programming](#dynamic-programming)
     - [knapsack type](#knapsack-type)
@@ -148,6 +149,10 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
 - [Number of valid words for each puzzle](/LeetCode/bitset/NumberOfValidWordsForEachPuzzle.md)
 - [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
+
+## 2P
+- [maximum consecutive one's](/LeetCode/2p/maxConsecutiveOne.md)
+- [Longest X](/Atcoder/2p/longestX.md)
 
 ## Adhoc, observation type
 - [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)
