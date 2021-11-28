@@ -135,6 +135,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
 ### DSU
 - [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
+- [Graph destruction](/Atcoder/dsu/graphDestruction.md)
 
 ### Linked-list
 - [add two numbers](/LeetCode/linkedList/add_two_numbers.md)
