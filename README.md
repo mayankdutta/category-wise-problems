@@ -136,6 +136,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### DSU
 - [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
 - [Graph destruction](/Atcoder/dsu/graphDestruction.md)
+- [Accounts Merge](/LeetCode/dsu/accounts_merge.md)
 
 ### Linked-list
 - [add two numbers](/LeetCode/linkedList/add_two_numbers.md)
