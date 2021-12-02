@@ -23,14 +23,20 @@
 20.  Zia Semiconductor ( 8 CTC ) for EE/ECE
 21.  Tata Electronics ( 6 CTC )
 22.  Dixon Technologies ( 6 CTC ) for EE/ECE
-22.  Think Future Tech ( 5 CTC ) 
-23.  Decimal Techs( 5 CTC ) 
-24.  MCA/CSE only ->( Nayak softwares - 6,7lpa)
-25.  MCA/CSE only ->( Impetus - 6,7lpa )
-26.  MCA/CSE only ->( Hexaveue - 6,7lpa )
-27. Edwisor ( for BDA, HR, Technical assc. roles ) 6.6CTC
-28. Accenture (9.9lpa)
-29. Lead Routes
-30. SVI(AEC) Cambodia (600$/month+accomodation+transportation, microelectronics)
-31. Optum (13.17lpa)
-32. BITCS (8lpa+15k internship)
+23.  Think Future Tech ( 5 CTC ) 
+24.  Decimal Techs( 5 CTC ) 
+25.  MCA/CSE only ->( Nayak softwares - 6,7lpa)
+26.  MCA/CSE only ->( Impetus - 6,7lpa )
+27.  MCA/CSE only ->( Hexaveue - 6,7lpa )
+28. Edwisor ( for BDA, HR, Technical assc. roles ) 6.6CTC
+29. Accenture (9.9lpa)
+30. Lead Routes
+31. SVI(AEC) Cambodia (600$/month+accomodation+transportation, microelectronics)
+32. Optum (13.17lpa)
+33. BITCS (8lpa+15k internship)
+34. Clarivate Analytics (6.5lpa)
+35. Synoriq (6-8lpa)
+36. Dhwani Rural Systems (6lpa)
+37. Scalar Academy (8.5-9.5lpa)
+38. Polestar Solutions (6lpa)
+
