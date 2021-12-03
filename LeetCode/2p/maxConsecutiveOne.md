@@ -1,6 +1,7 @@
 [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/), Medium, 2 pointers
 
-##### Approach
+### The atmost method
+##### Approach 
 
 - since we can switch up to `k` elements therefore we will prepare a sliding window of `k` size.
 - meaning, we will trigger the internal while loop only when `count_of_zero > k`

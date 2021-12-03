@@ -3,7 +3,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ## Tags
 - [JMI college placement](#jmi)
 - [Greedy](#greedy)
-- [2 Pointers](#2p)
+- [2 Pointers](#two-pointers)
 - [Prefix Sums](#prefix-sum--cumulative-sum)
 - [Dynamic Programming](#dynamic-programming)
     - [knapsack type](#knapsack-type)
@@ -11,20 +11,24 @@ Contains category wise problems(data structures, competitive) of popular platfor
     - [Grid path type](#grid-path-types)
     - [LIS type](#lis-type)
     - [Fibonacci type](#fibonacci-type)
+    - [1D Range sum type](#1d-range-sum)
 - [Graphs](#graphs)
   - [Topological sorting](#topological-sorting)
-  - [Djikstra](#djikstra)
+  - [Shortest Path](#shortest-path)
   - [flood fill](#flood-fill)
   - [DFS](#DFS)
   - [BFS](#BFS)
   - [01 BFS](#01-bfs)
   - [MSSP](#MSSP)
   - [MST](#MST)
-- [NT](#Number-theory)
+- [Number Theory](#Number-theory)
+- [Searching and sorting](#searching-and-sorting)
+  - [Binary Search type](#binary-search-type)
+  - [Two pointers](#two-pointers)
 - [Data structure](#Data-structure)
   - [Stack](#Stack)
   - [DSU](#DSU)
-  - [Linked List](#Linked-list)
+  - [Linked List](#linked-list)
 - [Bitset](#bitset)
 - [Adhoc, observation type](#adhoc-observation-type)
 
@@ -77,6 +81,9 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### LIS type
 - [what_goes_up](/uva/dp/what_goes_up.md)
 
+### 1D Range sum
+- [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
+
 ### TODO
 - [aab](/Atcoder/dp/aab.md)
 - [cooking](/Atcoder/dp/cooking.md)
@@ -127,9 +134,16 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### Binary search type
 - [Apartments](/CSES/searching_and_sorting/apartments.md)
 - [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
-- [binary search in sorted array](/binary_search/binary_seach_in_sorted_array.md)
+- [binary search in sorted array](/LeetCode/binary_search/binary_seach_in_sorted_array.md)
 - [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
 
+### Two Pointers
+- [maximum consecutive one's](/LeetCode/2p/maxConsecutiveOne.md)
+- [Longest X](/Atcoder/2p/longestX.md)
+- [Subarrays with k different Integers](/LeetCode/2p/subarrays_with_k_different_integers.md)
+- [Number of Substrings Containing All Three Characters](/LeetCode/2p/containing_all_three.md)
+- [binary subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
+ 
 ## Data structure
 ### Stack
 - [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
@@ -145,16 +159,13 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [linked list cycle](/LeetCode/linkedList/LLcycle.md)
 - [middle of the linked list](/LeetCode/linkedList/middle_of_the_linked_list.md)
 - [reverse linked list](/LeetCode/linkedList/reverse_ll.md)
+- [Odd Even Linked List](/LeetCode/linkedList/odd_even_linkedlist.md)
 
 ## bitset
 - [complement of base 10](/LeetCode/bitset/complement_of_base10.md)
 - [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
 - [Number of valid words for each puzzle](/LeetCode/bitset/NumberOfValidWordsForEachPuzzle.md)
 - [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
-
-## 2P
-- [maximum consecutive one's](/LeetCode/2p/maxConsecutiveOne.md)
-- [Longest X](/Atcoder/2p/longestX.md)
 
 ## Adhoc, observation type
 - [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)
