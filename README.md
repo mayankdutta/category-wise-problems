@@ -29,6 +29,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
   - [Stack](#Stack)
   - [DSU](#DSU)
   - [Linked List](#linked-list)
+  - [Trees](#trees)
 - [Bitset](#bitset)
 - [Adhoc, observation type](#adhoc-observation-type)
 
@@ -160,6 +161,19 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [middle of the linked list](/LeetCode/linkedList/middle_of_the_linked_list.md)
 - [reverse linked list](/LeetCode/linkedList/reverse_ll.md)
 - [Odd Even Linked List](/LeetCode/linkedList/odd_even_linkedlist.md)
+
+### Trees
+- [Preorder Traversal](/LeetCode/trees/preorder.md)
+- [Inorder Traversal](/LeetCode/trees/inorder.md)
+- [Postorder Traversal](/LeetCode/trees/postorder.md)
+- [Level order](/LeetCode/trees/levelorder.md)
+- [left view](/GeeksForGeeks/trees/leftview.md)
+- [right view](/GeeksForGeeks/trees/rightview.md)
+- [top view](/GeeksForGeeks/trees/topview.md)
+- [bottom view](/GeeksForGeeks/trees/bottomview.md)
+- [Depth of binary tree](/LeetCode/trees/depth_of_binarytree.md)
+- [Balanced binary tree](/LeetCode/trees/balanced_binarytree.md)
+- [diameter of the binary tree](/LeetCode/trees/diameter_of_tree.md)
 
 ## bitset
 - [complement of base 10](/LeetCode/bitset/complement_of_base10.md)
