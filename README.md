@@ -42,6 +42,8 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [JTG_](/JMI_on_campus/JTG/)
 - [Innovacer](/JMI_on_campus/Innovaccer_off_campus.md)
 - [Optum](/JMI_on_campus/optum.md)
+- [Accenture](/JMI_on_campus/accenture)
+- [Wiley Mthree](/JMI_on_campus/Wiley_mthree)
 
 ## Greedy
 - [Best time to sell the stock](/LeetCode/dp/best_time_to_sell_stock.md)
@@ -58,6 +60,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [boredom](/Codeforces/dp/boredom.md)
 - [C. Constanze's Machine](/Codeforces/dp/Constanze_Machine.md)
 - [Basketball](Codeforces/dp/basketball.md)
+- [domino and tromino tiling](/LeetCode/dp/domino.md)
 
 ### Knapsack type
 - [two_sets2](/CSES/dp/two_sets2.md)
@@ -173,7 +176,10 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [bottom view](/GeeksForGeeks/trees/bottomview.md)
 - [Depth of binary tree](/LeetCode/trees/depth_of_binarytree.md)
 - [Balanced binary tree](/LeetCode/trees/balanced_binarytree.md)
+- [Same Tree](/LeetCode/trees/same_tree.md)
 - [diameter of the binary tree](/LeetCode/trees/diameter_of_tree.md)
+- [binary tree tilt](/LeetCode/trees/binary_tree_tilt.md)
+- [Lowest common ancestor](/LeetCode/trees/lowest_common_ancestor.md)
 
 ## bitset
 - [complement of base 10](/LeetCode/bitset/complement_of_base10.md)
