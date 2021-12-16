@@ -13,6 +13,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
     - [Fibonacci type](#fibonacci-type)
     - [1D Range sum type](#1d-range-sum)
 - [Graphs](#graphs)
+  - [General implementation](#general-implementation)
   - [Topological sorting](#topological-sorting)
   - [Shortest Path](#shortest-path)
   - [flood fill](#flood-fill)
@@ -52,6 +53,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [blackboard-gcd](/Atcoder/prefix_sums/blackboard_gcd.md)
 - [make_power_of_2](/Codeforces/prefix_sums/make_power_of_two.md)
 - [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
+- [Good days to rob the bank](/LeetCode/prefix/good_days_rob_bank.md)
  
 ## Dynamic Programming. 
 
@@ -96,6 +98,10 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [strange_lunchbox](/Atcoder/dp/aab.md)
 
 ## Graphs
+
+### General implementation
+- [Detonate the maximum bombs](/LeetCode/graph/detonate_maximum_bomb.md)
+
 ### Topological Sorting
 - [course_schedule](/CSES/graphs/course_schedule.md)
 - [game_routes](/CSES/graphs/game_routes.md)
@@ -103,6 +109,8 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Parallel course 3](/LeetCode/graph/parallel_courses_3.md)
 - [Restricted permutation](/Atcoder/graphs/Restricted_Permutation.md)
 - [G - Longest Path ](/Atcoder/dp_series.md)
+- [Gardner and trees](/Codeforces/graphs/gardner_and_tree.md)
+- [minimum height tree](/LeetCode/graph/minimum_height_tree.md)
 
 ### Shortest path
 - [flight_discount](/CSES/graphs/flight_discount.md)
@@ -117,6 +125,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### DFS
 - [round_trip](/CSES/graphs/round_trip.md)
 - [Kings Path](/Codeforces/graphs/kings_path.md)
+- [Neighbours](/Atcoder/graphs/neighbours.md)
 
 ### BFS
 - [graph_girth](/CSES/graphs/graph_girth.md)
@@ -151,10 +160,12 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ## Data structure
 ### Stack
 - [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
+
 ### DSU
 - [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
 - [Graph destruction](/Atcoder/dsu/graphDestruction.md)
 - [Accounts Merge](/LeetCode/dsu/accounts_merge.md)
+- [Neighbours](/Atcoder/graphs/neighbours.md)
 
 ### Linked-list
 - [add two numbers](/LeetCode/linkedList/add_two_numbers.md)
