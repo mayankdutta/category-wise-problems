@@ -1,8 +1,9 @@
-Contains category wise problems(data structures, competitive) of popular platforms.
+Contains category wise organized problems(data structures, competitive) of popular platforms.
 
 ## Tags
 
 - [JMI college placement](#jmi)
+- [adhoc implementation](#adhoc-implementation)
 - [Greedy](#greedy)
 - [2 Pointers](#two-pointers)
 - [Prefix Sums](#prefix-sum--cumulative-sum)
@@ -12,7 +13,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
   - [Grid path type](#grid-path-types)
   - [LIS type](#lis-type)
   - [Fibonacci type](#fibonacci-type)
-  - [1D Range sum type](#1d-range-sum)
+  - [Prefix Sums / 1D Range sum type / Cumulative sums](#1d-range-sum)
 - [Graphs](#graphs)
   - [General implementation](#general-implementation)
   - [Topological sorting](#topological-sorting)
@@ -25,6 +26,8 @@ Contains category wise problems(data structures, competitive) of popular platfor
   - [MST](#MST)
 - [Number Theory](#Number-theory)
 - [Searching and sorting](#searching-and-sorting)
+  - [implementation type](#greedy-implementation)
+  - [sorting and observation type](#searching-and-sorting)
   - [Binary Search type](#binary-search-type)
   - [Two pointers](#two-pointers)
 - [Data structure](#Data-structure)
@@ -48,16 +51,13 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Accenture](/JMI_on_campus/accenture)
 - [Wiley Mthree](/JMI_on_campus/Wiley_mthree)
 
+## Adhoc implementation
+
+- [Caesar Cipher](/Atcoder/implementation/caesar_cipher.md)
+
 ## Greedy
 
 - [Best time to sell the stock](/LeetCode/dp/best_time_to_sell_stock.md)
-
-## Prefix Sum / Cumulative sum.
-
-- [blackboard-gcd](/Atcoder/prefix_sums/blackboard_gcd.md)
-- [make_power_of_2](/Codeforces/prefix_sums/make_power_of_two.md)
-- [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
-- [Good days to rob the bank](/LeetCode/prefix/good_days_rob_bank.md)
 
 ## Dynamic Programming.
 
@@ -101,6 +101,13 @@ Contains category wise problems(data structures, competitive) of popular platfor
 
 - [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
 - [Number of Smooth Descent Periods of a Stock](/LeetCode/dp/smooth_descent.md)
+- [blackboard-gcd](/Atcoder/prefix/blackboard_gcd.md)
+- [make_power_of_2](/Codeforces/prefix/make_power_of_two.md)
+- [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
+- [Good days to rob the bank](/LeetCode/prefix/good_days_rob_bank.md)
+- [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
+- [contiguous array](/LeetCode/prefix/contiguous_array.md)
+- [Tsundoku.md](/Atcoder/prefix/tsundoku.md)
 
 ### TODO
 
@@ -115,7 +122,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### General implementation
 
 - [Detonate the maximum bombs](/LeetCode/graph/detonate_maximum_bomb.md)
-- [Replace the numbers](/Codeforces/Graphs/replace_the_numbers.md)
+- [Replace the numbers](/Codeforces/graphs/replace_the_numbers.md)
 
 ### Topological Sorting
 
@@ -135,6 +142,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [djikstra](/Codeforces/graphs/djikstra.md)
 - [network_delay_time](/LeetCode/graph/network_delay_time.md)
 - [8 puzzle on graph](/Atcoder/graphs/8-Puzzle-on-Graph.md)
+- [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#shortest-path)
 
 ### Flood fill
 
@@ -158,6 +166,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 ### MSSP
 
 - [01 Matrix](/LeetCode/graph/01matrix.md)
+- [Shortest distance to a character](/LeetCode/graph/shortest_distance_character.md#multisource-bfs)
 
 ### MST
 
@@ -169,12 +178,21 @@ Contains category wise problems(data structures, competitive) of popular platfor
 
 ## Searching and sorting
 
+### greedy implementation
+
+- [Shortest distance to a character](/LeetCode/graph/shortest_distance_character.md#searching-sorting)
+
+### sorting and observation
+
+- [Linear approximation](/Atcoder/searching_sorting/linear_approx.md)
+
 ### Binary search type
 
 - [Apartments](/CSES/searching_and_sorting/apartments.md)
 - [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
 - [binary search in sorted array](/LeetCode/binary_search/binary_seach_in_sorted_array.md)
 - [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
+- [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
 
 ### Two Pointers
 
@@ -183,6 +201,11 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Subarrays with k different Integers](/LeetCode/2p/subarrays_with_k_different_integers.md)
 - [Number of Substrings Containing All Three Characters](/LeetCode/2p/containing_all_three.md)
 - [binary subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
+
+### Intervals type
+
+- [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
+- [Merge intervals](/LeetCode/greedy/merge_intervals.md)
 
 ## Data structure
 
@@ -230,6 +253,7 @@ Contains category wise problems(data structures, competitive) of popular platfor
 - [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
 - [Number of valid words for each puzzle](/LeetCode/bitset/NumberOfValidWordsForEachPuzzle.md)
 - [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
+- [and it's non-zero](/Codeforces/prefix_sums/and_its_nonzero.md)
 
 ## Adhoc, observation type
 
