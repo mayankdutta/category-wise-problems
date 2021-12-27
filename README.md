@@ -6,7 +6,6 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [adhoc implementation](#adhoc-implementation)
 - [Greedy](#greedy)
 - [2 Pointers](#two-pointers)
-- [Prefix Sums](#prefix-sum--cumulative-sum)
 - [Dynamic Programming](#dynamic-programming)
   - [knapsack type](#knapsack-type)
   - [Coin Change type](#coin-change-type)
@@ -50,6 +49,8 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Optum](/JMI_on_campus/optum.md)
 - [Accenture](/JMI_on_campus/accenture)
 - [Wiley Mthree](/JMI_on_campus/Wiley_mthree)
+- [Mobikwik](/JMI_on_campus/mobikwik/)
+- [Samsung](/JMI_on_campus/samsung/)
 
 ## Adhoc implementation
 
@@ -253,7 +254,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
 - [Number of valid words for each puzzle](/LeetCode/bitset/NumberOfValidWordsForEachPuzzle.md)
 - [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
-- [and it's non-zero](/Codeforces/prefix_sums/and_its_nonzero.md)
+- [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
 
 ## Adhoc, observation type
 
