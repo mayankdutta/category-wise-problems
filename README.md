@@ -29,6 +29,7 @@ Contains category wise organized problems(data structures, competitive) of popul
   - [sorting and observation type](#searching-and-sorting)
   - [Binary Search type](#binary-search-type)
   - [Two pointers](#two-pointers)
+  - [Divide and Conquer](#divide-and-conquer)
 - [Data structure](#Data-structure)
   - [Stack](#Stack)
   - [DSU](#DSU)
@@ -109,6 +110,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
 - [contiguous array](/LeetCode/prefix/contiguous_array.md)
 - [Tsundoku.md](/Atcoder/prefix/tsundoku.md)
+- [Intervals Between Identical Elements](/LeetCode/prefix/intervals_identical_elements.md)
 
 ### TODO
 
@@ -124,6 +126,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 
 - [Detonate the maximum bombs](/LeetCode/graph/detonate_maximum_bomb.md)
 - [Replace the numbers](/Codeforces/graphs/replace_the_numbers.md)
+- [Moocast](/USACO/graph/moocast.md)
 
 ### Topological Sorting
 
@@ -135,6 +138,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [G - Longest Path ](/Atcoder/dp_series.md)
 - [Gardner and trees](/Codeforces/graphs/gardner_and_tree.md)
 - [minimum height tree](/LeetCode/graph/minimum_height_tree.md)
+- [Find All Possible Recipes from Given Supplies](/LeetCode/graph/recipes_supplies.md)
 
 ### Shortest path
 
@@ -148,6 +152,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 ### Flood fill
 
 - [making_a_large_island](/LeetCode/graph/making_a_large_island.md)
+- [Number of islands](/LeetCode/graph/number_of_islands.md)
 
 ### DFS
 
@@ -176,6 +181,8 @@ Contains category wise organized problems(data structures, competitive) of popul
 ## Number theory
 
 - [Amusement park](/Atcoder/maths_greedy/amusement_park.md)
+- [Divisor counts](/Codeforces/number_theory/divisor_count.md)
+- [Pairs of Songs With Total Durations Divisible by 60](/LeetCode/number_theory/pairs_divisible_by_60.md)
 
 ## Searching and sorting
 
@@ -207,6 +214,10 @@ Contains category wise organized problems(data structures, competitive) of popul
 
 - [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
 - [Merge intervals](/LeetCode/greedy/merge_intervals.md)
+
+### divide and conquer
+
+- [thanos sort](/Codeforces/divide_and_conquer/thanos_sort.md)
 
 ## Data structure
 
@@ -246,6 +257,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Same Tree](/LeetCode/trees/same_tree.md)
 - [diameter of the binary tree](/LeetCode/trees/diameter_of_tree.md)
 - [binary tree tilt](/LeetCode/trees/binary_tree_tilt.md)
+- [Populating Next Right Pointers in Each Node](/LeetCode/trees/populate_next_right.md)
 - [Lowest common ancestor](/LeetCode/trees/lowest_common_ancestor.md)
 
 ## bitset
