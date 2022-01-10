@@ -18,25 +18,24 @@ Contains category wise organized problems(data structures, competitive) of popul
   - [Topological sorting](#topological-sorting)
   - [Shortest Path](#shortest-path)
   - [flood fill](#flood-fill)
-  - [DFS](#DFS)
-  - [BFS](#BFS)
+  - [DFS](#dfs)
+  - [BFS](#bfs)
   - [01 BFS](#01-bfs)
-  - [MSSP](#MSSP)
-  - [MST](#MST)
-- [Number Theory](#Number-theory)
+  - [MSSP](#mssp)
+  - [MST](#mst)
+- [Number Theory](#number-theory)
 - [Searching and sorting](#searching-and-sorting)
   - [implementation type](#greedy-implementation)
   - [sorting and observation type](#searching-and-sorting)
   - [Binary Search type](#binary-search-type)
   - [Two pointers](#two-pointers)
   - [Divide and Conquer](#divide-and-conquer)
-- [Data structure](#Data-structure)
-  - [Stack](#Stack)
-  - [DSU](#DSU)
+- [Data structure](#data-structure)
+  - [Stack](#stack)
+  - [DSU](#dsu)
   - [Linked List](#linked-list)
   - [Trees](#trees)
 - [Bitset](#bitset)
-- [Adhoc, observation type](#adhoc-observation-type)
 
 ## JMI
 
@@ -56,6 +55,8 @@ Contains category wise organized problems(data structures, competitive) of popul
 ## Adhoc implementation
 
 - [Caesar Cipher](/Atcoder/implementation/caesar_cipher.md)
+- [Polycarp and String Transformation](/Codeforces/implementation/polycarp_and_string_transformation.md)
+- [Vitamins](/Codeforces/implementation/vitamins.md)
 
 ## Greedy
 
@@ -164,6 +165,8 @@ Contains category wise organized problems(data structures, competitive) of popul
 
 - [graph_girth](/CSES/graphs/graph_girth.md)
 - [word_ladder](/LeetCode/graph/word_ladder.md)
+- [Making a large island](/LeetCode/dsu/making_large_island.md#bfs)
+- [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
 
 ### 01 BFS
 
@@ -177,12 +180,16 @@ Contains category wise organized problems(data structures, competitive) of popul
 ### MST
 
 - [3-types](/hackerearth/README.md)
+- [minimum cost to connect path](/LeetCode/graph/min_cost_to_connect_path.md)
 
 ## Number theory
 
 - [Amusement park](/Atcoder/maths_greedy/amusement_park.md)
 - [Divisor counts](/Codeforces/number_theory/divisor_count.md)
 - [Pairs of Songs With Total Durations Divisible by 60](/LeetCode/number_theory/pairs_divisible_by_60.md)
+- [max GCD pair](/codestudio/number_theory/max_gcd_pair.md)
+- [make it equal](/LeetCode/number_theory/smallest_integer_divisibe_k.md)
+- [count nice pairs in an array](/LeetCode/number_theory/nice_pairs.md)
 
 ## Searching and sorting
 
@@ -214,6 +221,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 
 - [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
 - [Merge intervals](/LeetCode/greedy/merge_intervals.md)
+- [Car pooling](/LeetCode/greedy/car_pooling.md)
 
 ### divide and conquer
 
@@ -231,6 +239,8 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Graph destruction](/Atcoder/dsu/graphDestruction.md)
 - [Accounts Merge](/LeetCode/dsu/accounts_merge.md)
 - [Neighbours](/Atcoder/graphs/neighbours.md)
+- [Largest Component Size by Common Factor](/LeetCode/dsu/largest_component_common_factor.md)
+- [Making a large island](/LeetCode/dsu/making_large_island.md#dsu)
 
 ### Linked-list
 
@@ -259,6 +269,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [binary tree tilt](/LeetCode/trees/binary_tree_tilt.md)
 - [Populating Next Right Pointers in Each Node](/LeetCode/trees/populate_next_right.md)
 - [Lowest common ancestor](/LeetCode/trees/lowest_common_ancestor.md)
+- [Maximum difference between node and ancestor](/LeetCode/trees/maximum_diff_node_ancestor.md)
 
 ## bitset
 
@@ -267,10 +278,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Number of valid words for each puzzle](/LeetCode/bitset/NumberOfValidWordsForEachPuzzle.md)
 - [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
 - [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
-
-## Adhoc, observation type
-
-- [Polycarp and String Transformation](/Codeforces/observation/polycarp_and_string_transformation.md)
+- [Make it equal](/codestudio/bits/make_it_equal.md)
 
 # Please follow these rules, if you wish to CONTRIBUTE.
 
