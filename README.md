@@ -35,6 +35,7 @@ Contains category wise organized problems(data structures, competitive) of popul
   - [DSU](#dsu)
   - [Linked List](#linked-list)
   - [Trees](#trees)
+  - [Binary Search Trees](#bst)
 - [Bitset](#bitset)
 
 ## JMI
@@ -57,6 +58,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Caesar Cipher](/Atcoder/implementation/caesar_cipher.md)
 - [Polycarp and String Transformation](/Codeforces/implementation/polycarp_and_string_transformation.md)
 - [Vitamins](/Codeforces/implementation/vitamins.md)
+- [Divide and print](/pepcoding/implementation/divide_print.md)
 
 ## Greedy
 
@@ -102,6 +104,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 
 ### 1D Range sum
 
+- [Maximum Absolute Sum of Any Subarray ](/LeetCode/dp/max_abs_sum.md)
 - [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
 - [Number of Smooth Descent Periods of a Stock](/LeetCode/dp/smooth_descent.md)
 - [blackboard-gcd](/Atcoder/prefix/blackboard_gcd.md)
@@ -160,6 +163,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [round_trip](/CSES/graphs/round_trip.md)
 - [Kings Path](/Codeforces/graphs/kings_path.md)
 - [Neighbours](/Atcoder/graphs/neighbours.md)
+- [Keys and rooms](/LeetCode/graphs/keys_and_rooms.md#dfs)
 
 ### BFS
 
@@ -167,6 +171,8 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [word_ladder](/LeetCode/graph/word_ladder.md)
 - [Making a large island](/LeetCode/dsu/making_large_island.md#bfs)
 - [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
+- [Multiply and rotate](/LeetCode/graphs/multiply_rotate.md)
+- [Keys and rooms](/LeetCode/graphs/keys_and_rooms.md#bfs)
 
 ### 01 BFS
 
@@ -190,6 +196,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [max GCD pair](/codestudio/number_theory/max_gcd_pair.md)
 - [make it equal](/LeetCode/number_theory/smallest_integer_divisibe_k.md)
 - [count nice pairs in an array](/LeetCode/number_theory/nice_pairs.md)
+- [robbery](/pepcoding/number_theory/robbery.md)
 
 ## Searching and sorting
 
@@ -208,6 +215,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [binary search in sorted array](/LeetCode/binary_search/binary_seach_in_sorted_array.md)
 - [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
 - [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
+- [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#binary-search)
 
 ### Two Pointers
 
@@ -215,17 +223,19 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Longest X](/Atcoder/2p/longestX.md)
 - [Subarrays with k different Integers](/LeetCode/2p/subarrays_with_k_different_integers.md)
 - [Number of Substrings Containing All Three Characters](/LeetCode/2p/containing_all_three.md)
-- [binary subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
+- [binary Subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
+- [2134. Minimum Swaps to Group All 1's Together II](/LeetCode/2p/min_swaps.md)
 
 ### Intervals type
 
 - [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
 - [Merge intervals](/LeetCode/greedy/merge_intervals.md)
 - [Car pooling](/LeetCode/greedy/car_pooling.md)
+- [Minimum Number of Arrows to Burst Balloons](/LeetCode/greedy/min_arrows_burst_balloons.md)
 
 ### divide and conquer
 
-- [thanos sort](/Codeforces/divide_and_conquer/thanos_sort.md)
+- [Thanos sort](/Codeforces/divide_and_conquer/thanos_sort.md)
 
 ## Data structure
 
@@ -241,6 +251,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Neighbours](/Atcoder/graphs/neighbours.md)
 - [Largest Component Size by Common Factor](/LeetCode/dsu/largest_component_common_factor.md)
 - [Making a large island](/LeetCode/dsu/making_large_island.md#dsu)
+- [Most Stones Removed with Same Row or Column ](/LeetCode/graph/remove_stones_same_row_col.md)
 
 ### Linked-list
 
@@ -270,6 +281,11 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Populating Next Right Pointers in Each Node](/LeetCode/trees/populate_next_right.md)
 - [Lowest common ancestor](/LeetCode/trees/lowest_common_ancestor.md)
 - [Maximum difference between node and ancestor](/LeetCode/trees/maximum_diff_node_ancestor.md)
+- [vertical order traversal](/LeetCode/trees/vertical_order_traversal.md)
+
+### BST
+
+- [insert into binary search tree](/LeetCode/bst/insert_into_bst.md)
 
 ## bitset
 
@@ -279,6 +295,7 @@ Contains category wise organized problems(data structures, competitive) of popul
 - [Total hammering distance](/LeetCode/bitset/totalHammeringDistance.md)
 - [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
 - [Make it equal](/codestudio/bits/make_it_equal.md)
+- [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#bit-manipulation)
 
 # Please follow these rules, if you wish to CONTRIBUTE.
 
