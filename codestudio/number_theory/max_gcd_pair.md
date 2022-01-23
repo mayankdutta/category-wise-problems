@@ -35,3 +35,28 @@ int maxGCDPair(vector<int> &arr, int n) {
 ```
 
 </details>
+
+- we will track if there exist some no. in the given range
+- who has more then 2 factors in `a -> b`.
+- if there is, that is our ans.
+
+<details>
+<summary> more optimized</summary>
+
+```cpp
+int maxGCDPair(vector<int> &arr, int n) {
+  int a, b;
+  cin >> a >> b;
+
+  int ans = 1;
+  for (int i = 2; i <= 1e5; i++) {
+    int count = (b / i - (a - 1) / i);
+    if (count > 1)
+      ans = i;
+  }
+  cout << ans << '\n';
+
+}
+```
+
+</details>
