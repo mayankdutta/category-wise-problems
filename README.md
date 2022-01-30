@@ -135,13 +135,13 @@
 10. [Tsundoku.md](/Atcoder/prefix/tsundoku.md)
 11. [Intervals Between Identical Elements](/LeetCode/prefix/intervals_identical_elements.md)
 12. [Maximum Sum of Two Non-Overlapping Subarrays](/LeetCode/prefix/subarrays_odd_sum.md)
-13. [Reducing dishes](/LeetCode/implementation/reducing_dishes.md)
+13. [Reducing dishes](/LeetCode/dp/reducing_dishes.md)
 
 #### TODO
 
 1. [aab](/Atcoder/dp/aab.md)
 2. [cooking](/Atcoder/dp/cooking.md)
-3. [fg_opeartion](/Atcoder/dp/fg_opeartion.md)
+3. [fg_opeartion](/Atcoder/dp/fg_operation.md)
 4. [shipping_center](/Atcoder/dp/shipping_center.md)
 5. [strange_lunchbox](/Atcoder/dp/aab.md)
 
@@ -159,7 +159,7 @@
 2. [game_routes](/CSES/graphs/game_routes.md)
 3. [longest_flight_route](/CSES/graphs/longest_flight_route.md)
 4. [Parallel course 3](/LeetCode/graph/parallel_courses_3.md)
-5. [Restricted permutation](/Atcoder/graphs/Restricted_Permutation.md)
+5. [Restricted permutation](/Atcoder/graph/Restricted_Permutation.md)
 6. [G - Longest Path ](/Atcoder/dp_series.md)
 7. [Gardner and trees](/Codeforces/graphs/gardner_and_tree.md)
 8. [minimum height tree](/LeetCode/graph/minimum_height_tree.md)
@@ -171,7 +171,7 @@
 2. [investigation](/CSES/graphs/investigation.md)
 3. [djikstra](/Codeforces/graphs/djikstra.md)
 4. [network_delay_time](/LeetCode/graph/network_delay_time.md)
-5. [8 puzzle on graph](/Atcoder/graphs/8-Puzzle-on-Graph.md)
+5. [8 puzzle on graph](/Atcoder/graph/8-Puzzle-on-Graph.md)
 6. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#shortest-path)
 
 #### Flood fill
@@ -183,8 +183,8 @@
 
 1. [round_trip](/CSES/graphs/round_trip.md)
 2. [Kings Path](/Codeforces/graphs/kings_path.md)
-3. [Neighbours](/Atcoder/graphs/neighbours.md)
-4. [Keys and rooms](/LeetCode/graphs/keys_and_rooms.md#dfs)
+3. [Neighbours](/Atcoder/graph/neighbours.md)
+4. [Keys and rooms](/LeetCode/graph/keys_and_rooms.md#dfs)
 
 #### BFS
 
@@ -192,12 +192,12 @@
 2. [word_ladder](/LeetCode/graph/word_ladder.md)
 3. [Making a large island](/LeetCode/dsu/making_large_island.md#bfs)
 4. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
-5. [Multiply and rotate](/LeetCode/graphs/multiply_rotate.md)
-6. [Keys and rooms](/LeetCode/graphs/keys_and_rooms.md#bfs)
+5. [Multiply and rotate](/Atcoder/graph/multiply_rotate.md)
+6. [Keys and rooms](/LeetCode/graph/keys_and_rooms.md#bfs)
 
 #### 01 BFS
 
-1. [Wizard in maze](/Atcoder/graphs/wizard_in_maze.md)
+1. [Wizard in maze](/Atcoder/graph/wizard_in_maze.md)
 
 #### MSSP
 
@@ -276,7 +276,7 @@
 1. [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
 2. [Graph destruction](/Atcoder/dsu/graphDestruction.md)
 3. [Accounts Merge](/LeetCode/dsu/accounts_merge.md)
-4. [Neighbours](/Atcoder/graphs/neighbours.md)
+4. [Neighbours](/Atcoder/graph/neighbours.md)
 5. [Largest Component Size by Common Factor](/LeetCode/dsu/largest_component_common_factor.md)
 6. [Making a large island](/LeetCode/dsu/making_large_island.md#dsu)
 7. [Most Stones Removed with Same Row or Column ](/LeetCode/graph/remove_stones_same_row_col.md)
@@ -319,8 +319,8 @@
 
 #### trie
 
-1. [Implement Trie (Prefix Tree) ](/LeetCode/trie/Implementing_trie.md)
-2. [Design Add and Search Words Data Structure](/LeetCode/trie/Implementing_trie.md)
+1. [Implement Trie (Prefix Tree) ](/LeetCode/trie/implementing_trie.md)
+2. [Design Add and Search Words Data Structure](/LeetCode/trie/design_dictionary.md)
 
 ### bitset
 
@@ -332,7 +332,7 @@
 6. [Make it equal](/codestudio/bits/make_it_equal.md)
 7. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#bit-manipulation)
 8. [majority element](/LeetCode/implementation/majority_element.md#bits)
-9. [Find XOR Sum of All Pairs Bitwise AND](/LeetCode/bitset/xor_sum_all_pairs_bitwise_and.md)
+9. [Find XOR Sum of All Pairs Bitwise AND](/LeetCode/bitset/xor_sum_all_pairs_biwise_and.md)
 
 ## Please follow these rules, if you wish to CONTRIBUTE.
 
