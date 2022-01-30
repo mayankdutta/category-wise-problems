@@ -1,13 +1,12 @@
 [2 - Add two numbers](https://leetcode.com/problems/add-two-numbers/), Medium
+
 - Idea is to add given no.s as traverse
 - we must take care of the case that if sum > 10, we will have to use an extra variable `carry`.
-- *what if at the end a two digit no. remained like 12*, 1 will be added within `while(condition1 && condition2)`
+- _what if at the end a two digit no. remained like 12_, 1 will be added within `while(condition1 && condition2)`
   for the digit `2`, extra if condition is added at the end.
-
 
 <details>
 <summary> Code </summary>
-
 
 ```cpp
    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
@@ -49,13 +48,14 @@
             ListNode *temp = new ListNode;
             temp -> val = carry;
             temp -> next = nullptr;
-            
+
             tail -> next = temp;
             tail = temp;
         }
-        
+
         return head;
     }
 
 ```
+
 </details>
