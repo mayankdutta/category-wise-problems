@@ -74,6 +74,9 @@
 7. [majority element 2](/LeetCode/implementation/majority_element2.md#moore)
 8. [move zeros](/LeetCode/implementation/move_zeros.md)
 9. [sort integers by power](/LeetCode/implementation/sort_integers_power.md)
+10. [Kill the Monsters](/Codeforces/implementation/kill_the_monsters.md)
+11. [Partition String ](/binary_search/implementation/partition_string.md)
+12. [valid palindrome II](/LeetCode/implementation/valid_palindrome2.md)
 
 ### Greedy
 
@@ -90,6 +93,7 @@
 5. [domino and tromino tiling](/LeetCode/dp/domino.md)
 6. [House robber](/LeetCode/dp/house_robber.md)
 7. [Delete and earn](/LeetCode/dp/delete_and_earn.md)
+8. [746. Min Cost Climbing Stairs](/LeetCode/dp/min_cost_climbing.md)
 
 #### Knapsack type
 
@@ -102,12 +106,26 @@
 7. [sum_of_different_primes](/uva/dp/sum_of_different_primes.md)
 8. [hoof_paper_scissor](/USACO/dp/hoof_paper_scissor.md)
 9. [maximum score from performing multiplication operations](/LeetCode/dp/max_score_performing_multiple.md)
+10. [Divide the array in K segments such that the sum of minimums is maximized](/GeeksForGeeks/dp/divide_array_k_subsegements.md)
+11. [188. Best Time to Buy and Sell Stock IV](/LeetCode/dp/best_time_to_buy_sell_stock4.md)
+12. [Best Time to Buy and Sell Stock with Cooldown](/LeetCode/dp/best_time_to_buy_sell_cooldown.md)
+13. [714. Best Time to Buy and Sell Stock with Transaction Fee](/LeetCode/dp/best_time_to_buy_sell_fee.md)
 
 #### Coin change type
 
 1. [removing_digits](/CSES/dp/removing_digits.md)
 2. [dollars](/uva/dp/dollars.md)
 3. [fruit_feast](/USACO/dp/fruit_feast.md)
+4. [Minimum Difficulty of a Job Schedule](/LeetCode/dp/min_difficulty_job_schedule.md)
+5. [1155. Number of Dice Rolls With Target Sum](/LeetCode/dp/dice_rolls_target_sum.md)
+6. [188. Best Time to Buy and Sell Stock IV](/LeetCode/dp/best_time_to_buy_sell_stock4.md)
+7. [714. Best Time to Buy and Sell Stock with Transaction Fee](/LeetCode/dp/best_time_to_buy_sell_fee.md)
+8. [309. Best Time to Buy and Sell Stock with Cooldown](/LeetCode/dp/best_time_to_buy_sell_cooldown.md)
+
+#### Counting DP type
+
+1. [Coin change 2](/LeetCode/dp/coin_change2.md)
+2. [91. Decode Ways](/LeetCode/dp/decode_ways.md)
 
 #### Grid path types
 
@@ -115,11 +133,17 @@
 2. [grid_paths](/CSES/dp/grid_paths.md)
 3. [LCS](/LeetCode/dp/lcs.md)
 4. [Maximal square](/LeetCode/dp/maximal_square.md)
+5. [Unique Paths](/LeetCode/dp/unique_paths.md#unique-paths-1)
+6. [Unique Paths 2](/LeetCode/dp/unique_paths.md#unique-paths-2)
+7. [Minimum Path sum](/LeetCode/dp/min_path_sum.md)
+8. [931. Minimum Falling Path Sum](/LeetCode/dp/min_falling_path_sum.md)
+9. [718. Maximum Length of Repeated Subarray ](/LeetCode/dp/max_subarray_two_array.md)
 
 #### LIS type
 
 1. [what_goes_up](/uva/dp/what_goes_up.md)
 2. [kth increasing](/LeetCode/lis/k_increasing.md)
+3. [139. Word Break](/LeetCode/dp/word_break.md)
 
 #### 1D Range sum
 
@@ -136,6 +160,7 @@
 11. [Intervals Between Identical Elements](/LeetCode/prefix/intervals_identical_elements.md)
 12. [Maximum Sum of Two Non-Overlapping Subarrays](/LeetCode/prefix/subarrays_odd_sum.md)
 13. [Reducing dishes](/LeetCode/dp/reducing_dishes.md)
+14. [Best time to Buy and sell stocks](/LeetCode/prefix/best_time_to_buy_sell_stock.md#prefix-sums)
 
 #### TODO
 
@@ -230,6 +255,7 @@
 #### sorting and observation
 
 1. [Linear approximation](/Atcoder/searching_sorting/linear_approx.md)
+2. [LR Insertion](/Atcoder/linkedList/LR_insertion.md#list-implementation)
 
 #### Binary search type
 
@@ -248,17 +274,25 @@
 4. [Number of Substrings Containing All Three Characters](/LeetCode/2p/containing_all_three.md)
 5. [binary Subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
 6. [2134. Minimum Swaps to Group All 1's Together II](/LeetCode/2p/min_swaps.md)
+7. [438. Find All Anagrams in a String ](/LeetCode/2p/find_all_anagrams.md)
+8. [567. Permutation in String](/LeetCode/2p/permutation_in_string.md)
 
 #### Intervals type
 
 1. [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
 2. [Merge intervals](/LeetCode/greedy/merge_intervals.md)
 3. [Car pooling](/LeetCode/greedy/car_pooling.md)
-4. [Minimum Number of Arrows to Burst Balloons](/LeetCode/greedy/min_arrows_burst_balloons.md)
+4. [567. Permutation in String](/LeetCode/greedy/min_arrows_burst_balloons.md)
 
 #### Heaps
 
-1. [Top k frequent words](/LeetCode/implementation/top_k_words.md)
+1. [Top k frequent words](/LeetCode/heaps/top_k_words.md)
+2. [215. Kth Largest Element in an Array](/LeetCode/heaps/kth_largest_element.md)
+3. [347. Top K Frequent Elements ](/LeetCode/heaps/top_k_elements.md)
+4. [1046. Last Stone Weight](/LeetCode/heaps/last_stone_weight.md)
+5. [973. K Closest Points to Origin](/LeetCode/heaps/k_closest_point.md)
+6. [1642. Furthest Building You Can Reach](/LeetCode/heaps/furthest_point_reachable.md), todo
+7. [295. Find Median from Data Stream ](/LeetCode/heaps/find_median_data_stream.md), todo
 
 #### divide and conquer
 
@@ -292,6 +326,8 @@
 6. [reverse linked list](/LeetCode/linkedList/reverse_ll.md)
 7. [Odd Even Linked List](/LeetCode/linkedList/odd_even_linkedlist.md)
 8. [Palindrome linked list](/LeetCode/linkedList/palindrome.md)
+9. [23. Merge k sorted list](/LeetCode/linkedList/merge_k_sorted_list.md)
+10. [LR Insertion](/Atcoder/linkedList/LR_insertion.md#doubly-linked-list-implementation)
 
 #### Trees
 
