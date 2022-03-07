@@ -28,6 +28,7 @@
    7. [01 BFS](#01-bfs)
    8. [MSSP](#mssp)
    9. [MST](#mst)
+   10. [Tree + dp](#tree-dp)
 7. [Number Theory](#number-theory)
 8. [Searching and sorting](#searching-and-sorting)
    1. [implementation type](#greedy-implementation)
@@ -88,34 +89,36 @@
 
 1. [typical stairs](/Atcoder/dp/typicalStairs.md)
 2. [boredom](/Codeforces/dp/boredom.md)
-3. [C. Constanze's Machine](/Codeforces/dp/Constanze_Machine.md)
+3. [Constanze's Machine](/Codeforces/dp/Constanze_Machine.md)
 4. [Basketball](Codeforces/dp/basketball.md)
 5. [domino and tromino tiling](/LeetCode/dp/domino.md)
 6. [House robber](/LeetCode/dp/house_robber.md)
 7. [Delete and earn](/LeetCode/dp/delete_and_earn.md)
 8. [746. Min Cost Climbing Stairs](/LeetCode/dp/min_cost_climbing.md)
+9. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp)
 
 #### Knapsack type
 
-1. [two_sets2](/CSES/dp/two_sets2.md)
-2. [book_shop](/CSES/dp/book_shop.md)
-3. [money_sums](/CSES/dp/money_sums.md)
-4. [dividing_coins](/uva/dp/dividing_coins.md)
-5. [divisible_group_sums](/uva/dp/divisible_group_sums.md)
-6. [wedding_shopping](/uva/dp/wedding_shopping.md)
-7. [sum_of_different_primes](/uva/dp/sum_of_different_primes.md)
-8. [hoof_paper_scissor](/USACO/dp/hoof_paper_scissor.md)
+1. [two sets2](/CSES/dp/two_sets2.md)
+2. [book shop](/CSES/dp/book_shop.md)
+3. [money sums](/CSES/dp/money_sums.md)
+4. [dividing coins](/uva/dp/dividing_coins.md)
+5. [divisible group sums](/uva/dp/divisible_group_sums.md)
+6. [wedding shopping](/uva/dp/wedding_shopping.md)
+7. [sum of different_primes](/uva/dp/sum_of_different_primes.md)
+8. [hoof paper scissor](/USACO/dp/hoof_paper_scissor.md)
 9. [maximum score from performing multiplication operations](/LeetCode/dp/max_score_performing_multiple.md)
 10. [Divide the array in K segments such that the sum of minimums is maximized](/GeeksForGeeks/dp/divide_array_k_subsegements.md)
 11. [188. Best Time to Buy and Sell Stock IV](/LeetCode/dp/best_time_to_buy_sell_stock4.md)
 12. [Best Time to Buy and Sell Stock with Cooldown](/LeetCode/dp/best_time_to_buy_sell_cooldown.md)
 13. [714. Best Time to Buy and Sell Stock with Transaction Fee](/LeetCode/dp/best_time_to_buy_sell_fee.md)
+14. [516. Longest Palindromic Subsequence](/LeetCode/dp/longest_palindromic_subseq.md)
 
 #### Coin change type
 
 1. [removing_digits](/CSES/dp/removing_digits.md)
 2. [dollars](/uva/dp/dollars.md)
-3. [fruit_feast](/USACO/dp/fruit_feast.md)
+3. [fruit feast](/USACO/dp/fruit_feast.md)
 4. [Minimum Difficulty of a Job Schedule](/LeetCode/dp/min_difficulty_job_schedule.md)
 5. [1155. Number of Dice Rolls With Target Sum](/LeetCode/dp/dice_rolls_target_sum.md)
 6. [188. Best Time to Buy and Sell Stock IV](/LeetCode/dp/best_time_to_buy_sell_stock4.md)
@@ -129,8 +132,8 @@
 
 #### Grid path types
 
-1. [edit_distance](/CSES/dp/book_shop.md)
-2. [grid_paths](/CSES/dp/grid_paths.md)
+1. [edit distance](/CSES/dp/book_shop.md)
+2. [grid paths](/CSES/dp/grid_paths.md)
 3. [LCS](/LeetCode/dp/lcs.md)
 4. [Maximal square](/LeetCode/dp/maximal_square.md)
 5. [Unique Paths](/LeetCode/dp/unique_paths.md#unique-paths-1)
@@ -138,10 +141,11 @@
 7. [Minimum Path sum](/LeetCode/dp/min_path_sum.md)
 8. [931. Minimum Falling Path Sum](/LeetCode/dp/min_falling_path_sum.md)
 9. [718. Maximum Length of Repeated Subarray ](/LeetCode/dp/max_subarray_two_array.md)
+10. [799. Champagne Tower ](/LeetCode/dp/champagne_tower.md)
 
 #### LIS type
 
-1. [what_goes_up](/uva/dp/what_goes_up.md)
+1. [what goes up](/uva/dp/what_goes_up.md)
 2. [kth increasing](/LeetCode/lis/k_increasing.md)
 3. [139. Word Break](/LeetCode/dp/word_break.md)
 
@@ -150,8 +154,8 @@
 1. [Maximum Absolute Sum of Any Subarray ](/LeetCode/dp/max_abs_sum.md)
 2. [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
 3. [Number of Smooth Descent Periods of a Stock](/LeetCode/dp/smooth_descent.md)
-4. [blackboard-gcd](/Atcoder/prefix/blackboard_gcd.md)
-5. [make_power_of_2](/Codeforces/prefix/make_power_of_two.md)
+4. [blackboard gcd](/Atcoder/prefix/blackboard_gcd.md)
+5. [make power of 2](/Codeforces/prefix/make_power_of_two.md)
 6. [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
 7. [Good days to rob the bank](/LeetCode/prefix/good_days_rob_bank.md)
 8. [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
@@ -161,14 +165,18 @@
 12. [Maximum Sum of Two Non-Overlapping Subarrays](/LeetCode/prefix/subarrays_odd_sum.md)
 13. [Reducing dishes](/LeetCode/dp/reducing_dishes.md)
 14. [Best time to Buy and sell stocks](/LeetCode/prefix/best_time_to_buy_sell_stock.md#prefix-sums)
+15. [1590. Make Sum Divisible by P ](/LeetCode/prefix/make_sum_divisible.md)
+16. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp-with-state-compression)
+17. [Count of subarrays having sum equal to its length ](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)
+18. [Number of subarrays having absolute sum greater than K ](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
 
 #### TODO
 
 1. [aab](/Atcoder/dp/aab.md)
 2. [cooking](/Atcoder/dp/cooking.md)
-3. [fg_opeartion](/Atcoder/dp/fg_operation.md)
-4. [shipping_center](/Atcoder/dp/shipping_center.md)
-5. [strange_lunchbox](/Atcoder/dp/aab.md)
+3. [fg operation](/Atcoder/dp/fg_operation.md)
+4. [shipping center](/Atcoder/dp/shipping_center.md)
+5. [strange lunchbox](/Atcoder/dp/aab.md)
 
 ### Graphs
 
@@ -180,9 +188,9 @@
 
 #### Topological Sorting
 
-1. [course_schedule](/CSES/graphs/course_schedule.md)
-2. [game_routes](/CSES/graphs/game_routes.md)
-3. [longest_flight_route](/CSES/graphs/longest_flight_route.md)
+1. [course schedule](/CSES/graphs/course_schedule.md)
+2. [game routes](/CSES/graphs/game_routes.md)
+3. [longest flight route](/CSES/graphs/longest_flight_route.md)
 4. [Parallel course 3](/LeetCode/graph/parallel_courses_3.md)
 5. [Restricted permutation](/Atcoder/graph/Restricted_Permutation.md)
 6. [G - Longest Path ](/Atcoder/dp_series.md)
@@ -192,29 +200,29 @@
 
 #### Shortest path
 
-1. [flight_discount](/CSES/graphs/flight_discount.md)
+1. [flight discount](/CSES/graphs/flight_discount.md)
 2. [investigation](/CSES/graphs/investigation.md)
 3. [djikstra](/Codeforces/graphs/djikstra.md)
-4. [network_delay_time](/LeetCode/graph/network_delay_time.md)
+4. [network delay time](/LeetCode/graph/network_delay_time.md)
 5. [8 puzzle on graph](/Atcoder/graph/8-Puzzle-on-Graph.md)
 6. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#shortest-path)
 
 #### Flood fill
 
-1. [making_a_large_island](/LeetCode/graph/making_a_large_island.md)
+1. [making a large island](/LeetCode/graph/making_a_large_island.md)
 2. [Number of islands](/LeetCode/graph/number_of_islands.md)
 
 #### DFS
 
-1. [round_trip](/CSES/graphs/round_trip.md)
+1. [round trip](/CSES/graphs/round_trip.md)
 2. [Kings Path](/Codeforces/graphs/kings_path.md)
 3. [Neighbours](/Atcoder/graph/neighbours.md)
 4. [Keys and rooms](/LeetCode/graph/keys_and_rooms.md#dfs)
 
 #### BFS
 
-1. [graph_girth](/CSES/graphs/graph_girth.md)
-2. [word_ladder](/LeetCode/graph/word_ladder.md)
+1. [graph girth](/CSES/graphs/graph_girth.md)
+2. [word ladder](/LeetCode/graph/word_ladder.md)
 3. [Making a large island](/LeetCode/dsu/making_large_island.md#bfs)
 4. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
 5. [Multiply and rotate](/Atcoder/graph/multiply_rotate.md)
@@ -233,6 +241,10 @@
 
 1. [3-types](/hackerearth/README.md)
 2. [minimum cost to connect path](/LeetCode/graph/min_cost_to_connect_path.md)
+
+#### tree dp
+
+1. [1519. Number of Nodes in the Sub-Tree With the Same Label](/LeetCode/trees/nodes_subtree_same_label.md)
 
 ### Number theory
 
@@ -348,10 +360,18 @@
 15. [Lowest common ancestor](/LeetCode/trees/lowest_common_ancestor.md)
 16. [Maximum difference between node and ancestor](/LeetCode/trees/maximum_diff_node_ancestor.md)
 17. [vertical order traversal](/LeetCode/trees/vertical_order_traversal.md)
+18. [103. Binary Tree Zigzag Level Order Traversal](/LeetCode/trees/zig_zag.md)
+19. [101. Symmetric Tree ](/LeetCode/trees/symmetric_tree.md)
+20. [662. Maximum Width of Binary Tree ](/LeetCode/trees/max_width.md)
+21. [222. Count Complete Tree Nodes](/LeetCode/trees/node_complete_binary_tree.md)
+22. [2196. Create Binary Tree From Descriptions ](/LeetCode/trees/create_binary_tree_from_description.md)
 
 #### BST
 
 1. [insert into binary search tree](/LeetCode/bst/insert_into_bst.md)
+2. [98. Validate Binary Search Tree ](/LeetCode/bst/validate_bst.md)
+3. [108. Convert Sorted Array to Binary Search Tree](/LeetCode/bst/array_to_bst.md)
+4. [783. Minimum Distance Between BST Nodes ](/LeetCode/bst/min_distance_nodes.md)
 
 #### trie
 

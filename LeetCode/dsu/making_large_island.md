@@ -99,10 +99,19 @@ public:
 ## DSU
 
 - converted 2D values into 1D, so that they may get store in DSU.
+
   ```js
+  CORRECT, range is 0 -> n^m
+  (current_row, current_col) -> (current_row * total_col + current_col) OR
+                                (current_row + current_rows * total_cols)
+  ```
+
+  ```js
+  WRONG, range is 0 -> n * n || 0 -> m * m
   (current_row, current_col) -> (current_row * total_rows + current_col) OR
                                 (current_row + current_col * total_cols)
   ```
+
 - stored in DSU
 - traversed over zeroes in graph
 - if the neighbouring element is 1, then did the calculation to store the maximum area.
