@@ -46,6 +46,7 @@
    5. [Binary Search Trees](#bst)
    6. [Trie, prefix tree](#trie)
 10. [Bitset](#bitset)
+11. [Cracking the interview Questions ](#cracking-interview)
 
 ## category wise
 
@@ -389,6 +390,10 @@
 7. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#bit-manipulation)
 8. [majority element](/LeetCode/implementation/majority_element.md#bits)
 9. [Find XOR Sum of All Pairs Bitwise AND](/LeetCode/bitset/xor_sum_all_pairs_biwise_and.md)
+
+### Cracking Interview
+
+1. [Is unique](./CrackingTheCodingInterview/Array/1.%20Is_unique/README.md)
 
 ## Please follow these rules, if you wish to CONTRIBUTE.
 
