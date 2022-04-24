@@ -394,7 +394,7 @@
 ### Cracking Interview
 
 1. [Is unique](./CrackingTheCodingInterview/Array/1.%20Is_unique/README.md)
-
+2. [Check Permutation](./CrackingTheCodingInterview/Array/2.%20Check_permutation/README.md)
 ## Please follow these rules, if you wish to CONTRIBUTE.
 
 #### Current repo Structure.
