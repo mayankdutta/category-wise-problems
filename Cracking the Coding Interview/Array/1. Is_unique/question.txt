@@ -1,0 +1,4 @@
+Check if string has all the unique characters 
+ex - hello ANS- False
+
+hel - True
