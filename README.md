@@ -5,7 +5,7 @@
   - special notes if any
   - similar questions if encountered.
 
-## categories
+## index
 
 1. [JMI college placement](#jmi)
 2. [adhoc implementation](#adhoc-implementation)
@@ -79,6 +79,8 @@
 10. [Kill the Monsters](/Codeforces/implementation/kill_the_monsters.md)
 11. [Partition String ](/binary_search/implementation/partition_string.md)
 12. [valid palindrome II](/LeetCode/implementation/valid_palindrome2.md)
+13. [C - Collision 2](/Atcoder/implementation/collisions2.md)
+14. [D - Moves on Binary Tree ](/Atcoder/implementation/moves_binary_tree.md)
 
 ### Greedy
 
@@ -289,6 +291,7 @@
 6. [2134. Minimum Swaps to Group All 1's Together II](/LeetCode/2p/min_swaps.md)
 7. [438. Find All Anagrams in a String ](/LeetCode/2p/find_all_anagrams.md)
 8. [567. Permutation in String](/LeetCode/2p/permutation_in_string.md)
+9. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
 
 #### Intervals type
 
@@ -341,6 +344,7 @@
 8. [Palindrome linked list](/LeetCode/linkedList/palindrome.md)
 9. [23. Merge k sorted list](/LeetCode/linkedList/merge_k_sorted_list.md)
 10. [LR Insertion](/Atcoder/linkedList/LR_insertion.md#doubly-linked-list-implementation)
+11. [138. Copy List with Random Pointer](/LeetCode/linkedList/copy_ll_random.md)
 
 #### Trees
 
@@ -395,6 +399,7 @@
 
 1. [Is unique](./CrackingTheCodingInterview/Array/1.%20Is_unique/README.md)
 2. [Check Permutation](./CrackingTheCodingInterview/Array/2.%20Check_permutation/README.md)
+
 ## Please follow these rules, if you wish to CONTRIBUTE.
 
 #### Current repo Structure.
