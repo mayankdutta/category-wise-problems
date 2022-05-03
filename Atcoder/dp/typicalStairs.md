@@ -1,6 +1,6 @@
 # Fibonacci type
 
-[C - Typical stairs](https://atcoder.jp/contests/abc129/tasks/abc129_c), Easy, 1d DP
+[C - Typical stairs](https://atcoder.jp/contests/abc129/tasks/abc129_c), Easy, 1D DP
 
 - base one kind of popular variation of Fibonacci, so directly reading code shouldn't be problem
 - just take care of the dead step

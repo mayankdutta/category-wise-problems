@@ -1,22 +1,23 @@
 [D - FG Operation](https://atcoder.jp/contests/abc220/tasks/abc220_d), Dynamic programming, Coin change type
 
 Approach.
-  - [Reference 1](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/README.md)
-  - [Reference 2](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/README.md)
-  - Try to make at least one recurrence relation by yourself, with the help of test case.
-  - For example in this problem
-    - If i take `size of array` in row and `0 - 9` in column.
-    - Note that `0 - 9` signifies **values whose `mod` taken in previous iteration**.
-    - hence recurrence relation will roughly be like.
-      - `dp[2][j + arr[i - 1]] += dp[2 - 1][j];`
-      - `dp[2][j * arr[i - 1]] += dp[2 - 1][j];`
-      - assuming that i is from `1 -> n + 1`, for the sake of `2D dp array`.
-      - then generalise the above statement.
+
+- [Reference 1](https://github.com/mayankdutta/category-wise-problems/blob/main/CSES/README.md)
+- [Reference 2](https://github.com/mayankdutta/category-wise-problems/blob/main/USACO/README.md)
+- Try to make at least one recurrence relation by yourself, with the help of test case.
+- For example in this problem
+  - If i take `size of array` in row and `0 - 9` in column.
+  - Note that `0 - 9` signifies **values whose `mod` taken in previous iteration**.
+  - hence recurrence relation will roughly be like.
+    - `dp[2][j + arr[i - 1]] += dp[2 - 1][j];`
+    - `dp[2][j * arr[i - 1]] += dp[2 - 1][j];`
+    - assuming that i is from `1 -> n + 1`, for the sake of `2D dp array`.
+    - then generalise the above statement.
 
 <details>
 <summary>Implementation</summary>
 
-````cpp
+```cpp
 
   ll n;
   cin >> n;
@@ -43,6 +44,6 @@ Approach.
   cout << '\n';
 
 
- ```
+```
+
 </details>
-````

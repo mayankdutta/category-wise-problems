@@ -292,6 +292,7 @@
 7. [438. Find All Anagrams in a String ](/LeetCode/2p/find_all_anagrams.md)
 8. [567. Permutation in String](/LeetCode/2p/permutation_in_string.md)
 9. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
+10. [828. Count Unique Characters of All Substrings of a Given String](/LeetCode/2p/count_unique_character.md)
 
 #### Intervals type
 

@@ -1,78 +1,78 @@
-
-
 [C. Dijkstra?](https://codeforces.com/problemset/problem/20/C), Easy
 
 - no tricks just plain implementation.
 - implemented the most basic dijsktra
 - implementation method was using priority queue
-  <details>
-    	<summary> Headers </summary> <br>
 
-  ```cpp
-    #define vll vector<long long int>
-    using ll = long long int;
+<details>
+<summary> Headers </summary> <br>
 
-    vector<vector<pll>> adj = vector<vector<pll>>(n + 1);
-    for (int i = 0; i < m; i++) {
-      ll a, b, w;
-      cin >> a >> b >> w;
-      adj[a].push_back({b, w});
-      adj[b].push_back({a, w});
-    }
+```cpp
+#define vll vector<long long int>
+using ll = long long int;
 
-    int s = 1; /* source */
-    vll dist(n + 1, INF);
-    vll path(n + 1, INF);
-    dist[s] = 0;
+vector<vector<pll>> adj = vector<vector<pll>>(n + 1);
+for (int i = 0; i < m; i++) {
+  ll a, b, w;
+  cin >> a >> b >> w;
+  adj[a].push_back({b, w});
+  adj[b].push_back({a, w});
+}
 
-  ```
+int s = 1; /* source */
+vll dist(n + 1, INF);
+vll path(n + 1, INF);
+dist[s] = 0;
 
-  </details>
+```
 
-  <details>
-    	 <summary> Implementation stuff </summary> <br>
+</details>
 
-  ```cpp
-    priority_queue<pll, vector<pll>, greater<pll>> pq;
+<details>
+<summary> Implementation stuff </summary> <br>
 
-    pq.push({0, s});
-    /* Format is (distance, vertex) */
+```cpp
+priority_queue<pll, vector<pll>, greater<pll>> pq;
 
-    while (!pq.empty()) {
-    auto front = pq.top();
-    pq.pop();
-    ll d = front.first;
-    ll u = front.second;
+pq.push({0, s});
+/* Format is (distance, vertex) */
 
-    if (d > dist[u])
-       continue; // trying to understand this
+while (!pq.empty()) {
+  auto front = pq.top();
+  pq.pop();
+  ll d = front.first;
+  ll u = front.second;
 
-  	for (const auto &v : adj[u]) {
-    	/*
-  	 	 * take v.first as 'to'
-  	 	 * u as 'from'
-     	*/
-    		if (dist[u] + v.second < dist[v.first]) {
-  			dist[v.first] = dist[u] + v.second;
-  			pq.push({dist[v.first], v.first});
-  			path[v.first] = u;
-    		}
-  	}
-  	}
-  ```
+  if (d > dist[u])
+     continue; // trying to understand this
 
-  </details>
-  <details>
-  	<summary> Tracking Shortest distance </summary>
+  for (const auto &v : adj[u]) {
+  	/*
+   	 * take v.first as 'to'
+   	 * u as 'from'
+   	 */
+  		if (dist[u] + v.second < dist[v.first]) {
+  		  dist[v.first] = dist[u] + v.second;
+  		  pq.push({dist[v.first], v.first});
+  		  path[v.first] = u;
+  		}
+  }
+}
+```
 
-  ```cpp
-    vll ans;
-    for (int i = n; i != 1; i = path[i])
-     ans.push_back(i);
-  	  ans.push_back(1);
+</details>
 
-     reverse(all(ans));
+<details>
+<summary> Tracking Shortest distance </summary>
 
-  ```
-  </details>
+```cpp
+vll ans;
+for (int i = n; i != 1; i = path[i])
+  ans.push_back(i);
+ans.push_back(1);
 
+reverse(all(ans));
+
+```
+
+</details>

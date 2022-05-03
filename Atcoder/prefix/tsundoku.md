@@ -1,6 +1,5 @@
 [C - Tsundoku](https://atcoder.jp/contests/abc172/tasks/abc172_c), binary search, prefix sums
 
-
 - problem statements are really simple, like most of AC problems, unlike problem itself.
 - we can't sort as books are stacked given in the question.
 - since time to read a book will only accumulate over time.
@@ -44,4 +43,5 @@
   cout << ans << '\n';
 
 ```
-</details> 
+
+</details>

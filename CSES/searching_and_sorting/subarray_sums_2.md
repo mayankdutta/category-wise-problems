@@ -28,6 +28,7 @@
  cout << ans << '\n';
  ```
  </details>
+ <hr />
  <details>
    <summary>wrong submission, Dont assume SUM problems to DIVISIBLITY type problems</summary>
 
