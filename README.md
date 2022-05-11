@@ -172,6 +172,7 @@
 16. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp-with-state-compression)
 17. [Count of subarrays having sum equal to its length ](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)
 18. [Number of subarrays having absolute sum greater than K ](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
+19. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md)
 
 #### TODO
 
@@ -293,6 +294,7 @@
 8. [567. Permutation in String](/LeetCode/2p/permutation_in_string.md)
 9. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
 10. [828. Count Unique Characters of All Substrings of a Given String](/LeetCode/2p/count_unique_character.md)
+11. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md)
 
 #### Intervals type
 
@@ -321,6 +323,14 @@
 
 1. [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
 2. [Asteroid Collision](/LeetCode/stack/asteroid_collission.md)
+3. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md#monotonic-deque)
+4. [132 Pattern](/LeetCode/stack/132_pattern.md)
+5. [asteroid collission](/LeetCode/stack/asteroid_collission.md)
+6. [largest area histogram](/LeetCode/stack/largest_area_histogram.md)
+7. [Next greater element](/LeetCode/stack/next_greater_element.md)
+8. [Remove duplicate letters](/LeetCode/stack/remove_duplicate_letters.md)
+9. [Remove K digits](/LeetCode/stack/remove_k_digits.md)
+10. [First negative integer in every window of size k ](/GeeksForGeeks/stack/negative_in_window.md)
 
 #### DSU
 
@@ -371,6 +381,8 @@
 20. [662. Maximum Width of Binary Tree ](/LeetCode/trees/max_width.md)
 21. [222. Count Complete Tree Nodes](/LeetCode/trees/node_complete_binary_tree.md)
 22. [2196. Create Binary Tree From Descriptions ](/LeetCode/trees/create_binary_tree_from_description.md)
+23. [Morris In order](/LeetCode/trees/morris_inorder.md)
+24. [Morris Pre order](/LeetCode/trees/morris_preorder.md)
 
 #### BST
 

@@ -4,10 +4,17 @@
 
 [Picture source](https://leetcode.com/problems/next-permutation/discuss/13994/Readable-code-without-confusing-ij-and-with-explanation)
 
-NOTE
+### NOTE
 
 - suffix means starting from the end of the string.
 - pivot means the point till where the logic was following.
+
+#### what is next permutation
+
+- let say we are standing on the particular index.
+- now we want to make some no. which is just greater then current one.
+- from index `i + 1` i will search till end of array, if i am able to find just greater element then `i th`.
+- will swap the two.
 
 ```cpp
 class Solution {
