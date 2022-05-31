@@ -99,6 +99,7 @@
 7. [Delete and earn](/LeetCode/dp/delete_and_earn.md)
 8. [746. Min Cost Climbing Stairs](/LeetCode/dp/min_cost_climbing.md)
 9. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp)
+10. [Unique BST](/LeetCode/bst/unique_bst.md#dp)
 
 #### Knapsack type
 
@@ -383,6 +384,7 @@
 22. [2196. Create Binary Tree From Descriptions ](/LeetCode/trees/create_binary_tree_from_description.md)
 23. [Morris In order](/LeetCode/trees/morris_inorder.md)
 24. [Morris Pre order](/LeetCode/trees/morris_preorder.md)
+25. [Duplicate Subtree](/LeetCode/trees/duplicate_subtree.md)
 
 #### BST
 
@@ -390,6 +392,9 @@
 2. [98. Validate Binary Search Tree ](/LeetCode/bst/validate_bst.md)
 3. [108. Convert Sorted Array to Binary Search Tree](/LeetCode/bst/array_to_bst.md)
 4. [783. Minimum Distance Between BST Nodes ](/LeetCode/bst/min_distance_nodes.md)
+5. [Delete node in BST](/LeetCode/bst/delete_node.md)
+6. [Unique BST](/LeetCode/bst/unique_bst.md#catalan-number)
+7. [Serialize and Deserialize Binary Tree](/LeetCode/bst/serialize_deserialize.md)
 
 #### trie
 
