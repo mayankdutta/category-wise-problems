@@ -276,12 +276,14 @@
 
 #### Binary search type
 
+1. [Binary Search](/LeetCode/binary_search/binary_search.md)
+1. [Binary search in sorted rotated array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
 1. [Apartments](/CSES/searching_and_sorting/apartments.md)
-2. [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
-3. [binary search in sorted array](/LeetCode/binary_search/binary_seach_in_sorted_array.md)
-4. [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
-5. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
-6. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#binary-search)
+1. [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
+1. [binary search in sorted array](/LeetCode/binary_search/binary_seach_in_sorted_array.md)
+1. [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
+1. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
+1. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#binary-search)
 
 #### Two Pointers
 
