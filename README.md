@@ -1,9 +1,25 @@
 - Contains category wise organized problems(data structures, competitive) of popular platforms.
 - not only solution but also
-  - approaches
-  - corner cases
-  - special notes if any
-  - similar questions if encountered.
+    - approaches
+    - corner cases
+    - special notes if any
+    - similar questions if encountered.
+
+<hr>
+<div style="display: flex; ; flex-wrap: wrap; justify-content: center; flex-grow: 1; flex-shrink: 1; background-color: lightgray">
+<img alt="codeforces" src="https://repository-images.githubusercontent.com/316181742/36bfe3d9-b397-4364-830c-2b1315618042" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="codechef" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="gfg" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="atcoder" src="https://img.atcoder.jp/assets/atcoder.png" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="leetcode" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="usaco" src="https://external-preview.redd.it/j_JjrUb5xairtIUn_fbBRbdQpDQvvvrY7bBgmQyZF5Y.jpg?auto=webp&s=d1bcc81f754b5036dcec999cf3e8803e80c75ba3" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="pepcoding" src="https://miro.medium.com/max/3150/1*UsUS5iEVO4oGsfR8C1yW-Q.jpeg" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="uva" src="https://pbs.twimg.com/profile_images/2220852607/onlinejudgelogo2_400x400.png" height="200" style="margin: 10px 10px 10px 10px">
+<img alt="hackerearth" src="https://miro.medium.com/max/600/1*_qEyZ2IU41N3LwrWXV43qg.jpeg" height="160" style="margin: 10px 10px 10px 10px">
+<img alt="cses" src="https://cses.fi/logo.png?1" height="100" style="margin: 10px 10px 10px 10px; border: 4px solid goldenrod">
+</div>
+<hr>
 
 ## index
 
@@ -12,39 +28,39 @@
 3. [Greedy](#greedy)
 4. [2 Pointers](#two-pointers)
 5. [Dynamic Programming](#dynamic-programming)
-   1. [knapsack type](#knapsack-type)
-   2. [Coin Change type](#coin-change-type)
-   3. [Grid path type](#grid-path-types)
-   4. [LIS type](#lis-type)
-   5. [Fibonacci type](#fibonacci-type)
-   6. [Prefix Sums / 1D Range sum type / Cumulative sums](#1d-range-sum)
+    1. [knapsack type](#knapsack-type)
+    2. [Coin Change type](#coin-change-type)
+    3. [Grid path type](#grid-path-types)
+    4. [LIS type](#lis-type)
+    5. [Fibonacci type](#fibonacci-type)
+    6. [Prefix Sums / 1D Range sum type / Cumulative sums](#1d-range-sum)
 6. [Graphs](#graphs)
-   1. [General implementation](#general-implementation)
-   2. [Topological sorting](#topological-sorting)
-   3. [Shortest Path](#shortest-path)
-   4. [flood fill](#flood-fill)
-   5. [DFS](#dfs)
-   6. [BFS](#bfs)
-   7. [01 BFS](#01-bfs)
-   8. [MSSP](#mssp)
-   9. [MST](#mst)
-   10. [Tree + dp](#tree-dp)
+    1. [General implementation](#general-implementation)
+    2. [Topological sorting](#topological-sorting)
+    3. [Shortest Path](#shortest-path)
+    4. [flood fill](#flood-fill)
+    5. [DFS](#dfs)
+    6. [BFS](#bfs)
+    7. [01 BFS](#01-bfs)
+    8. [MSSP](#mssp)
+    9. [MST](#mst)
+    10. [Tree + dp](#tree-dp)
 7. [Number Theory](#number-theory)
 8. [Searching and sorting](#searching-and-sorting)
-   1. [implementation type](#greedy-implementation)
-   2. [sorting and observation type](#searching-and-sorting)
-   3. [Binary Search type](#binary-search-type)
-   4. [Two pointers](#two-pointers)
-   5. [Heap type](#heaps)
-   6. [Intervals type](#intervals-type)
-   7. [Divide and Conquer](#divide-and-conquer)
+    1. [implementation type](#greedy-implementation)
+    2. [sorting and observation type](#searching-and-sorting)
+    3. [Binary Search type](#binary-search-type)
+    4. [Two pointers](#two-pointers)
+    5. [Heap type](#heaps)
+    6. [Intervals type](#intervals-type)
+    7. [Divide and Conquer](#divide-and-conquer)
 9. [Data structure](#data-structure)
-   1. [Stack](#stack)
-   2. [DSU](#dsu)
-   3. [Linked List](#linked-list)
-   4. [Trees](#trees)
-   5. [Binary Search Trees](#bst)
-   6. [Trie, prefix tree](#trie)
+    1. [Stack](#stack)
+    2. [DSU](#dsu)
+    3. [Linked List](#linked-list)
+    4. [Trees](#trees)
+    5. [Binary Search Trees](#bst)
+    6. [Trie, prefix tree](#trie)
 10. [Bitset](#bitset)
 11. [Cracking the interview Questions ](#cracking-interview)
 
@@ -280,7 +296,7 @@
 1. [Binary search in sorted rotated array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
 1. [Apartments](/CSES/searching_and_sorting/apartments.md)
 1. [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
-1. [binary search in sorted array](/LeetCode/binary_search/binary_seach_in_sorted_array.md)
+1. [binary search in sorted array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
 1. [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
 1. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
 1. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#binary-search)
@@ -424,28 +440,28 @@
 
 #### Current repo Structure.
 
-```js
+```text
 ROOT
-  |
-  Platform_1
-  |
-  |___ Topic/Tag
-  .      |____ problem_name/README.md
-  .      |____ problem_name/README.md
-  .      |____ problem_name/README.md
-  .
-  .
-  |
-  Platform_2
-  |
-  |___ Topic/Tag
-         |____ problem_name/README.md
-
+|
+Platform_1
+|
+|___ Topic/Tag
+.      |____ problem_name/README.md
+.      |____ problem_name/README.md
+.      |____ problem_name/README.md
+.
+.
+|
+Platform_2
+|
+|___ Topic/Tag
+|____ problem_name/README.md
 ```
 
 ### Structure of ProblemList.md
 
-```js
+```text
+
 Topic on which problem is base (preferrably h2, h3 heading)
 
 Problem name, Easy / medium / hard (according to you)
@@ -467,12 +483,14 @@ Problem name, Easy / medium / hard (according to you)
 - code(it is advisable to copy RAW of similar problem on this repo, to save time)
 
 - Similar problem if you encounter any.
+
 ```
 
 #### Some Templates you may inspire from
 
 - [Normal template](CSES/dp/two_sets2.md)
-- [dynamic programming type](CSES/dp/book_shop.md), if you wish to add more then 1 approach. [this one too](uva/dp/dollars.md)
+- [dynamic programming type](CSES/dp/book_shop.md), if you wish to add more then 1
+  approach. [this one too](uva/dp/dollars.md)
 - [Grapn type](CSES/graphs/flight_discount.md)
 
 _to save time you can copy the template by viewing `RAW` file and fit in your content._
