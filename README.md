@@ -293,7 +293,7 @@
 #### Binary search type
 
 1. [Binary Search](/LeetCode/binary_search/binary_search.md)
-1. [Binary search in sorted rotated array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
+1. [Binary search in sorted rotated array](/LeetCode/binary_search/search_sorted_rotated.md)
 1. [Apartments](/CSES/searching_and_sorting/apartments.md)
 1. [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
 1. [binary search in sorted array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
@@ -403,6 +403,11 @@
 23. [Morris In order](/LeetCode/trees/morris_inorder.md)
 24. [Morris Pre order](/LeetCode/trees/morris_preorder.md)
 25. [Duplicate Subtree](/LeetCode/trees/duplicate_subtree.md)
+26. [Delete leaves with given value](/LeetCode/trees/delete_leaves_with_given_value.md)
+27. [Binary Tree Pruning](/LeetCode/trees/binary_tree_pruning.md)
+28. [Distance b/w two nodes](/codestudio/trees/distance_two_nodes.md)
+29. [All distance at k in Binary tree](/LeetCode/trees/all_nodes_distance_k.md)
+
 
 #### BST
 
@@ -413,6 +418,7 @@
 5. [Delete node in BST](/LeetCode/bst/delete_node.md)
 6. [Unique BST](/LeetCode/bst/unique_bst.md#catalan-number)
 7. [Serialize and Deserialize Binary Tree](/LeetCode/bst/serialize_deserialize.md)
+8. [BST to greater sum tree](/LeetCode/bst/BST_greater_sum_tree.md)
 
 #### trie
 
