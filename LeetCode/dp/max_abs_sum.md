@@ -4,7 +4,7 @@
 - you should first try to relate this with kadane with pen and paper and with several test cases.
 
 <details> 
-<summary> code implementation </summary>
+<summary> Implementation 1 </summary>
 
 ```cpp
 class Solution {
@@ -25,6 +25,34 @@ public:
     }
 };
 
+```
+
+</details>
+
+    
+<details> 
+<summary> Implementation 2 </summary>
+
+```cpp
+class Solution {
+    public:
+    int maxAbsoluteSum(vector<int>& nums) {
+        int sum1 = 0;
+        int sum2 = 0;  
+        
+        int mx = INT_MIN;
+        int mn = INT_MAX;
+        
+        for (int i = 0; i < nums.size(); i++) {
+            sum1 = max(nums[i], sum1 + nums[i]);
+            sum2 = min(nums[i], sum2 + nums[i]);
+            mx = max(mx , sum1);
+            mn = min(mn , sum2); 
+        }         
+
+        return max(mx , abs(mn));
+    }
+};
 ```
 
 </details>
