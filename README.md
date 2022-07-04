@@ -172,24 +172,25 @@
 #### 1D Range sum
 
 1. [Maximum Absolute Sum of Any Subarray ](/LeetCode/dp/max_abs_sum.md)
-2. [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
-3. [Number of Smooth Descent Periods of a Stock](/LeetCode/dp/smooth_descent.md)
-4. [blackboard gcd](/Atcoder/prefix/blackboard_gcd.md)
-5. [make power of 2](/Codeforces/prefix/make_power_of_two.md)
-6. [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
-7. [Good days to rob the bank](/LeetCode/prefix/good_days_rob_bank.md)
-8. [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
-9. [contiguous array](/LeetCode/prefix/contiguous_array.md)
-10. [Tsundoku.md](/Atcoder/prefix/tsundoku.md)
-11. [Intervals Between Identical Elements](/LeetCode/prefix/intervals_identical_elements.md)
-12. [Maximum Sum of Two Non-Overlapping Subarrays](/LeetCode/prefix/subarrays_odd_sum.md)
-13. [Reducing dishes](/LeetCode/dp/reducing_dishes.md)
-14. [Best time to Buy and sell stocks](/LeetCode/prefix/best_time_to_buy_sell_stock.md#prefix-sums)
-15. [1590. Make Sum Divisible by P ](/LeetCode/prefix/make_sum_divisible.md)
-16. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp-with-state-compression)
-17. [Count of subarrays having sum equal to its length ](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)
-18. [Number of subarrays having absolute sum greater than K ](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
-19. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md)
+1. [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
+1. [Maximum Sum Circular Subarray](/LeetCode/dp/)
+1. [Number of Smooth Descent Periods of a Stock](/LeetCode/dp/smooth_descent.md)
+1. [blackboard gcd](/Atcoder/prefix/blackboard_gcd.md)
+1. [make power of 2](/Codeforces/prefix/make_power_of_two.md)
+1. [Subsequence summing to 7](/USACO/prefix_sums/subs_summing_to_sevens.md)
+1. [Good days to rob the bank](/LeetCode/prefix/good_days_rob_bank.md)
+1. [and it's non-zero](/Codeforces/prefix/and_its_nonzero.md)
+1. [contiguous array](/LeetCode/prefix/contiguous_array.md)
+1. [Tsundoku.md](/Atcoder/prefix/tsundoku.md)
+1. [Intervals Between Identical Elements](/LeetCode/prefix/intervals_identical_elements.md)
+1. [Maximum Sum of Two Non-Overlapping Subarrays](/LeetCode/prefix/subarrays_odd_sum.md)
+1. [Reducing dishes](/LeetCode/dp/reducing_dishes.md)
+1. [Best time to Buy and sell stocks](/LeetCode/prefix/best_time_to_buy_sell_stock.md#prefix-sums)
+1. [1590. Make Sum Divisible by P ](/LeetCode/prefix/make_sum_divisible.md)
+1. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp-with-state-compression)
+1. [Count of subarrays having sum equal to its length ](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)
+1. [Number of subarrays having absolute sum greater than K ](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
+1. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md)
 
 #### TODO
 
@@ -303,24 +304,28 @@
 
 #### Two Pointers
 
-1. [maximum consecutive one's](/LeetCode/2p/maxConsecutiveOne.md)
-2. [Longest X](/Atcoder/2p/longestX.md)
-3. [Subarrays with k different Integers](/LeetCode/2p/subarrays_with_k_different_integers.md)
-4. [Number of Substrings Containing All Three Characters](/LeetCode/2p/containing_all_three.md)
-5. [binary Subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
-6. [2134. Minimum Swaps to Group All 1's Together II](/LeetCode/2p/min_swaps.md)
-7. [438. Find All Anagrams in a String ](/LeetCode/2p/find_all_anagrams.md)
-8. [567. Permutation in String](/LeetCode/2p/permutation_in_string.md)
-9. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
-10. [828. Count Unique Characters of All Substrings of a Given String](/LeetCode/2p/count_unique_character.md)
-11. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md)
+##### Sliding Window
+
+1. [Contains Duplicate II](/LeetCode/2p/contains_duplicate.md#contains-duplicate-2)
+2. [maximum consecutive one's](/LeetCode/2p/maxConsecutiveOne.md)
+3. [Minimum Operations to Reduce X to Zero](/LeetCode/2p/min_operation_x_to_zero.md)
+4. [Longest X](/Atcoder/2p/longestX.md)
+5. [Subarrays with k different Integers](/LeetCode/2p/subarrays_with_k_different_integers.md)
+6. [Number of Substrings Containing All Three Characters](/LeetCode/2p/containing_all_three.md)
+7. [binary Subarrays with sum](/LeetCode/2p/binary_subarray_with_sum.md)
+8. [2134. Minimum Swaps to Group All 1's Together II](/LeetCode/2p/min_swaps.md)
+9. [438. Find All Anagrams in a String ](/LeetCode/2p/find_all_anagrams.md)
+10. [567. Permutation in String](/LeetCode/2p/permutation_in_string.md)
+11. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
+12. [828. Count Unique Characters of All Substrings of a Given String](/LeetCode/2p/count_unique_character.md)
+13. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md)
 
 #### Intervals type
 
 1. [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
-2. [Merge intervals](/LeetCode/greedy/merge_intervals.md)
-3. [Car pooling](/LeetCode/greedy/car_pooling.md)
-4. [567. Permutation in String](/LeetCode/greedy/min_arrows_burst_balloons.md)
+1. [Merge intervals](/LeetCode/greedy/merge_intervals.md)
+1. [Car pooling](/LeetCode/greedy/car_pooling.md)
+1. [567. Permutation in String](/LeetCode/greedy/min_arrows_burst_balloons.md)
 
 #### Heaps
 
@@ -407,7 +412,6 @@
 27. [Binary Tree Pruning](/LeetCode/trees/binary_tree_pruning.md)
 28. [Distance b/w two nodes](/codestudio/trees/distance_two_nodes.md)
 29. [All distance at k in Binary tree](/LeetCode/trees/all_nodes_distance_k.md)
-
 
 #### BST
 
