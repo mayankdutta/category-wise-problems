@@ -116,6 +116,7 @@
 8. [746. Min Cost Climbing Stairs](/LeetCode/dp/min_cost_climbing.md)
 9. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp)
 10. [Unique BST](/LeetCode/bst/unique_bst.md#dp)
+11. [Number of people aware of secrets](/LeetCode/dp/number_people_aware.md)
 
 #### Knapsack type
 
