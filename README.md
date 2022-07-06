@@ -1,9 +1,9 @@
 - Contains category wise organized problems(data structures, competitive) of popular platforms.
 - not only solution but also
-    - approaches
-    - corner cases
-    - special notes if any
-    - similar questions if encountered.
+  - approaches
+  - corner cases
+  - special notes if any
+  - similar questions if encountered.
 
 <hr>
 <div style="display: flex; ; flex-wrap: wrap; justify-content: center; flex-grow: 1; flex-shrink: 1; background-color: lightgray">
@@ -28,39 +28,39 @@
 3. [Greedy](#greedy)
 4. [2 Pointers](#two-pointers)
 5. [Dynamic Programming](#dynamic-programming)
-    1. [knapsack type](#knapsack-type)
-    2. [Coin Change type](#coin-change-type)
-    3. [Grid path type](#grid-path-types)
-    4. [LIS type](#lis-type)
-    5. [Fibonacci type](#fibonacci-type)
-    6. [Prefix Sums / 1D Range sum type / Cumulative sums](#1d-range-sum)
+   1. [knapsack type](#knapsack-type)
+   2. [Coin Change type](#coin-change-type)
+   3. [Grid path type](#grid-path-types)
+   4. [LIS type](#lis-type)
+   5. [Fibonacci type](#fibonacci-type)
+   6. [Prefix Sums / 1D Range sum type / Cumulative sums](#1d-range-sum)
 6. [Graphs](#graphs)
-    1. [General implementation](#general-implementation)
-    2. [Topological sorting](#topological-sorting)
-    3. [Shortest Path](#shortest-path)
-    4. [flood fill](#flood-fill)
-    5. [DFS](#dfs)
-    6. [BFS](#bfs)
-    7. [01 BFS](#01-bfs)
-    8. [MSSP](#mssp)
-    9. [MST](#mst)
-    10. [Tree + dp](#tree-dp)
+   1. [General implementation](#general-implementation)
+   2. [Topological sorting](#topological-sorting)
+   3. [Shortest Path](#shortest-path)
+   4. [flood fill](#flood-fill)
+   5. [DFS](#dfs)
+   6. [BFS](#bfs)
+   7. [01 BFS](#01-bfs)
+   8. [MSSP](#mssp)
+   9. [MST](#mst)
+   10. [Tree + dp](#tree-dp)
 7. [Number Theory](#number-theory)
 8. [Searching and sorting](#searching-and-sorting)
-    1. [implementation type](#greedy-implementation)
-    2. [sorting and observation type](#searching-and-sorting)
-    3. [Binary Search type](#binary-search-type)
-    4. [Two pointers](#two-pointers)
-    5. [Heap type](#heaps)
-    6. [Intervals type](#intervals-type)
-    7. [Divide and Conquer](#divide-and-conquer)
+   1. [implementation type](#greedy-implementation)
+   2. [sorting and observation type](#searching-and-sorting)
+   3. [Binary Search type](#binary-search-type)
+   4. [Two pointers](#two-pointers)
+   5. [Heap type](#heaps)
+   6. [Intervals type](#intervals-type)
+   7. [Divide and Conquer](#divide-and-conquer)
 9. [Data structure](#data-structure)
-    1. [Stack](#stack)
-    2. [DSU](#dsu)
-    3. [Linked List](#linked-list)
-    4. [Trees](#trees)
-    5. [Binary Search Trees](#bst)
-    6. [Trie, prefix tree](#trie)
+   1. [Stack](#stack)
+   2. [DSU](#dsu)
+   3. [Linked List](#linked-list)
+   4. [Trees](#trees)
+   5. [Binary Search Trees](#bst)
+   6. [Trie, prefix tree](#trie)
 10. [Bitset](#bitset)
 11. [Cracking the interview Questions ](#cracking-interview)
 
@@ -320,6 +320,7 @@
 11. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
 12. [828. Count Unique Characters of All Substrings of a Given String](/LeetCode/2p/count_unique_character.md)
 13. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md)
+15. [Geekland colosseum](/GeeksForGeeks/prefix/geekland_colosseum.md)
 
 #### Intervals type
 
@@ -413,6 +414,8 @@
 27. [Binary Tree Pruning](/LeetCode/trees/binary_tree_pruning.md)
 28. [Distance b/w two nodes](/codestudio/trees/distance_two_nodes.md)
 29. [All distance at k in Binary tree](/LeetCode/trees/all_nodes_distance_k.md)
+30. [Max Depth N ary tree](/LeetCode/trees/max_depth_n_ary_tree.md)
+31. [Binary Tree to mirror tree](/LeetCode/trees/binary_tree_mirror_tree.md)
 
 #### BST
 
@@ -424,6 +427,7 @@
 6. [Unique BST](/LeetCode/bst/unique_bst.md#catalan-number)
 7. [Serialize and Deserialize Binary Tree](/LeetCode/bst/serialize_deserialize.md)
 8. [BST to greater sum tree](/LeetCode/bst/BST_greater_sum_tree.md)
+9. [Minimum absolute difference](/LeetCode/bst/min_absolute_diff.md)
 
 #### trie
 
