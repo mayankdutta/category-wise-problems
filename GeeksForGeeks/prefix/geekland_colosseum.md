@@ -1,5 +1,7 @@
 [Geekland Colesseum](https://practice.geeksforgeeks.org/contest/job-a-thon-exclusive-hiring-challenge-for-amazon-alexa/problems#)
 
+###### same problem but with [subarrays](/codestudio/prefix/max_sum_non_overlapping_subarray.md).
+
 - idea is to use TWO sliding window of size `N`, one from front, one from backwards.
 - we will keep storing the maximum no.s we encounter and keep updating it at every step in 1st sliding window.
 - for the second one we will keep updating it with the minimum.

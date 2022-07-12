@@ -320,7 +320,8 @@
 11. [2262. Total Appeal of A String](/LeetCode/2p/total_appeal_string.md)
 12. [828. Count Unique Characters of All Substrings of a Given String](/LeetCode/2p/count_unique_character.md)
 13. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md)
-15. [Geekland colosseum](/GeeksForGeeks/prefix/geekland_colosseum.md)
+14. [Geekland colosseum](/GeeksForGeeks/prefix/geekland_colosseum.md)
+15. [Maximum sum of two non-overlapping subarrays of a given size](/CodeStudio/prefix/max_sum_non_overlapping_subarray.md)
 
 #### Intervals type
 
