@@ -1,3 +1,4 @@
+# Category wise Problems
 - Contains category wise organized problems(data structures, competitive) of popular platforms.
 - not only solution but also
   - approaches
