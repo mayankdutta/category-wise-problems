@@ -1,4 +1,7 @@
-# Category wise Problems
+# 🏅 Category Wise Problems 🎯
+
+### Approx Questions Count **300**
+
 - Contains category wise organized problems(data structures, competitive) of popular platforms.
 - not only solution but also
   - approaches
@@ -6,23 +9,14 @@
   - special notes if any
   - similar questions if encountered.
 
+![Forks](https://img.shields.io/github/forks/mayankdutta/category-wise-problems?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/mayankdutta/category-wise-problems?color=gold&style=for-the-badge)
+
 <hr>
-<div style="display: flex; ; flex-wrap: wrap; justify-content: center; flex-grow: 1; flex-shrink: 1; background-color: lightgray">
-<img alt="codeforces" src="https://repository-images.githubusercontent.com/316181742/36bfe3d9-b397-4364-830c-2b1315618042" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="codechef" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="gfg" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="atcoder" src="https://img.atcoder.jp/assets/atcoder.png" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="leetcode" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="usaco" src="https://external-preview.redd.it/j_JjrUb5xairtIUn_fbBRbdQpDQvvvrY7bBgmQyZF5Y.jpg?auto=webp&s=d1bcc81f754b5036dcec999cf3e8803e80c75ba3" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="pepcoding" src="https://miro.medium.com/max/3150/1*UsUS5iEVO4oGsfR8C1yW-Q.jpeg" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="uva" src="https://pbs.twimg.com/profile_images/2220852607/onlinejudgelogo2_400x400.png" height="200" style="margin: 10px 10px 10px 10px">
-<img alt="hackerearth" src="https://miro.medium.com/max/600/1*_qEyZ2IU41N3LwrWXV43qg.jpeg" height="160" style="margin: 10px 10px 10px 10px">
-<img alt="cses" src="https://cses.fi/logo.png?1" height="100" style="margin: 10px 10px 10px 10px; border: 4px solid goldenrod">
-</div>
+<img alt="OJ" src="assets/OJ.png">
 <hr>
 
-## index
+<img alt="OJ" src="assets/index.png" height="100">
 
 1. [JMI college placement](#jmi)
 2. [adhoc implementation](#adhoc-implementation)
@@ -64,23 +58,24 @@
    6. [Trie, prefix tree](#trie)
 10. [Bitset](#bitset)
 11. [Cracking the interview Questions ](#cracking-interview)
+12. [Notes](/notes)
 
-## category wise
+## Category Wise
 
 ### JMI
 
 1. [company data 2020](/JMI_on_campus/List_Of_Companies_2021.md)
-2. [company data 2021](/JMI_on_campus/List_Of_Companies_2022.md)
-3. [Sapient](/JMI_on_campus/sapient.md)
-4. [Delhivery](/JMI_on_campus/delhivery/)
-5. [Infoedge](/JMI_on_campus/infoedge/)
-6. [JTG\_](/JMI_on_campus/JTG/)
-7. [Innovacer](/JMI_on_campus/Innovaccer_off_campus.md)
-8. [Optum](/JMI_on_campus/optum.md)
-9. [Accenture](/JMI_on_campus/accenture)
-10. [Wiley Mthree](/JMI_on_campus/Wiley_mthree)
-11. [Mobikwik](/JMI_on_campus/mobikwik/)
-12. [Samsung](/JMI_on_campus/samsung/)
+1. [company data 2021](/JMI_on_campus/List_Of_Companies_2022.md)
+1. [Sapient](/JMI_on_campus/sapient.md)
+1. [Delhivery](/JMI_on_campus/delhivery/)
+1. [Infoedge](/JMI_on_campus/infoedge/)
+1. [JTG\_](/JMI_on_campus/JTG/)
+1. [Innovacer](/JMI_on_campus/Innovaccer_off_campus.md)
+1. [Optum](/JMI_on_campus/optum.md)
+1. [Accenture](/JMI_on_campus/accenture)
+1. [Wiley Mthree](/JMI_on_campus/Wiley_mthree)
+1. [Mobikwik](/JMI_on_campus/mobikwik/)
+1. [Samsung](/JMI_on_campus/samsung/)
 
 ### Adhoc implementation
 
@@ -107,22 +102,22 @@
 
 #### Fibonacci-type
 
-1. [typical stairs](/Atcoder/dp/typicalStairs.md)
-2. [boredom](/Codeforces/dp/boredom.md)
+1. [Typical Stairs](/Atcoder/dp/typicalStairs.md)
+2. [Boredom](/Codeforces/dp/boredom.md)
 3. [Constanze's Machine](/Codeforces/dp/Constanze_Machine.md)
 4. [Basketball](Codeforces/dp/basketball.md)
-5. [domino and tromino tiling](/LeetCode/dp/domino.md)
+5. [Domino and Tromino Tiling](/LeetCode/dp/domino.md)
 6. [House robber](/LeetCode/dp/house_robber.md)
 7. [Delete and earn](/LeetCode/dp/delete_and_earn.md)
-8. [746. Min Cost Climbing Stairs](/LeetCode/dp/min_cost_climbing.md)
-9. [413. Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp)
+8. [Min Cost Climbing Stairs](/LeetCode/dp/min_cost_climbing.md)
+9. [Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp)
 10. [Unique BST](/LeetCode/bst/unique_bst.md#dp)
 11. [Number of people aware of secrets](/LeetCode/dp/number_people_aware.md)
 
 #### Knapsack type
 
-1. [two sets2](/CSES/dp/two_sets2.md)
-2. [book shop](/CSES/dp/book_shop.md)
+1. [Two Sets2](/CSES/dp/two_sets2.md)
+2. [Book Shop](/CSES/dp/book_shop.md)
 3. [money sums](/CSES/dp/money_sums.md)
 4. [dividing coins](/uva/dp/dividing_coins.md)
 5. [divisible group sums](/uva/dp/divisible_group_sums.md)
@@ -436,12 +431,12 @@
 8. [BST to greater sum tree](/LeetCode/bst/BST_greater_sum_tree.md)
 9. [Minimum absolute difference](/LeetCode/bst/min_absolute_diff.md)
 
-#### trie
+#### Trie
 
 1. [Implement Trie (Prefix Tree) ](/LeetCode/trie/implementing_trie.md)
 2. [Design Add and Search Words Data Structure](/LeetCode/trie/design_dictionary.md)
 
-### bitset
+### Bitset
 
 1. [complement of base 10](/LeetCode/bitset/complement_of_base10.md)
 2. [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
@@ -458,61 +453,11 @@
 1. [Is unique](./CrackingTheCodingInterview/Array/1.%20Is_unique/README.md)
 2. [Check Permutation](./CrackingTheCodingInterview/Array/2.%20Check_permutation/README.md)
 
-## Please follow these rules, if you wish to CONTRIBUTE.
 
-#### Current repo Structure.
+## 💥How to Contribute? 
 
-```text
-ROOT
-|
-Platform_1
-|
-|___ Topic/Tag
-.      |____ problem_name/README.md
-.      |____ problem_name/README.md
-.      |____ problem_name/README.md
-.
-.
-|
-Platform_2
-|
-|___ Topic/Tag
-|____ problem_name/README.md
-```
+Head over to [Contributing Guidelines](/CONTRIBUTING.md) to know more!
 
-### Structure of ProblemList.md
+## Stargazers over time
 
-```text
-
-Topic on which problem is base (preferrably h2, h3 heading)
-
-Problem name, Easy / medium / hard (according to you)
-
-- What makes it Easy/medium/hard according to you.
-    |_____ point 1
-    |_____ point 2
-
-- some key points, was there some different approach then regular?
-    |_____ point 1
-    |_____ point 2
-
-- Appraoch (should be insightfull)
-
-- corner cases, if you faced any
-    |_____ point 1
-    |_____ point 2
-
-- code(it is advisable to copy RAW of similar problem on this repo, to save time)
-
-- Similar problem if you encounter any.
-
-```
-
-#### Some Templates you may inspire from
-
-- [Normal template](CSES/dp/two_sets2.md)
-- [dynamic programming type](CSES/dp/book_shop.md), if you wish to add more then 1
-  approach. [this one too](uva/dp/dollars.md)
-- [Grapn type](CSES/graphs/flight_discount.md)
-
-_to save time you can copy the template by viewing `RAW` file and fit in your content._
+[![Stargazers over time](https://starchart.cc/mayankdutta/category-wise-problems.svg)](https://starchart.cc/mayankdutta/category-wise-problems)
