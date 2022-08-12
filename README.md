@@ -4,10 +4,10 @@
 
 - Contains category wise organized problems(data structures, competitive) of popular platforms.
 - not only solution but also
-  - approaches
-  - corner cases
-  - special notes if any
-  - similar questions if encountered.
+    - approaches
+    - corner cases
+    - special notes if any
+    - similar questions if encountered.
 
 ![Forks](https://img.shields.io/github/forks/mayankdutta/category-wise-problems?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/mayankdutta/category-wise-problems?color=gold&style=for-the-badge)
@@ -23,39 +23,39 @@
 3. [Greedy](#greedy)
 4. [2 Pointers](#two-pointers)
 5. [Dynamic Programming](#dynamic-programming)
-   1. [knapsack type](#knapsack-type)
-   2. [Coin Change type](#coin-change-type)
-   3. [Grid path type](#grid-path-types)
-   4. [LIS type](#lis-type)
-   5. [Fibonacci type](#fibonacci-type)
-   6. [Prefix Sums / 1D Range sum type / Cumulative sums](#1d-range-sum)
+    1. [knapsack type](#dynamic-programming)
+    2. [Coin Change type](#dynamic-programming)
+    3. [Grid path type](#dynamic-programming)
+    4. [LIS type](#dynamic-programming)
+    5. [Fibonacci type](#dynamic-programming)
+    6. [Prefix Sums / 1D Range sum type / Cumulative sums](#dynamic-programming)
 6. [Graphs](#graphs)
-   1. [General implementation](#general-implementation)
-   2. [Topological sorting](#topological-sorting)
-   3. [Shortest Path](#shortest-path)
-   4. [flood fill](#flood-fill)
-   5. [DFS](#dfs)
-   6. [BFS](#bfs)
-   7. [01 BFS](#01-bfs)
-   8. [MSSP](#mssp)
-   9. [MST](#mst)
-   10. [Tree + dp](#tree-dp)
+    1. [General implementation](#graphs)
+    2. [Topological sorting](#graphs)
+    3. [Shortest Path](#graphs)
+    4. [flood fill](#graphs)
+    5. [DFS](#graphs)
+    6. [BFS](#graphs)
+    7. [01 BFS](#graphs)
+    8. [MSSP](#graphs)
+    9. [MST](#graphs)
+    10. [Tree + dp](#graphs)
 7. [Number Theory](#number-theory)
 8. [Searching and sorting](#searching-and-sorting)
-   1. [implementation type](#greedy-implementation)
-   2. [sorting and observation type](#searching-and-sorting)
-   3. [Binary Search type](#binary-search-type)
-   4. [Two pointers](#two-pointers)
-   5. [Heap type](#heaps)
-   6. [Intervals type](#intervals-type)
-   7. [Divide and Conquer](#divide-and-conquer)
+    1. [implementation type](#searching-and-sorting)
+    2. [sorting and observation type](#searching-and-sorting)
+    3. [Binary Search type](#searching-and-sorting)
+    4. [Two pointers](#searching-and-sorting)
+    5. [Heap type](#searching-and-sorting)
+    6. [Intervals type](#searching-and-sorting)
+    7. [Divide and Conquer](#searching-and-sorting)
 9. [Data structure](#data-structure)
-   1. [Stack](#stack)
-   2. [DSU](#dsu)
-   3. [Linked List](#linked-list)
-   4. [Trees](#trees)
-   5. [Binary Search Trees](#bst)
-   6. [Trie, prefix tree](#trie)
+    1. [Stack](#data-structure)
+    2. [DSU](#data-structure)
+    3. [Linked List](#data-structure)
+    4. [Trees](#data-structure)
+    5. [Binary Search Trees](#data-structure)
+    6. [Trie, prefix tree](#data-structure)
 10. [Bitset](#bitset)
 11. [Cracking the interview Questions ](#cracking-interview)
 12. [Notes](/notes)
@@ -63,6 +63,9 @@
 ## Category Wise
 
 ### JMI
+
+<details>
+<summary> click here </summary>
 
 1. [company data 2020](/JMI_on_campus/List_Of_Companies_2021.md)
 1. [company data 2021](/JMI_on_campus/List_Of_Companies_2022.md)
@@ -77,7 +80,12 @@
 1. [Mobikwik](/JMI_on_campus/mobikwik/)
 1. [Samsung](/JMI_on_campus/samsung/)
 
+</details>
+
 ### Adhoc implementation
+
+<details>
+<summary> click here </summary>
 
 1. [Caesar Cipher](/Atcoder/implementation/caesar_cipher.md)
 2. [Polycarp and String Transformation](/Codeforces/implementation/polycarp_and_string_transformation.md)
@@ -94,13 +102,21 @@
 13. [C - Collision 2](/Atcoder/implementation/collisions2.md)
 14. [D - Moves on Binary Tree ](/Atcoder/implementation/moves_binary_tree.md)
 
+</details>
+
 ### Greedy
+
+<details>
+<summary> click here </summary>
 
 1. [Best time to sell the stock](/LeetCode/dp/best_time_to_sell_stock.md)
 
+</details>
+
 ### Dynamic Programming.
 
-#### Fibonacci-type
+<details>
+<summary> Fibonacci type </summary>
 
 1. [Typical Stairs](/Atcoder/dp/typicalStairs.md)
 2. [Boredom](/Codeforces/dp/boredom.md)
@@ -114,7 +130,10 @@
 10. [Unique BST](/LeetCode/bst/unique_bst.md#dp)
 11. [Number of people aware of secrets](/LeetCode/dp/number_people_aware.md)
 
-#### Knapsack type
+</details>
+
+<details>
+<summary> Knapsack type </summary>
 
 1. [Two Sets2](/CSES/dp/two_sets2.md)
 2. [Book Shop](/CSES/dp/book_shop.md)
@@ -132,7 +151,11 @@
 14. [516. Longest Palindromic Subsequence](/LeetCode/dp/longest_palindromic_subseq.md)
 15. [1049. Last Stone Weight II ](/LeetCode/dp/last_stone_weight2.md)
 
-#### Coin change type
+</details>
+
+
+<details>
+<summary> Coin change type </summary>
 
 1. [removing_digits](/CSES/dp/removing_digits.md)
 2. [dollars](/uva/dp/dollars.md)
@@ -143,12 +166,18 @@
 7. [714. Best Time to Buy and Sell Stock with Transaction Fee](/LeetCode/dp/best_time_to_buy_sell_fee.md)
 8. [309. Best Time to Buy and Sell Stock with Cooldown](/LeetCode/dp/best_time_to_buy_sell_cooldown.md)
 
-#### Counting DP type
+</details>
+
+<details>
+<summary> Counting DP type </summary>
 
 1. [Coin change 2](/LeetCode/dp/coin_change2.md)
 2. [91. Decode Ways](/LeetCode/dp/decode_ways.md)
 
-#### Grid path types
+</details>
+
+<details>
+<summary> Grid path types </summary>
 
 1. [edit distance](/CSES/dp/book_shop.md)
 2. [grid paths](/CSES/dp/grid_paths.md)
@@ -161,13 +190,19 @@
 9. [718. Maximum Length of Repeated Subarray ](/LeetCode/dp/max_subarray_two_array.md)
 10. [799. Champagne Tower ](/LeetCode/dp/champagne_tower.md)
 
-#### LIS type
+</details>
+
+<details>
+<summary> LIS type </summary>
 
 1. [what goes up](/uva/dp/what_goes_up.md)
 2. [kth increasing](/LeetCode/lis/k_increasing.md)
 3. [139. Word Break](/LeetCode/dp/word_break.md)
 
-#### 1D Range sum
+</details>
+
+<details>
+<summary> 1D Range sum </summary>
 
 1. [Maximum Absolute Sum of Any Subarray ](/LeetCode/dp/max_abs_sum.md)
 1. [maximum product subarray](/LeetCode/dp/max_product_subarray.md)
@@ -190,7 +225,10 @@
 1. [Number of subarrays having absolute sum greater than K ](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
 1. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md)
 
-#### TODO
+</details>
+
+<details>
+<summary> TODO </summary>
 
 1. [aab](/Atcoder/dp/aab.md)
 2. [cooking](/Atcoder/dp/cooking.md)
@@ -198,15 +236,21 @@
 4. [shipping center](/Atcoder/dp/shipping_center.md)
 5. [strange lunchbox](/Atcoder/dp/aab.md)
 
+</details>
+
 ### Graphs
 
-#### General implementation
+<details>
+<summary>General implementation</summary>
 
 1. [Detonate the maximum bombs](/LeetCode/graph/detonate_maximum_bomb.md)
 2. [Replace the numbers](/Codeforces/graphs/replace_the_numbers.md)
 3. [Moocast](/USACO/graph/moocast.md)
 
-#### Topological Sorting
+</details>
+
+<details>
+<summary>Topological Sorting</summary>
 
 1. [course schedule](/CSES/graphs/course_schedule.md)
 2. [game routes](/CSES/graphs/game_routes.md)
@@ -218,7 +262,10 @@
 8. [minimum height tree](/LeetCode/graph/minimum_height_tree.md)
 9. [Find All Possible Recipes from Given Supplies](/LeetCode/graph/recipes_supplies.md)
 
-#### Shortest path
+</details>
+
+<details>
+<summary>Shortest path</summary>
 
 1. [flight discount](/CSES/graphs/flight_discount.md)
 2. [investigation](/CSES/graphs/investigation.md)
@@ -227,19 +274,28 @@
 5. [8 puzzle on graph](/Atcoder/graph/8-Puzzle-on-Graph.md)
 6. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#shortest-path)
 
-#### Flood fill
+</details>
+
+<details>
+<summary>Flood fill</summary>
 
 1. [making a large island](/LeetCode/graph/making_a_large_island.md)
 2. [Number of islands](/LeetCode/graph/number_of_islands.md)
 
-#### DFS
+</details>
+
+<details>
+<summary>DFS</summary>
 
 1. [round trip](/CSES/graphs/round_trip.md)
 2. [Kings Path](/Codeforces/graphs/kings_path.md)
 3. [Neighbours](/Atcoder/graph/neighbours.md)
 4. [Keys and rooms](/LeetCode/graph/keys_and_rooms.md#dfs)
 
-#### BFS
+</details>
+
+<details>
+<summary>BFS</summary>
 
 1. [graph girth](/CSES/graphs/graph_girth.md)
 2. [word ladder](/LeetCode/graph/word_ladder.md)
@@ -248,25 +304,42 @@
 5. [Multiply and rotate](/Atcoder/graph/multiply_rotate.md)
 6. [Keys and rooms](/LeetCode/graph/keys_and_rooms.md#bfs)
 
-#### 01 BFS
+</details>
+
+<details>
+<summary>01 BFS</summary>
 
 1. [Wizard in maze](/Atcoder/graph/wizard_in_maze.md)
 
-#### MSSP
+</details>
+
+<details>
+<summary>MSSSP</summary>
 
 1. [01 Matrix](/LeetCode/graph/01matrix.md)
 2. [Shortest distance to a character](/LeetCode/graph/shortest_distance_character.md#multisource-bfs)
 
-#### MST
+</details>
+
+<details>
+<summary>MST</summary>
 
 1. [3-types](/hackerearth/README.md)
 2. [minimum cost to connect path](/LeetCode/graph/min_cost_to_connect_path.md)
 
-#### tree dp
+</details>
+
+<details>
+<summary>Tree Dp</summary>
 
 1. [1519. Number of Nodes in the Sub-Tree With the Same Label](/LeetCode/trees/nodes_subtree_same_label.md)
 
+</details>
+
 ### Number theory
+
+<details>
+<summary>Click here</summary>
 
 1. [Amusement park](/Atcoder/maths_greedy/amusement_park.md)
 2. [Divisor counts](/Codeforces/number_theory/divisor_count.md)
@@ -278,31 +351,43 @@
 8. [Max GCD 2](/Atcoder/number_theory/max_gcd2.md)
 9. [Multiple length](/codestudio/number_theory/multiple_length.md)
 
+</details>
+
 ### Searching and sorting
 
-#### greedy implementation
+<details>
+<summary>greedy implementation</summary>
 
 1. [Shortest distance to a character](/LeetCode/graph/shortest_distance_character.md#searching-sorting)
 
-#### sorting and observation
+</details>
+
+
+
+<details>
+<summary>sorting and observation</summary>
 
 1. [Linear approximation](/Atcoder/searching_sorting/linear_approx.md)
 2. [LR Insertion](/Atcoder/linkedList/LR_insertion.md#list-implementation)
 
-#### Binary search type
+</details>
+
+<details>
+<summary>Binary search type</summary>
 
 1. [Binary Search](/LeetCode/binary_search/binary_search.md)
-1. [Binary search in sorted rotated array](/LeetCode/binary_search/search_sorted_rotated.md)
-1. [Apartments](/CSES/searching_and_sorting/apartments.md)
-1. [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
-1. [binary search in sorted array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
-1. [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
-1. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
-1. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#binary-search)
+2. [Binary search in sorted rotated array](/LeetCode/binary_search/search_sorted_rotated.md)
+3. [Apartments](/CSES/searching_and_sorting/apartments.md)
+4. [Subarray sums 2](/CSES/searching_and_sorting/subarray_sums_2.md)
+5. [binary search in sorted array](/LeetCode/binary_search/binary_search_in_sorted_array.md)
+6. [Koko eating bananas](LeetCode/binary_search/koko_eating_bananas.md)
+7. [swim in the rising water](LeetCode/graph/swim_in_rising_water.md#binary-search-on-the-answer)
+8. [count the words after adding a letter](/LeetCode/binary_search/count_words_after_adding_letter.md#binary-search)
 
-#### Two Pointers
+</details>
 
-##### Sliding Window
+<details>
+<summary>Sliding Window</summary>
 
 1. [Contains Duplicate II](/LeetCode/2p/contains_duplicate.md#contains-duplicate-2)
 2. [maximum consecutive one's](/LeetCode/2p/maxConsecutiveOne.md)
@@ -320,14 +405,20 @@
 14. [Geekland colosseum](/GeeksForGeeks/prefix/geekland_colosseum.md)
 15. [Maximum sum of two non-overlapping subarrays of a given size](/CodeStudio/prefix/max_sum_non_overlapping_subarray.md)
 
-#### Intervals type
+</details>
+
+<details>
+<summary>Intervals type</summary>
 
 1. [non overlapping subintervals](/LeetCode/greedy/non_overlapping_intervals.md)
 1. [Merge intervals](/LeetCode/greedy/merge_intervals.md)
 1. [Car pooling](/LeetCode/greedy/car_pooling.md)
 1. [567. Permutation in String](/LeetCode/greedy/min_arrows_burst_balloons.md)
 
-#### Heaps
+</details>
+
+<details>
+<summary>Heaps</summary>
 
 1. [Top k frequent words](/LeetCode/heaps/top_k_words.md)
 2. [215. Kth Largest Element in an Array](/LeetCode/heaps/kth_largest_element.md)
@@ -337,13 +428,19 @@
 6. [1642. Furthest Building You Can Reach](/LeetCode/heaps/furthest_point_reachable.md), todo
 7. [295. Find Median from Data Stream ](/LeetCode/heaps/find_median_data_stream.md), todo
 
-#### divide and conquer
+</details>
+
+<details>
+<summary>Divide & Conquer</summary>
 
 1. [Thanos sort](/Codeforces/divide_and_conquer/thanos_sort.md)
 
+</details>
+
 ### Data structure
 
-#### Stack
+<details>
+<summary>Stack</summary>
 
 1. [Longest valid paranthesis](/LeetCode/stack/longest_valid_paranthesis.md)
 2. [Asteroid Collision](/LeetCode/stack/asteroid_collission.md)
@@ -356,7 +453,10 @@
 9. [Remove K digits](/LeetCode/stack/remove_k_digits.md)
 10. [First negative integer in every window of size k ](/GeeksForGeeks/stack/negative_in_window.md)
 
-#### DSU
+</details>
+
+<details>
+<summary>DSU</summary>
 
 1. [Little Alawn's Puzzle](/Codeforces/dsu/little_alwan_puzzle.md)
 2. [Graph destruction](/Atcoder/dsu/graphDestruction.md)
@@ -367,7 +467,10 @@
 7. [Most Stones Removed with Same Row or Column ](/LeetCode/graph/remove_stones_same_row_col.md)
 8. [smallest string with swaps](/LeetCode/dsu/smallest_string_with_swap.md)
 
-#### Linked-list
+</details>
+
+<details>
+<summary>Linked List</summary>
 
 1. [add two numbers](/LeetCode/linkedList/add_two_numbers.md)
 1. [delete node in linked list](/LeetCode/linkedList/delete_node_in_linked_list.md)
@@ -384,7 +487,10 @@
 1. [138. Copy List with Random Pointer](/LeetCode/linkedList/copy_ll_random.md)
 1. [LRU cache](/LeetCode/linkedList/LRU.md)
 
-#### Trees
+</details>
+
+<details>
+<summary>Trees</summary>
 
 1. [Pre-order Traversal](/LeetCode/trees/preorder.md)
 1. [In-order Traversal](/LeetCode/trees/inorder.md)
@@ -419,7 +525,10 @@
 1. [Morris Pre order](/LeetCode/trees/morris_preorder.md)
 1. [Binary Tree to DLL](/GeeksForGeeks/trees/bt_to_dll.md)
 
-#### BST
+</details>
+
+<details>
+<summary>BST</summary>
 
 1. [insert into binary search tree](/LeetCode/bst/insert_into_bst.md)
 2. [98. Validate Binary Search Tree ](/LeetCode/bst/validate_bst.md)
@@ -431,12 +540,20 @@
 8. [BST to greater sum tree](/LeetCode/bst/BST_greater_sum_tree.md)
 9. [Minimum absolute difference](/LeetCode/bst/min_absolute_diff.md)
 
-#### Trie
+</details>
+
+<details>
+<summary>Trie</summary>
 
 1. [Implement Trie (Prefix Tree) ](/LeetCode/trie/implementing_trie.md)
 2. [Design Add and Search Words Data Structure](/LeetCode/trie/design_dictionary.md)
 
+</details>
+
 ### Bitset
+
+<details>
+<summary>Click here</summary>
 
 1. [complement of base 10](/LeetCode/bitset/complement_of_base10.md)
 2. [Hammering distance](/LeetCode/bitset/hammeringDistance.md)
@@ -448,13 +565,14 @@
 8. [majority element](/LeetCode/implementation/majority_element.md#bits)
 9. [Find XOR Sum of All Pairs Bitwise AND](/LeetCode/bitset/xor_sum_all_pairs_biwise_and.md)
 
+</details>
+
 ### Cracking Interview
 
 1. [Is unique](./CrackingTheCodingInterview/Array/1.%20Is_unique/README.md)
 2. [Check Permutation](./CrackingTheCodingInterview/Array/2.%20Check_permutation/README.md)
 
-
-## 💥How to Contribute? 
+## 💥How to Contribute?
 
 Head over to [Contributing Guidelines](/CONTRIBUTING.md) to know more!
 
