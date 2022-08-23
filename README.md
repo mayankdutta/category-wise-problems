@@ -247,8 +247,6 @@
 1. [Detonate the maximum bombs](/LeetCode/graph/detonate_maximum_bomb.md)
 1. [Replace the numbers](/Codeforces/graphs/replace_the_numbers.md)
 1. [Moo Cast](/USACO/graph/moocast.md)
-1. [Construct Smallest Number From DI String](/LeetCode/greedy/construct_DI_smallest.md)
-1. [DI String Match](/LeetCode/greedy/DI_string_match.md)
 
 </details>
 
@@ -362,6 +360,8 @@
 <summary>greedy implementation</summary>
 
 1. [Shortest distance to a character](/LeetCode/graph/shortest_distance_character.md#searching-sorting)
+1. [Construct Smallest Number From DI String](/LeetCode/greedy/construct_DI_smallest.md)
+1. [DI String Match](/LeetCode/greedy/DI_string_match.md)
 
 </details>
 
@@ -415,6 +415,7 @@
 1. [Merge intervals](/LeetCode/greedy/merge_intervals.md)
 1. [Car pooling](/LeetCode/greedy/car_pooling.md)
 1. [Permutation in String](/LeetCode/greedy/min_arrows_burst_balloons.md)
+1. [My Calendar I](/LeetCode/greedy/my_calendar1.md)
 
 </details>
 
@@ -422,12 +423,15 @@
 <summary>Heaps</summary>
 
 1. [Top k frequent words](/LeetCode/heaps/top_k_words.md)
-2. [Kth Largest Element in an Array](/LeetCode/heaps/kth_largest_element.md)
-3. [Top K Frequent Elements ](/LeetCode/heaps/top_k_elements.md)
-4. [Last Stone Weight](/LeetCode/heaps/last_stone_weight.md)
-5. [K Closest Points to Origin](/LeetCode/heaps/k_closest_point.md)
-6. [Furthest Building You Can Reach](/LeetCode/heaps/furthest_point_reachable.md), todo
-7. [Find Median from Data Stream ](/LeetCode/heaps/find_median_data_stream.md), todo
+1. [Kth Largest Element in an Array](/LeetCode/heaps/kth_largest_element.md)
+1. [Top K Frequent Elements ](/LeetCode/heaps/top_k_elements.md)
+1. [Last Stone Weight](/LeetCode/heaps/last_stone_weight.md)
+1. [K Closest Points to Origin](/LeetCode/heaps/k_closest_point.md)
+1. [Furthest Building You Can Reach](/LeetCode/heaps/furthest_point_reachable.md)
+1. [Geekland colosseum](/GeeksForGeeks/prefix/geekland_colosseum.md)
+1. [Potions](/Codeforces/greedy/potions.md)
+1. [Minimum Number of Refueling Stops](/LeetCode/heaps/min_number_refueling.md)
+1. [Find Median from Data Stream ](/LeetCode/heaps/find_median_data_stream.md), todo
 
 </details>
 
