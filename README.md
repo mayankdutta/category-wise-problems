@@ -224,7 +224,8 @@
 1. [Arithmetic Slices ](/LeetCode/dp/arithmetic_slices.md#dp-with-state-compression)
 1. [Count of Subarrays having sum equal to its length ](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)
 1. [Number of Subarrays having absolute sum greater than K ](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
-1. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md)
+1. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md), TODO
+1. [Largest Sum Subarray of Size at least K](/GeeksForGeeks/dp/largest_sum_subarray_size_k.md)
 
 </details>
 
@@ -282,6 +283,7 @@
 
 1. [Making a Large Island](/LeetCode/graph/making_a_large_island.md)
 2. [Number of islands](/LeetCode/graph/number_of_islands.md)
+3. [Number of Distinct Islands](./GeeksForGeeks/grid/number_of_distinct_island.md)
 
 </details>
 
@@ -362,6 +364,7 @@
 1. [Shortest distance to a character](/LeetCode/graph/shortest_distance_character.md#searching-sorting)
 1. [Construct Smallest Number From DI String](/LeetCode/greedy/construct_DI_smallest.md)
 1. [DI String Match](/LeetCode/greedy/DI_string_match.md)
+1. [Shortest Subarray to be Removed to Make Array Sorted](/LeetCode/greedy/shortest_subarray_remove.md)
 
 </details>
 
@@ -405,6 +408,8 @@
 1. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md)
 1. [Geekland colosseum](/GeeksForGeeks/prefix/geekland_colosseum.md)
 1. [Maximum sum of two non-overlapping subarrays of a given size](/CodeStudio/prefix/max_sum_non_overlapping_subarray.md)
+1. [Largest Sum Subarray of Size at least K](/GeeksForGeeks/dp/largest_sum_subarray_size_k.md)
+1. [Maximum Number of Robots Within Budget](./LeetCode/2p/max_numbers_budget.md)
 
 </details>
 
