@@ -1,5 +1,7 @@
 [Potions](https://codeforces.com/contest/1526/problem/C2)
 
+_tags: Running Maximum, Minimum, Subsequences._
+
 #### Intution
 
 - once taken into account.
@@ -10,6 +12,7 @@
 - yes with priorityQueue/multiset at the hand.
 - i can go back in time and choose to have different thing than once i had.
 - because I had them stored.
+- similar questions: [Maximum Performance of a team](https://leetcode.com/problems/maximum-performance-of-a-team/), [Maximum Subsequence score](https://leetcode.com/problems/maximum-subsequence-score/), [Minimum cost to hire K workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/), [IPO](https://leetcode.com/problems/ipo/)
 
 <details>
 <summary> implementation </summary>
