@@ -1,6 +1,8 @@
+#Binary Lifting
 Find the kth ancestor.
 
 in the code upto 2^6 th ancestor.
+
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
