@@ -1,4 +1,4 @@
-**Tags:** dp grid-dp linear-dp
+**Tags:** dp linear-dp
 
 [139. Word Break](https://leetcode.com/problems/word-break/)
 

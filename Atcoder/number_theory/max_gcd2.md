@@ -1,4 +1,4 @@
-**Tags:** number-theory gcd-lcm sieve hashmap factorization
+**Tags:** number-theory gcd-lcm factorization
 
 [Max GCD 2](https://atcoder.jp/contests/jsc2021/tasks/jsc2021_c)
 

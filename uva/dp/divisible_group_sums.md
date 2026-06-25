@@ -1,4 +1,4 @@
-**Tags:** dp knapsack probability-dp counting-dp subset-sum
+**Tags:** dp subset-sum counting-dp
 
 [10616 - Divisible Group Sums ](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=1557), medium.
 
