@@ -78,6 +78,14 @@ as a secondary tag when a problem leans on that area as a secondary technique
 Derived from the topic lists of cp-algorithms, the CSES problem set, the USACO
 Guide, and the Codeforces problemset tags.
 
+The [Tag Index](/TAGS.md) is generated from these `**Tags:**` lines by
+`scripts/gen_tags_index.py`. To keep it regenerated automatically on every
+commit, enable the hook once per clone:
+
+```sh
+git config core.hooksPath scripts/hooks
+```
+
 #### Tier 1 — Category (pick exactly one)
 
 ```text

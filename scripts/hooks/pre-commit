@@ -1,0 +1,24 @@
+#!/bin/sh
+# Keep TAGS.md in sync with the notes.
+#
+# When a commit touches any markdown note (or the generator itself),
+# regenerate TAGS.md and stage it so the index never drifts from the
+# `**Tags:**` lines. Enable once per clone with:
+#
+#     git config core.hooksPath scripts/hooks
+
+# Nothing to do unless this commit changes notes or the generator.
+changed=$(git diff --cached --name-only | grep -E '\.md$|scripts/gen_tags_index\.py' || true)
+[ -z "$changed" ] && exit 0
+
+if ! command -v python3 >/dev/null 2>&1; then
+    echo "pre-commit: python3 not found; TAGS.md not regenerated" >&2
+    exit 0
+fi
+
+if ! python3 scripts/gen_tags_index.py >/dev/null; then
+    echo "pre-commit: TAGS.md generation failed" >&2
+    exit 1
+fi
+
+git add TAGS.md
