@@ -1,3 +1,5 @@
+**Tags:** prefix-sum two-sum
+
 [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/), prefix sums, map, medium
 
 - only 2 values are there, 0 and 1.

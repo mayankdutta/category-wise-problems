@@ -1,3 +1,5 @@
+**Tags:** prefix-sum
+
 [2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/), medium, prefix sums
 
 - we have to check at every instance 

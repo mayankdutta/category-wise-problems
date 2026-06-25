@@ -1,3 +1,5 @@
+**Tags:** prefix-sum
+
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 - for every block

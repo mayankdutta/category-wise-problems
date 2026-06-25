@@ -1,3 +1,5 @@
+**Tags:** prefix-sum two-sum modular-arithmetic
+
 [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/)
 
 ```js
