@@ -143,7 +143,7 @@
 
 #### Grid path
 
-1. [edit distance](/CSES/dp/book_shop.md)
+1. [edit distance](/CSES/dp/edit_distance.md)
 1. [grid paths](/CSES/dp/grid_paths.md)
 1. [LCS](/LeetCode/dp/lcs.md)
 1. [Maximal square](/LeetCode/dp/maximal_square.md)
@@ -164,7 +164,7 @@
 
 1. [Maximum Absolute Sum of Any Subarray](/LeetCode/dp/max_abs_sum.md)
 1. [Maximum Product Subarray](/LeetCode/dp/max_product_subarray.md)
-1. [Maximum Sum Circular Subarray](/LeetCode/dp/)
+1. [Maximum Sum Circular Subarray](/LeetCode/prefix/max_sum_circular_subarray.md)
 1. [Number of Smooth Descent Periods of a Stock](/LeetCode/dp/smooth_descent.md)
 1. [Blackboard GCD](/Atcoder/prefix/blackboard_gcd.md)
 1. [Make Power of 2](/Codeforces/prefix/make_power_of_two.md)
@@ -181,7 +181,7 @@
 1. [Arithmetic Slices](/LeetCode/dp/arithmetic_slices.md#dp-with-state-compression)
 1. [Count of Subarrays having sum equal to its length](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)
 1. [Number of Subarrays having absolute sum greater than K](/GeeksForGeeks/prefix/subarrays_sum_greater.md)
-1. [Trapping Rain water](/LeetCode/stack/trapping_rain_water.md), TODO
+1. [Trapping Rain water](/LeetCode/prefix/trapping_water.md)
 1. [Largest Sum Subarray of Size at least K](/GeeksForGeeks/dp/largest_sum_subarray_size_k.md)
 
 #### TODO
@@ -190,7 +190,7 @@
 2. [Cooking](/Atcoder/dp/cooking.md)
 3. [FG operation](/Atcoder/dp/fg_operation.md)
 4. [Shipping Center](/Atcoder/dp/shipping_center.md)
-5. [Strange Lunchbox](/Atcoder/dp/aab.md)
+5. [Strange Lunchbox](/Atcoder/dp/strange_lunchbox.md)
 
 ### Graphs
 
@@ -353,7 +353,6 @@
 1. [Asteroid Collision](/LeetCode/stack/asteroid_collission.md)
 1. [Sliding window Maximum](/LeetCode/2p/sliding_window_maximum.md#monotonic-deque)
 1. [132 Pattern](/LeetCode/stack/132_pattern.md)
-1. [asteroid collission](/LeetCode/stack/asteroid_collission.md)
 1. [largest area histogram](/LeetCode/stack/largest_area_histogram.md)
 1. [Next greater element](/LeetCode/stack/next_greater_element.md)
 1. [Remove duplicate letters](/LeetCode/stack/remove_duplicate_letters.md)
@@ -419,7 +418,7 @@
 1. [Distance b/w two nodes](/codestudio/trees/distance_two_nodes.md)
 1. [All distance at k in Binary tree](/LeetCode/trees/all_nodes_distance_k.md)
 1. [Max Depth N ary tree](/LeetCode/trees/max_depth_n_ary_tree.md)
-1. [Binary Tree to mirror tree](/LeetCode/trees/binary_tree_mirror_tree.md)
+1. [Binary Tree to mirror tree](/codestudio/trees/binary_tree_mirror_tree.md)
 1. [Morris In order](/LeetCode/trees/morris_inorder.md)
 1. [Morris Pre order](/LeetCode/trees/morris_preorder.md)
 1. [Binary Tree to DLL](/GeeksForGeeks/trees/bt_to_dll.md)
