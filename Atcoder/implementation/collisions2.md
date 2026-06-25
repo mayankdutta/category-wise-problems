@@ -1,3 +1,5 @@
+**Tags:** implementation hashmap sorting
+
 [C - Collision 2](https://atcoder.jp/contests/abc243/tasks/abc243_c)
 
 ```cpp

@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack knapsack counting-dp
+
 [147-Dollars](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=83)
 
 - UNORDERED counting.

@@ -1,3 +1,5 @@
+**Tags:** prefix-sum sliding-window heap
+
 [Geekland Colesseum](https://practice.geeksforgeeks.org/contest/job-a-thon-exclusive-hiring-challenge-for-amazon-alexa/problems#)
 
 ###### same problem but with [subarrays](/codestudio/prefix/max_sum_non_overlapping_subarray.md).

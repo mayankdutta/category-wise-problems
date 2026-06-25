@@ -1,3 +1,5 @@
+**Tags:** bit-manipulation constructive
+
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
 In layman terms hammering distance is the no. of times when both the no.s had different bits.

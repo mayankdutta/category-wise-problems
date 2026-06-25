@@ -1,3 +1,5 @@
+**Tags:** dsu dp
+
 ## DSU 
 ### Step 1
 ##### C. [Experience](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C)

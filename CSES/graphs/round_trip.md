@@ -1,3 +1,5 @@
+**Tags:** graph dfs
+
 [Round Trip II](https://cses.fi/problemset/task/1678/),
 
 - Normal DFS with some coloring and keeping tracks of parents.

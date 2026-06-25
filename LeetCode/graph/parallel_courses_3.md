@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort dp dag-dp
+
 ## topological sorting, longest path
 [2050. Parallel Courses III ](https://leetcode.com/problems/parallel-courses-iii/), Hard
  - question was really simple to understand

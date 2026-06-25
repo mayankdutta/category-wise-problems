@@ -1,3 +1,5 @@
+**Tags:** dp greedy dp-optimization
+
 [1402. Reducing dishes](https://leetcode.com/problems/reducing-dishes/)
 
 - to approach these type of question.

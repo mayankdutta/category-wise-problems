@@ -1,3 +1,5 @@
+**Tags:** prefix-sum sliding-window
+
 [Maximum sum of two non-overlapping subarrays of a given size](https://www.codingninjas.com/codestudio/problems/maximum-sum-two-non-overlapping-subarrays-of-a-given-size_800291?topList=top-array-coding-interview-questions&leftPanelTab=0)
 
 ###### same problem but with [subsequence](/GeeksForGeeks/prefix/geekland_colosseum.md).

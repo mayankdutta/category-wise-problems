@@ -1,3 +1,5 @@
+**Tags:** stack monotonic-stack
+
 [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 
 - used vector in place of stack, for debugging purposes.

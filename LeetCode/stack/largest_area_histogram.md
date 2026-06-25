@@ -1,3 +1,5 @@
+**Tags:** stack monotonic-stack
+
 [84. Largest Rectangle in Histogram ](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 [refer to notes please](/notes/stacks/README.md)

@@ -1,3 +1,5 @@
+**Tags:** dsu brute-force
+
 [E. Replace the Numbers](https://codeforces.com/contest/1620/problem/E), implementation
 
 

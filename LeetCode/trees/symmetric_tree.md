@@ -1,3 +1,5 @@
+**Tags:** tree dfs
+
 [101. Symmetric Tree ] (https://leetcode.com/problems/symmetric-tree/)
 
 - one of the classic problems base on trees

@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack counting-dp
+
 [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/), Unbounded knapsack, 1D
 
 - Given an amount, we were supposed to find different combinations.

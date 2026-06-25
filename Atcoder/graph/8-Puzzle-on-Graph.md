@@ -1,3 +1,5 @@
+**Tags:** graph bfs state-compression
+
 [D - 8 Puzzle on Graph](https://atcoder.jp/contests/abc224/tasks/abc224_d)
 
 - A reasonably good problem on shortest paths in strings.

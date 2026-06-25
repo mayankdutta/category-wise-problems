@@ -1,3 +1,5 @@
+**Tags:** bit-manipulation constructive
+
 [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
 
 - hammering distance is always b/w two integers.

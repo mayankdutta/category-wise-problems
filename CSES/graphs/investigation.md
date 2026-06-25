@@ -1,3 +1,5 @@
+**Tags:** graph dijkstra shortest-path
+
 ### [Investigation](https://cses.fi/problemset/task/1202/), Medium, modified Djikstra, slight dp.
 
 ##### Approach

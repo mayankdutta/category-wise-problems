@@ -1,3 +1,5 @@
+**Tags:** implementation hashmap boyer-moore-voting
+
 [169 Majority element](https://leetcode.com/problems/majority-element/)
 
 ##### hashmap

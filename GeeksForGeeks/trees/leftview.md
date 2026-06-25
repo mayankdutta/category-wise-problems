@@ -1,3 +1,5 @@
+**Tags:** tree bfs
+
 [Left view of the binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)
 
 - Left view is nothing but first element if we traverse level wise.

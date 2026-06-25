@@ -1,3 +1,5 @@
+**Tags:** number-theory gcd-lcm unbounded-knapsack
+
 ### Problem statement
 
 A thief plans to rob in a shop having 2 types of toys typeA toy and typeB toy.

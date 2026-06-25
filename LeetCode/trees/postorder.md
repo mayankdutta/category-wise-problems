@@ -1,3 +1,5 @@
+**Tags:** tree dfs tree-traversal
+
 [145. Binary Tree Postorder Traversal ](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 

@@ -1,3 +1,5 @@
+**Tags:** tree topological-sort bfs
+
 [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/), topological sorting, medium
 
 explanation at [gardner and tree](/Codeforces/graphs/gardner_and_tree.md)

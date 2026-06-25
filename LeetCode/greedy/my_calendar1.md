@@ -1,3 +1,5 @@
+**Tags:** intervals brute-force ordered-set
+
 [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 
 #### Brute

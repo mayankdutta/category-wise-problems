@@ -1,3 +1,5 @@
+**Tags:** dp lis binary-search
+
 [481 - What goes up](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=422)
 
 - Classic problem to calculate LIS

@@ -1,3 +1,5 @@
+**Tags:** number-theory gcd-lcm sieve hashmap
+
 [Max GCD Pair](https://www.codingninjas.com/codestudio/problems/max-gcd-pair_842786?leftPanelTab=0&utm_source=pocket_mylist)
 
 - stored the frequency of the factors in map

@@ -1,3 +1,5 @@
+**Tags:** prefix-sum hashmap
+
 [Subarray sums II](https://cses.fi/problemset/task/1661/), kind of map problem
  - Greedy.
  - Prerequisite, STL, or atleast how to maintain count of no.s in array.

@@ -1,3 +1,5 @@
+**Tags:** linked-list two-pointers
+
 [328. Odd Even Linked List ](https://leetcode.com/problems/odd-even-linked-list/), Medium
 
 #### method 1

@@ -1,3 +1,5 @@
+**Tags:** graph bfs
+
 [Graph girth](https://cses.fi/problemset/task/1707/), Medium, modified BFS
 
 ##### Approach

@@ -1,3 +1,5 @@
+**Tags:** greedy two-pointers sweep-line
+
 [Partition String](https://binarysearch.com/problems/Partition-String)
 
 - implementation base problem

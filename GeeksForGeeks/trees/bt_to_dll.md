@@ -1,3 +1,5 @@
+**Tags:** tree dfs morris-traversal
+
 [Binary tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 
 ### DFS

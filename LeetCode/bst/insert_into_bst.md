@@ -1,3 +1,5 @@
+**Tags:** bst dfs
+
 [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
 - we just have to traverse in the tree till we encounter a leaf.

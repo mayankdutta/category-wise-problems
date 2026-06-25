@@ -1,3 +1,5 @@
+**Tags:** tree bfs
+
 [bottom view of the binary tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 
 - horizontal distance approach. 

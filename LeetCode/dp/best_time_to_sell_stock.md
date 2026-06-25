@@ -1,3 +1,5 @@
+**Tags:** dp state-compression greedy
+
 ### Best time to sell the stocks I
 
 ### Best time to sell the stocks II

@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack
+
 [Removing Digits](https://cses.fi/problemset/task/1637/), easy
 
 - Coin change variant

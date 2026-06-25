@@ -1,3 +1,5 @@
+**Tags:** dp fibonacci-dp combinatorics
+
 # DP, 1d, fibonacci type
 
 [C. Constanze's Machine ](https://codeforces.com/problemset/problem/1245/C)

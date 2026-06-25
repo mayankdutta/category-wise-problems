@@ -1,3 +1,5 @@
+**Tags:** dp grid-dp
+
 [ 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 spin off of [Unique Paths](/LeetCode/dp/unique_paths.md#unique-paths-1)

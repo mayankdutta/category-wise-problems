@@ -1,3 +1,5 @@
+**Tags:** intervals greedy sorting custom-comparator
+
 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 - idea is pretty clear, it does seems like every interval kind of problem 

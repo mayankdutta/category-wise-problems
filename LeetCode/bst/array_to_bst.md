@@ -1,3 +1,5 @@
+**Tags:** bst divide-and-conquer dfs
+
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 - hint can be taken from the fact that _inorder traversal of BST always result in sorted sequence_.

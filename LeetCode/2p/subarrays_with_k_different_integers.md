@@ -1,3 +1,5 @@
+**Tags:** implementation sliding-window hashmap
+
 [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) Hard, 2 pointers
 
 ### atmost(k) - atmost(k - 1) method

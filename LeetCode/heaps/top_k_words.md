@@ -1,3 +1,5 @@
+**Tags:** heap sorting custom-comparator top-k
+
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 - implementation type problem

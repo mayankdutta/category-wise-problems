@@ -1,3 +1,5 @@
+**Tags:** greedy constructive two-pointers
+
 [942. DI String Match](https://leetcode.com/problems/di-string-match/)
 
 - since we are required to return the array in any order.

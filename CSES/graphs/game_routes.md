@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort bfs dag-dp
+
 [Game Routes](https://cses.fi/problemset/task/1681),
 
 - Utilizes the concept of topological sorting.

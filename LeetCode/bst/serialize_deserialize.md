@@ -1,3 +1,5 @@
+**Tags:** tree dfs constructive
+
 [297. Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 - thing is to decode a particular traverse in such a way so that we may decode again.

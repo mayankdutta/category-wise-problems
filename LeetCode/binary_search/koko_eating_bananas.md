@@ -1,3 +1,5 @@
+**Tags:** binary-search binary-search-on-answer
+
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
  
  - A fine problem on binary search (a good example of BS over unsorted content)

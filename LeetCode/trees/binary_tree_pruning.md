@@ -1,3 +1,5 @@
+**Tags:** tree dfs
+
 [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 
 for explanation refer to [Delete leaves with Given Value](/LeetCode/trees/delete_leaves_with_given_value.md)

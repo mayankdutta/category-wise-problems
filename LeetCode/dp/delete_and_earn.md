@@ -1,3 +1,5 @@
+**Tags:** dp fibonacci-dp
+
 [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 
 - since we can only delete the arr[i] - 1 and arr[i] + 1, therefore sorting and counting frequencies it would be a good idea.

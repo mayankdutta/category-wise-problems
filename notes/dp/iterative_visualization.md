@@ -1,3 +1,5 @@
+**Tags:** bit-manipulation brute-force
+
 ## Question
 
 ```js

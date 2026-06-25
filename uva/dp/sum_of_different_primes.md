@@ -1,3 +1,5 @@
+**Tags:** dp knapsack counting-dp
+
 [1213 - Sum of Different Primes](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3654)
 
 - first 3 state dp problem of mine.

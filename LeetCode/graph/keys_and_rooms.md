@@ -1,3 +1,5 @@
+**Tags:** graph dfs bfs
+
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
 - it should strike DFS kind of approach

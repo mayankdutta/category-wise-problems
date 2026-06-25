@@ -1,3 +1,5 @@
+**Tags:** graph bfs shortest-path
+
 ## BFS, shortest paths.
 
 [127. Word Ladder ](https://leetcode.com/problems/word-ladder/), Hard

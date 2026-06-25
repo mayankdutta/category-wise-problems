@@ -1,3 +1,5 @@
+**Tags:** tree dfs tree-dp
+
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
 - concept of [depth of binary tree](/LeetCode/trees/depth_of_binarytree.md) is used.

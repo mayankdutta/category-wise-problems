@@ -1,3 +1,5 @@
+**Tags:** greedy ordered-set
+
 [Potions](https://codeforces.com/contest/1526/problem/C2)
 
 _tags: Running Maximum, Minimum, Subsequences._

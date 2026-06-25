@@ -1,3 +1,5 @@
+**Tags:** dp knapsack state-compression subset-sum
+
 [562 - Dividing coins](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=503)
 
 - States are, `index and currentSum`

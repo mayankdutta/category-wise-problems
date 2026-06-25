@@ -1,3 +1,5 @@
+**Tags:** tree dfs morris-traversal
+
 [Inorder Morris traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 - we will traverse in the tree starting from left (since inorder)

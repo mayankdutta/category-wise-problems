@@ -1,3 +1,5 @@
+**Tags:** bit-manipulation state-compression hashmap
+
 [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/), Hard
 
 Resources

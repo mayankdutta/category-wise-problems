@@ -1,3 +1,5 @@
+**Tags:** graph bfs dfs
+
 [2101. Detonate the Maximum Bombs](https://leetcode.com/contest/biweekly-contest-67/problems/detonate-the-maximum-bombs/), Medium 
 
 ```js

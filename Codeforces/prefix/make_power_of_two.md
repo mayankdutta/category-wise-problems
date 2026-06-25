@@ -1,3 +1,5 @@
+**Tags:** strings lcs brute-force two-pointers
+
 [D. Make a Power of Two](https://codeforces.com/contest/1560/problem/D), Easy
 - We just have to figure out that it is asking for prefix of main string, with power of 2, to be matched.
 - The string which matched the most, will be tracked.

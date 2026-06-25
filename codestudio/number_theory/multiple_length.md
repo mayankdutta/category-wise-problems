@@ -1,3 +1,5 @@
+**Tags:** number-theory bit-manipulation
+
 [Multiple Length](https://www.codingninjas.com/codestudio/contests/love-babbar-contest-4/problems/15544?leftPanelTab=0)
 
 - one way was to get the product and then check the size of bits.

@@ -1,3 +1,5 @@
+**Tags:** implementation backtracking brute-force
+
 [#46 Permutations](https://leetcode.com/problems/permutations/)
 
 #### General Solution

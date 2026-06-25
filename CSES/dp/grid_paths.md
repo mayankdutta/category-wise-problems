@@ -1,3 +1,5 @@
+**Tags:** dp grid-dp counting-dp
+
 [Grid Paths](https://cses.fi/problemset/task/1638/), classic levinshtein distance.
 
 - Classic problem, one of it's kind.

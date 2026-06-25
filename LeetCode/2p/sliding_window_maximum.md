@@ -1,3 +1,5 @@
+**Tags:** implementation monotonic-deque ordered-set sliding-window
+
 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 ##### multiset

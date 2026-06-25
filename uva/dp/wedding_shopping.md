@@ -1,3 +1,5 @@
+**Tags:** dp knapsack
+
 [11450 - Wedding shopping](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2445)
 
 - Problem require us to find the maximum amount of dresses(have multiple brands) in given amount of money.

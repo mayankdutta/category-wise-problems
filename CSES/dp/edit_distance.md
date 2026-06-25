@@ -1,3 +1,5 @@
+**Tags:** dp edit-distance lcs
+
 [Edit Distance ](https://cses.fi/problemset/task/1639/), classic levinshtein distance.
 
 ##### Classic problem, one of it's kind.

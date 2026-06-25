@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort
+
 ## kind of topological sorting
 
 [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d), Hard

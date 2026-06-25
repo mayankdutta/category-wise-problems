@@ -1,3 +1,5 @@
+**Tags:** strings two-pointers
+
 [680. Valid Palindrome II](https:/leetcode.com/problems/valid-palindrome-ii/)
 
 - implementation type of problem.

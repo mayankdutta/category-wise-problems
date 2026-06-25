@@ -1,3 +1,5 @@
+**Tags:** tree bfs sorting
+
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
 - very similar to the idea of top view / bottom view of the tree.

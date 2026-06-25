@@ -1,3 +1,5 @@
+**Tags:** dp state-compression
+
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
 follow up of [714. Best Time to Buy and Sell Stock with Transaction Fee](/LeetCode/dp/best_time_to_buy_sell_free.md) and [188. Best Time to Buy and Sell Stock IV](/LeetCode/dp/best_time_to_buy_sell_stock4.md).

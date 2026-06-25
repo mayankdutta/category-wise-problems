@@ -1,3 +1,5 @@
+**Tags:** implementation constructive
+
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 
 <img src = "./next-permutation-algorithm.png"  alt="image">

@@ -1,3 +1,5 @@
+**Tags:** greedy two-pointers sorting binary-search
+
 [Apartments](https://cses.fi/problemset/task/1084), Two pointers, Sorting, Binary search, easy.
 
 - Greedy.

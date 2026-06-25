@@ -1,3 +1,5 @@
+**Tags:** dp grid-dp
+
 [ 799. Champagne Tower ](https://leetcode.com/problems/champagne-tower/)
 
 - just do as said.

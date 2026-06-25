@@ -1,3 +1,5 @@
+**Tags:** graph 01-bfs
+
 [D-Wizard in maze](https://atcoder.jp/contests/abc176/tasks/abc176_d), ABC problem-D, jiangly solution.<br>
 
 - 0 - 1 BFS

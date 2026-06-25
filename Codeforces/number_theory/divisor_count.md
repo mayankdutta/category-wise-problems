@@ -1,3 +1,5 @@
+**Tags:** number-theory sieve brute-force factorization
+
 [Divisors count](https://codeforces.com/group/yg7WhsFsAp/contest/355493/problem/P22), medium
 
 #### method 1

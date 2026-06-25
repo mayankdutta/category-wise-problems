@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort bfs dag-dp
+
 [Course Schedule](https://cses.fi/problemset/task/1679/),
 
 - Intro type problem on topological sorting.

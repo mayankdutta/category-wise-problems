@@ -1,3 +1,5 @@
+**Tags:** dp interval-dp grid-dp
+
 [Divide the array in K segments such that the sum of minimums is maximized](https://www.geeksforgeeks.org/divide-the-array-in-k-segments-such-that-the-sum-of-minimums-is-maximized/)
 
 

@@ -1,3 +1,5 @@
+**Tags:** strings backtracking brute-force
+
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 - first map the values to the alphabets.

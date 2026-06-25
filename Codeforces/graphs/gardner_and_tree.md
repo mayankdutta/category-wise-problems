@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort bfs
+
 [E. Gardener and Tree](https://codeforces.com/problemset/problem/1593/E), Medium, topological sorting variation. 
 
 #### method 1, level by level traversing

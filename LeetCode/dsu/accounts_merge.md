@@ -1,3 +1,5 @@
+**Tags:** dsu hashmap sorting
+
 [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/), DSU implementation, graph, hard
 
 ### DSU approach

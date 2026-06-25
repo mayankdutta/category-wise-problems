@@ -1,3 +1,5 @@
+**Tags:** dsu flood-fill bfs
+
 [827. Making A Large Island ](https://leetcode.com/problems/making-a-large-island/)
 
 ## BFS

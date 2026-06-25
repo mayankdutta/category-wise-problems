@@ -1,3 +1,5 @@
+**Tags:** prefix-sum hashmap combinatorics
+
 [Count of subarrays having sum equal to its length](https://www.geeksforgeeks.org/count-of-subarrays-having-sum-equal-to-its-length/)
 
 [similar to](/LeetCode/prefix/make_sum_divisible.md)

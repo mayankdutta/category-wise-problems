@@ -1,3 +1,5 @@
+**Tags:** tree dfs
+
 [100. Same Tree](https://leetcode.com/problems/same-tree/), Easy 
 
 - again dfs concept same as of depth of the tree was used. 

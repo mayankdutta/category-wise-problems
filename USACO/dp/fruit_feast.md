@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack grid-dp
+
 [Fruit Feast](http://www.usaco.org/index.php?page=viewproblem2&cpid=574), Medium
 
 - Base on the variant of `coin change`.

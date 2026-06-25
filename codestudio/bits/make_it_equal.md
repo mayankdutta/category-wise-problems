@@ -1,3 +1,5 @@
+**Tags:** bit-manipulation brute-force
+
 [Make it equal](https://www.codingninjas.com/codestudio/contests/love-babbar-contest-3/problems/16572?leftPanelTab=0&utm_source=pocket_mylist), Medium
 
 - greedy type problem

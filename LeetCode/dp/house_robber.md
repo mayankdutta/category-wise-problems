@@ -1,3 +1,5 @@
+**Tags:** dp fibonacci-dp
+
 [198. House Robber ](https://leetcode.com/problems/house-robber/)
 
 ### map to approach the problem

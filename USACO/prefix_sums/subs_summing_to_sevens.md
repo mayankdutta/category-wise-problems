@@ -1,3 +1,5 @@
+**Tags:** prefix-sum hashmap modular-arithmetic
+
 [Subsequences Summing to Sevens](http://www.usaco.org/index.php?page=viewproblem2&cpid=595), Medium
 
 - Imp things.

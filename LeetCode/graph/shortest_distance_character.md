@@ -1,3 +1,5 @@
+**Tags:** graph multisource-bfs two-pointers
+
 [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/), BFS, implementation
 
 #### multisource bfs

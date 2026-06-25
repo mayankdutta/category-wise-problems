@@ -1,3 +1,5 @@
+**Tags:** number-theory hashmap combinatorics
+
 [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
 
 - store the diff b/w new and old nos.

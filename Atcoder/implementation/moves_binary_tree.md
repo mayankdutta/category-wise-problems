@@ -1,3 +1,5 @@
+**Tags:** stack constructive
+
 [D - Moves on Binary Tree ](https://atcoder.jp/contests/abc243/tasks/abc243_d)
 
 ```java

@@ -1,3 +1,5 @@
+**Tags:** graph dijkstra binary-search-on-answer
+
 [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/), implementation, djikstra, BFS, binary search
 
 #### Binary search on the answer 

@@ -1,3 +1,5 @@
+**Tags:** implementation hashmap sorting
+
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 #### method 1

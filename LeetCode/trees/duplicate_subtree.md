@@ -1,3 +1,5 @@
+**Tags:** tree dfs hashmap
+
 [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 ##### Based upon the Post order traversal AND serialize deserialize, HOW? 

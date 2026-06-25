@@ -1,3 +1,5 @@
+**Tags:** stack sliding-window monotonic-deque
+
 [First negative integer in every window of size k] (https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/)
 
 [monotonic deque](/LeetCode/2p/sliding_window_maximum.md)

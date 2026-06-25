@@ -1,3 +1,5 @@
+**Tags:** dp lcs
+
 [1143. Longest Common Subsequence ](https://leetcode.com/problems/longest-common-subsequence/), Easy, classic dp
  - Given two string, we are required to find the longest Common subsequence.
  - Approach

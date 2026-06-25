@@ -1,3 +1,5 @@
+**Tags:** dsu dfs
+
 [Neighbours](https://atcoder.jp/contests/abc231/tasks/abc231_d), Medium
 
 - On analyzing we will find out that 

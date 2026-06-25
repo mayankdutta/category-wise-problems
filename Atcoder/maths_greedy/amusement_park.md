@@ -1,3 +1,5 @@
+**Tags:** greedy sorting constructive
+
 [E - Amusement Park ](https://atcoder.jp/contests/abc216/tasks/abc216_e)
 
 - Straight fwd problem if done simpler one.

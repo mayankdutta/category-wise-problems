@@ -1,3 +1,5 @@
+**Tags:** dp knapsack
+
 ### [Book shop](https://cses.fi/problemset/task/1158)
 
 Classic problem, easy

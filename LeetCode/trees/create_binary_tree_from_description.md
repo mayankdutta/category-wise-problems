@@ -1,3 +1,5 @@
+**Tags:** implementation hashmap
+
 [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
 
 - Question was to how to orgaise data in more usable way.

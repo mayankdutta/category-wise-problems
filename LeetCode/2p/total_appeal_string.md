@@ -1,3 +1,5 @@
+**Tags:** math combinatorics
+
 [2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)
 
 - we will count the contribution of each character, present in the string.

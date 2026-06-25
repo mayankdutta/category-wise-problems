@@ -1,3 +1,5 @@
+**Tags:** implementation sorting custom-comparator
+
 [1387. Sort Integers by The Power Value ](https://leetcode.com/problems/sort-integers-by-the-power-value/?utm_source=pocket_mylist)
 
 - brute kind of problem

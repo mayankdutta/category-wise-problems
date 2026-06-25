@@ -1,3 +1,5 @@
+**Tags:** prefix-sum hashmap sliding-window
+
 [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
 
 ### method 1, fast

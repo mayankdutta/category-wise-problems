@@ -1,3 +1,5 @@
+**Tags:** implementation brute-force
+
 [C. Kill the Monster](https://codeforces.com/contest/1633/problem/C)
 
 - amazing approach

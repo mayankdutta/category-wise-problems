@@ -1,3 +1,5 @@
+**Tags:** prefix-sum binary-search sorting
+
 [Number of subarrays having absolute sum greater than K ](https://www.geeksforgeeks.org/number-of-subarrays-having-absolute-sum-greater-than-k-set-2/)
 
 ###### similar to [1590. Make Sum Divisible by P ](/LeetCode/prefix/make_sum_divisible.md) and [Count of subarrays having sum equal to its length](/GeeksForGeeks/prefix/subarrays_sum_equals_length.md)

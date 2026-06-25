@@ -1,3 +1,5 @@
+**Tags:** dp knapsack grid-dp
+
 [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=694), Easy
 
 - Variant of 01 knapsack.

@@ -1,3 +1,5 @@
+**Tags:** graph dijkstra shortest-path
+
 [C. Dijkstra?](https://codeforces.com/problemset/problem/20/C), Easy
 
 - no tricks just plain implementation.

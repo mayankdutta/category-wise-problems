@@ -1,3 +1,5 @@
+**Tags:** stack monotonic-stack prefix-sum
+
 [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 
 [refer to notes please](/notes/stacks/README.md)

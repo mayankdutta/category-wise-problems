@@ -65,7 +65,9 @@ tags are lowercase and hyphenated; never invent synonyms (`shortest-path`, not
 `Shortest Paths`).
 
 Pick **one Tier-1 category** (it usually matches the directory) plus **1–3 Tier-2
-tags** for the specific techniques used.
+tags** for the specific techniques used. A Tier-1 category word may also be used
+as a secondary tag when a problem leans on that area as a secondary technique
+(e.g. `prefix-sum heap`, `graph dp`).
 
 ```text
 **Tags:** dp knapsack state-compression
@@ -92,12 +94,13 @@ implementation      range-queries       geometry     math
 constructive  brute-force  divide-and-conquer  two-pointers
 sliding-window  binary-search-on-answer  backtracking
 meet-in-the-middle  ternary-search  interactive  game-theory
-offline-queries
+offline-queries  fast-slow-pointers  boyer-moore-voting  inversion-count
 
 # dynamic programming
 knapsack  unbounded-knapsack  lis  grid-dp  fibonacci-dp  tree-dp
 state-compression  interval-dp  digit-dp  bitmask-dp  probability-dp
 lcs  edit-distance  kadane  dp-optimization
+counting-dp  subset-sum  linear-dp
 
 # graphs
 bfs  dfs  flood-fill  topological-sort  dijkstra  01-bfs
@@ -105,11 +108,12 @@ multisource-bfs  mst  shortest-path  bellman-ford  floyd-warshall
 scc  bridges-articulation  2-sat  bipartite  eulerian-path
 functional-graph  max-flow  bipartite-matching  lca  binary-lifting
 euler-tour  heavy-light-decomposition  centroid-decomposition
+dag-dp  tree-traversal  morris-traversal
 
 # data structures
 monotonic-stack  monotonic-deque  hashmap  two-sum  difference-array
 segment-tree  fenwick-tree  sparse-table  sqrt-decomposition
-mos-algorithm  ordered-set
+mos-algorithm  ordered-set  top-k
 
 # strings
 string-hashing  kmp  z-function  suffix-array  aho-corasick  manacher
@@ -117,7 +121,7 @@ string-hashing  kmp  z-function  suffix-array  aho-corasick  manacher
 # math / number theory
 gcd-lcm  modular-arithmetic  sieve  catalan  combinatorics
 binomial-coefficients  inclusion-exclusion  modular-inverse  crt
-binary-exponentiation  matrix-exponentiation  fft
+binary-exponentiation  matrix-exponentiation  fft  factorization
 
 # sorting / geometry / misc
 sorting  coordinate-compression  custom-comparator

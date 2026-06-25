@@ -1,3 +1,5 @@
+**Tags:** strings constructive hashmap
+
 [E. Polycarp and String Transformation](https://codeforces.com/contest/1560/problem/E), Medium, Observation question
 
 - We just have to figure out the way by which given string is formed.

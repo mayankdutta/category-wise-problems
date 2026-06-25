@@ -1,3 +1,5 @@
+**Tags:** graph bfs shortest-path
+
 [C. King's Path](https://codeforces.com/contest/242/problem/C), Easy
 
 - question similar to the Leetcode question - Word Ladder.

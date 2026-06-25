@@ -1,3 +1,5 @@
+**Tags:** dp interval-dp
+
 [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 
 this is a problem where Dynamic programming can be used because we are asked for the minimum of something, and deciding how many jobs to do on a given day affects the jobs we can do on all future days.

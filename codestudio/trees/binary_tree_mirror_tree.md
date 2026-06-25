@@ -1,3 +1,5 @@
+**Tags:** tree dfs
+
 [Convert binary tree to mirror tree](https://www.codingninjas.com/codestudio/problems/convert-binary-tree-to-mirror-tree_873140?topList=top-trees-interview-questions&leftPanelTab=0)
 
 - you need to swap.

@@ -1,3 +1,5 @@
+**Tags:** intervals sorting greedy
+
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - kind of opposite approach of [non overlapping Intervals](/LeetCode/greedy/merge_intervals.md)

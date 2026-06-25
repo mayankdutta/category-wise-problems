@@ -1,3 +1,5 @@
+**Tags:** graph dijkstra floyd-warshall
+
 ##  Dijkstra algorithm / Floyd warshall
 [Network Delay Time](https://leetcode.com/problems/network-delay-time/), Medium
  - Things I learnt

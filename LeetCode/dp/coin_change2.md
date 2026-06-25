@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack counting-dp
+
 [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)
 
 [pre requisite](/notes/dp/counting_dp.md)

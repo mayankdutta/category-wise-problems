@@ -1,3 +1,5 @@
+**Tags:** bst dfs prefix-sum
+
 [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
 
 - relate it to the concepts of constructing a BST from inorder and preorder.

@@ -1,3 +1,5 @@
+**Tags:** dp state-compression
+
 [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
 [pre requisite](/notes/dp/state_transition_by_inaction.md)

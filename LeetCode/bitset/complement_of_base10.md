@@ -1,3 +1,5 @@
+**Tags:** bit-manipulation constructive
+
 [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 
 - idea is to take all the bits and XOR them.

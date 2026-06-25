@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack
+
 [Minimizing Coins](https://cses.fi/problemset/task/1634/), Foundational, Knapsack.
 
 - given the no.s of coins and an amount.

@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort bfs dag-dp
+
 [Longest Flight Route](https://cses.fi/problemset/task/1680), Medium, Pre Requisites - Topological Sorting (Kahn's Algorithm)
 
 ##### Approach

@@ -1,3 +1,5 @@
+**Tags:** dp fibonacci-dp
+
 [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/), medium, fibonacci type
 
 - pick up a notebook

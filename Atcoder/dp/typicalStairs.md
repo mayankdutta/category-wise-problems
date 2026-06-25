@@ -1,3 +1,5 @@
+**Tags:** dp fibonacci-dp
+
 # Fibonacci type
 
 [C - Typical stairs](https://atcoder.jp/contests/abc129/tasks/abc129_c), Easy, 1D DP

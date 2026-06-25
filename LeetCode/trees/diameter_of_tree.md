@@ -1,3 +1,5 @@
+**Tags:** tree dfs tree-dp
+
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 - diameter of the tree is the largest distance b/w any two nodes of the tree. 

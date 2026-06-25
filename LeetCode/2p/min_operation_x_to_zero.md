@@ -1,3 +1,5 @@
+**Tags:** implementation sliding-window two-pointers
+
 [1658. Minimum Operations to Reduce X to Zero ](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
 - We only allowed to delete from beginning and the end.

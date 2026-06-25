@@ -1,3 +1,5 @@
+**Tags:** tree dfs
+
 [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
 
 - as we keep noticing the target, we make them null _(starting from leaf)_

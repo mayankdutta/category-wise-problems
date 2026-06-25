@@ -1,3 +1,5 @@
+**Tags:** dp catalan combinatorics interval-dp
+
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 
 ### Permutation and combination

@@ -1,3 +1,5 @@
+**Tags:** intervals greedy sorting
+
 [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
 - sorted as per the ending one.

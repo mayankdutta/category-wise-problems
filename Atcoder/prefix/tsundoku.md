@@ -1,3 +1,5 @@
+**Tags:** prefix-sum binary-search two-pointers
+
 [C - Tsundoku](https://atcoder.jp/contests/abc172/tasks/abc172_c), binary search, prefix sums
 
 - problem statements are really simple, like most of AC problems, unlike problem itself.

@@ -1,3 +1,5 @@
+**Tags:** strings brute-force
+
 [B - Caesar Cipher](https://atcoder.jp/contests/abc232/tasks/abc232_b), easy, string, implementation
 
 - problem was of implementation type, no such approach to write.

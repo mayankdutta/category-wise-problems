@@ -1,3 +1,5 @@
+**Tags:** dp grid-dp
+
 [Maximal square](https://leetcode.com/problems/maximal-square/)
 
 ###### Brute

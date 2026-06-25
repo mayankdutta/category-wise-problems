@@ -1,3 +1,5 @@
+**Tags:** dp knapsack subset-sum
+
 [Money sums](https://cses.fi/problemset/task/1745/), Base on 01 Knapsack
 
 - 0-1 Knapsack variant

@@ -1,3 +1,5 @@
+**Tags:** dp state-compression modular-arithmetic counting-dp
+
 [D - FG Operation](https://atcoder.jp/contests/abc220/tasks/abc220_d), Dynamic programming, Coin change type
 
 Approach.

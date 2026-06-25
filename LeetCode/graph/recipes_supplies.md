@@ -1,3 +1,5 @@
+**Tags:** graph topological-sort bfs
+
 [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/), topological sorting, medium, implementation
 
 - reading it out and understanding was the real pain in ....

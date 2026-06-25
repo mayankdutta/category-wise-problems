@@ -1,3 +1,5 @@
+**Tags:** implementation sliding-window two-pointers
+
 [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/), Medium, 2 pointers
 
 ### The atmost method

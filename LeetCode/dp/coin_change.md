@@ -1,3 +1,5 @@
+**Tags:** dp unbounded-knapsack
+
 [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
 - unbounded knapsack type problem

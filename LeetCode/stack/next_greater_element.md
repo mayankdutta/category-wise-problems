@@ -1,3 +1,5 @@
+**Tags:** stack monotonic-stack
+
 [ 503. Next Greater Element II ] ( https://leetcode.com/problems/next-greater-element-ii/ )
 
 refer to [notes](/notes/stacks/)

@@ -1,3 +1,5 @@
+**Tags:** graph flood-fill bfs
+
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 ## BFS

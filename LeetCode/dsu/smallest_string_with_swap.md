@@ -1,3 +1,5 @@
+**Tags:** dsu sorting
+
 [1202. Smallest string with swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
 
 - main point was implementation.

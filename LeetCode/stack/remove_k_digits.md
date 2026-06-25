@@ -1,3 +1,5 @@
+**Tags:** stack monotonic-stack greedy
+
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 
 [refer to notes please](/notes/stacks/README.md)

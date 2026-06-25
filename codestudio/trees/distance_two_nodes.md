@@ -1,3 +1,5 @@
+**Tags:** tree lca dfs
+
 [Distance between two nodes of a Tree](https://www.codingninjas.com/codestudio/problems/distance-between-two-nodes-of-a-tree_800303?topList=top-trees-interview-questions)
 
 ### binary tree specific method

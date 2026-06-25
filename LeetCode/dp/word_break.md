@@ -1,3 +1,5 @@
+**Tags:** dp grid-dp linear-dp
+
 [139. Word Break](https://leetcode.com/problems/word-break/)
 
 > A good way to check if a problem should be solved with DP or greedy is to first assume that it can be solved greedily, then try to think of a counterexample.

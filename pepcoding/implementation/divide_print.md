@@ -1,3 +1,5 @@
+**Tags:** implementation two-pointers
+
 [Divide and print](https://www.codingninjas.com/codestudio/contests/codestudio-weekend-contest-5/problems/15192?leftPanelTab=0)
 
 - it was a basic problem.

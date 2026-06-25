@@ -1,3 +1,5 @@
+**Tags:** graph dijkstra shortest-path
+
 [Flight discount](https://cses.fi/problemset/task/1195/), Medium, modified Djikstra
 
 #### Approach

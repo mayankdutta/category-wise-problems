@@ -1,3 +1,5 @@
+**Tags:** prefix-sum difference-array sweep-line
+
 [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
 
 - just compute the net passenger on the boat on each day.

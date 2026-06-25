@@ -1,3 +1,5 @@
+**Tags:** implementation divide-and-conquer
+
 [Thanos Sort](https://codeforces.com/group/yg7WhsFsAp/contest/355494/problem/P33)
 
 - statement is fairly simple

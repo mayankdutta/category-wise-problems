@@ -1,3 +1,5 @@
+**Tags:** linked-list hashmap
+
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 - make sure to make dummy node for `head` and `tail`.

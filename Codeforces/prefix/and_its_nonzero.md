@@ -1,3 +1,5 @@
+**Tags:** prefix-sum bit-manipulation brute-force
+
 [B. And It's Non-Zero](https://codeforces.com/contest/1615/problem/B), bitwise, prefix sums
 
 - we will count the no. of zeros we will be getting at every bit.

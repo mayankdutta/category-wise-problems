@@ -1,3 +1,5 @@
+**Tags:** linked-list constructive
+
 [D - LR insertion ](https://atcoder.jp/contests/abc237/tasks/abc237_d)
 
 ##### Doubly linked list implementation

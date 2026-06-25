@@ -1,3 +1,5 @@
+**Tags:** implementation brute-force
+
 [P39. Vitamins](https://codeforces.com/group/yg7WhsFsAp/contest/355496/problem/P39)
 
 - problem was pretty simple to understand.

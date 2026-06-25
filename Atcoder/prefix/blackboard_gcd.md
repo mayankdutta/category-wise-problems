@@ -1,3 +1,5 @@
+**Tags:** prefix-sum gcd-lcm
+
 [Blackboard GCD](https://atcoder.jp/contests/abc125/tasks/abc125_c)
 
 #### Slight description.

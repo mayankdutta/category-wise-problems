@@ -1,3 +1,5 @@
+**Tags:** heap constructive
+
 [ 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
 - just see what we can do

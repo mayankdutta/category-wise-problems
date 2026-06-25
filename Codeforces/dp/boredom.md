@@ -1,3 +1,5 @@
+**Tags:** dp fibonacci-dp
+
 ## 1 state, dp, Fibonacci type
 
 [A. Boredom ](https://codeforces.com/contest/455/problem/A), Easy

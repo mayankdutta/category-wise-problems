@@ -1,3 +1,5 @@
+**Tags:** greedy sorting
+
 [C - Linear Approximation](https://atcoder.jp/contests/abc102/tasks/arc100_a)
 
 - Define Bi = Ai−i.

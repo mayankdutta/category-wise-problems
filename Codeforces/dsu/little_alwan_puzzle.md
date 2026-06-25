@@ -1,3 +1,5 @@
+**Tags:** graph dfs combinatorics
+
 [Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C),
 
 - A combinatorics problem that uses DFS.

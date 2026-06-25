@@ -1,3 +1,5 @@
+**Tags:** tree dfs
+
 [559. Maximum Depth of N-ary Tree] (https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 
 - very similar to [Depth of binary tree](/leetcode/trees/depth_of_binarytree.md)

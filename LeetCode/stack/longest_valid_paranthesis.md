@@ -1,3 +1,5 @@
+**Tags:** stack monotonic-stack constructive
+
 [32. Longest Valid Parentheses ](https://leetcode.com/problems/longest-valid-parentheses/), Classical, medium
 
 - Storing index instead of characters really a good way.

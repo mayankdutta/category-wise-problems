@@ -1,3 +1,5 @@
+**Tags:** tree dfs lca
+
 [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 - if we encounter any of the `p`, `q` or `nullptr`, we will immediately return root.
