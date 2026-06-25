@@ -23,10 +23,10 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [1835. Find XOR Sum of All Pairs Bitwise AND](/LeetCode/bitset/xor_sum_all_pairs_biwise_and.md)
 - [461. Hamming Distance](/LeetCode/bitset/hammeringDistance.md)
 - [477. Total Hamming Distance](/LeetCode/bitset/totalHammeringDistance.md)
+- [All Unique Characters in a String](/notes/dp/iterative_visualization.md)
 - [B. And It's Non-Zero](/Codeforces/prefix/and_its_nonzero.md)
 - [Make it equal](/codestudio/bits/make_it_equal.md)
 - [Multiple Length](/codestudio/number_theory/multiple_length.md)
-- [i](/notes/dp/iterative_visualization.md)
 
 ### `bst` (7)
 
@@ -78,6 +78,7 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [96. Unique Binary Search Trees](/LeetCode/bst/unique_bst.md)
 - [A. Boredom](/Codeforces/dp/boredom.md)
 - [Atcoder DP Series](/Atcoder/dp_series.md)
+- [Best time to sell the stocks I](/LeetCode/dp/best_time_to_sell_stock.md)
 - [Book shop](/CSES/dp/book_shop.md)
 - [C - Typical stairs](/Atcoder/dp/typicalStairs.md)
 - [C. Constanze's Machine](/Codeforces/dp/Constanze_Machine.md)
@@ -98,7 +99,6 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [Money sums](/CSES/dp/money_sums.md)
 - [Removing Digits](/CSES/dp/removing_digits.md)
 - [Two Sets II](/CSES/dp/two_sets2.md)
-- [i + 1](/LeetCode/dp/best_time_to_sell_stock.md)
 
 ### `dsu` (11)
 
@@ -108,11 +108,11 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [827. Making A Large Island](/LeetCode/dsu/making_large_island.md)
 - [947. Most Stones Removed with Same Row or Column](/LeetCode/graph/remove_stones_same_row_col.md)
 - [952. Largest Component Size by Common Factor](/LeetCode/dsu/largest_component_common_factor.md)
+- [DSU](/templates/dsu.md)
 - [E - Graph Destruction](/Atcoder/dsu/graphDestruction.md)
 - [E. Replace the Numbers](/Codeforces/graphs/replace_the_numbers.md)
 - [Experience](/Codeforces/edu.md)
 - [Neighbours](/Atcoder/graph/neighbours.md)
-- [i](/templates/dsu.md)
 
 ### `graph` (29)
 
@@ -161,11 +161,11 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [871. Minimum Number of Refueling Stops](/LeetCode/heaps/min_number_refueling_stops.md)
 - [942. DI String Match](/LeetCode/greedy/DI_string_match.md)
 - [Apartments](/CSES/searching_and_sorting/apartments.md)
+- [Best time to sell the stocks I](/LeetCode/dp/best_time_to_sell_stock.md)
 - [C - Linear Approximation](/Atcoder/searching_sorting/linear_approx.md)
 - [E - Amusement Park](/Atcoder/maths_greedy/amusement_park.md)
 - [Partition String](/binary_search/implementation/partition_string.md)
 - [Potions](/Codeforces/greedy/potions.md)
-- [i + 1](/LeetCode/dp/best_time_to_sell_stock.md)
 
 ### `heap` (7)
 
@@ -246,7 +246,7 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [Max GCD 2](/Atcoder/number_theory/max_gcd2.md)
 - [Max GCD Pair](/codestudio/number_theory/max_gcd_pair.md)
 - [Multiple Length](/codestudio/number_theory/multiple_length.md)
-- [robbery](/pepcoding/number_theory/robbery.md)
+- [Problem statement](/pepcoding/number_theory/robbery.md)
 
 ### `prefix-sum` (22)
 
@@ -320,13 +320,13 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [543. Diameter of Binary Tree](/LeetCode/trees/diameter_of_tree.md)
 - [559. Maximum Depth of N-ary Tree](/LeetCode/trees/max_depth_n_ary_tree.md)
 - [563. Binary Tree Tilt](/LeetCode/trees/binary_tree_tilt.md)
-- [6](/templates/Binary_Lifting.md)
 - [652. Find Duplicate Subtrees](/LeetCode/trees/duplicate_subtree.md)
 - [662. Maximum Width of Binary Tree](/LeetCode/trees/max_width.md)
 - [814. Binary Tree Pruning](/LeetCode/trees/binary_tree_pruning.md)
 - [863. All Nodes Distance K in Binary Tree](/LeetCode/trees/all_nodes_distance_k.md)
 - [94. Binary Tree Inorder Traversal](/LeetCode/trees/inorder.md)
 - [987. Vertical Order Traversal of a Binary Tree](/LeetCode/trees/vertical_order_traversal.md)
+- [Binary Lifting](/templates/Binary_Lifting.md)
 - [Binary tree to DLL](/GeeksForGeeks/trees/bt_to_dll.md)
 - [Convert binary tree to mirror tree](/codestudio/trees/binary_tree_mirror_tree.md)
 - [Delete Leaves With a Given Value](/LeetCode/trees/delete_leaves_with_given_value.md)
@@ -382,7 +382,7 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 
 ### `binary-lifting` (1)
 
-- [6](/templates/Binary_Lifting.md)
+- [Binary Lifting](/templates/Binary_Lifting.md)
 
 ### `binary-search-on-answer` (2)
 
@@ -401,6 +401,7 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [17. Letter Combinations of a Phone Number](/LeetCode/backtracking/letter_combination.md)
 - [2135. Count Words Obtained After Adding a Letter](/LeetCode/binary_search/count_words_after_adding_letter.md)
 - [729. My Calendar I](/LeetCode/greedy/my_calendar1.md)
+- [All Unique Characters in a String](/notes/dp/iterative_visualization.md)
 - [B - Caesar Cipher](/Atcoder/implementation/caesar_cipher.md)
 - [B. And It's Non-Zero](/Codeforces/prefix/and_its_nonzero.md)
 - [C. Kill the Monster](/Codeforces/implementation/kill_the_monsters.md)
@@ -409,7 +410,6 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [E. Replace the Numbers](/Codeforces/graphs/replace_the_numbers.md)
 - [Make it equal](/codestudio/bits/make_it_equal.md)
 - [P39. Vitamins](/Codeforces/implementation/vitamins.md)
-- [i](/notes/dp/iterative_visualization.md)
 
 ### `catalan` (1)
 
@@ -587,7 +587,7 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [Blackboard GCD](/Atcoder/prefix/blackboard_gcd.md)
 - [Max GCD 2](/Atcoder/number_theory/max_gcd2.md)
 - [Max GCD Pair](/codestudio/number_theory/max_gcd_pair.md)
-- [robbery](/pepcoding/number_theory/robbery.md)
+- [Problem statement](/pepcoding/number_theory/robbery.md)
 
 ### `grid-dp` (11)
 
@@ -808,9 +808,9 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [562 - Dividing coins](/uva/dp/dividing_coins.md)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](/LeetCode/dp/best_time_to_buy_sell_fee.md)
 - [Atcoder DP Series](/Atcoder/dp_series.md)
+- [Best time to sell the stocks I](/LeetCode/dp/best_time_to_sell_stock.md)
 - [D - 8 Puzzle on Graph](/Atcoder/graph/8-Puzzle-on-Graph.md)
 - [D - FG Operation](/Atcoder/dp/fg_operation.md)
-- [i + 1](/LeetCode/dp/best_time_to_sell_stock.md)
 
 ### `subset-sum` (5)
 
@@ -900,5 +900,5 @@ _Auto-generated from the `**Tags:**` line of each note (254 tagged files). Do no
 - [Fruit Feast](/USACO/dp/fruit_feast.md)
 - [Knapsack with Duplicate Items](/GeeksForGeeks/dp/knapsack_with_duplicate.md)
 - [Minimizing Coins](/LeetCode/dp/minimizing_coins.md)
+- [Problem statement](/pepcoding/number_theory/robbery.md)
 - [Removing Digits](/CSES/dp/removing_digits.md)
-- [robbery](/pepcoding/number_theory/robbery.md)

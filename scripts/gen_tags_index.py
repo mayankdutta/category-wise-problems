@@ -26,12 +26,25 @@ link_re = re.compile(r'\[([^\]]+)\]')
 
 
 def title_of(path, lines):
-    """First markdown link text after the tags line, else the filename."""
+    """Title for the index, preferring (in order): the first markdown link
+    text outside code fences, then the first heading, then the filename.
+    Code fences are skipped so array indexing like `arr[i]` is never picked.
+    """
+    in_code = False
+    first_heading = None
     for ln in lines[1:]:
+        s = ln.strip()
+        if s.startswith("```"):
+            in_code = not in_code
+            continue
+        if in_code:
+            continue
         m = link_re.search(ln)
         if m:
             return m.group(1).strip()
-    return os.path.splitext(os.path.basename(path))[0]
+        if first_heading is None and s.startswith("#"):
+            first_heading = s.lstrip("#").strip()
+    return first_heading or os.path.splitext(os.path.basename(path))[0]
 
 
 # tag -> list of (title, path)

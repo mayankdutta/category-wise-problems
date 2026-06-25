@@ -1,6 +1,6 @@
 **Tags:** bit-manipulation brute-force
 
-## Question
+## All Unique Characters in a String
 
 ```js
 Check if string has all the unique characters
