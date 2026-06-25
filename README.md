@@ -9,6 +9,9 @@
   - Special Notes if any
   - Similar Questions if Encountered.
 
+> 🏷️ **Browse by technique:** see the [Tag Index](/TAGS.md) — every problem is
+> tagged by pattern (see [tag vocabulary](/CONTRIBUTING.md#tag-vocabulary)).
+
 ![Forks](https://img.shields.io/github/forks/mayankdutta/category-wise-problems?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/mayankdutta/category-wise-problems?color=gold&style=for-the-badge)
 

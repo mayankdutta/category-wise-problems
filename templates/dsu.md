@@ -1,3 +1,5 @@
+**Tags:** dsu
+
 ## DSU 
 1. Make sure to change the size of `parent` and `rank` according to your requirements.
 2. Sometimes you may need to change the style of unionSet.

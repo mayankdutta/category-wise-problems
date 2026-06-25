@@ -1,3 +1,5 @@
+**Tags:** tree binary-lifting
+
 #Binary Lifting
 Find the kth ancestor.
 
